@@ -1,0 +1,514 @@
+wavs/1.wav|Ini imajiner.
+wavs/2.wav|Berarti orang yang nulis.
+wavs/3.wav|Tapi biasanya harus izin.
+wavs/4.wav|Ya saya cuma bisa ngomong.
+wavs/5.wav|Itu bukan saya.
+wavs/6.wav|Ya banyak Pak.
+wavs/7.wav|Berarti imannya.
+wavs/8.wav|Belum kuat.
+wavs/9.wav|Iya Pak.
+wavs/10.wav|Kan kadang-kadang kalau.
+wavs/11.wav|Kalau ngeliat awal.
+wavs/12.wav|Saya kan Cuman.
+wavs/13.wav|Ini kok komedi ini.
+wavs/14.wav|Kayak nggak diperhatikaan.
+wavs/15.wav|Sebenarnya sih hampir semua.
+wavs/16.wav|Kebudayaan atau kesenian.
+wavs/17.wav|Tidak begitu.
+wavs/18.wav|Tapi paling nggak diperhatikan.
+wavs/19.wav|Menurut saya komedi.
+wavs/20.wav|Sampai hari aja nggak ada.
+wavs/21.wav|Ke gedung DPR.
+wavs/22.wav|Tapi tidak diterima.
+wavs/23.wav|Oh ya ok.
+wavs/24.wav|Diterima Pak.
+wavs/25.wav|Saya minta hari.
+wavs/26.wav|Bener Pak.
+wavs/27.wav|Minta hari.
+wavs/28.wav|Hari lahirnya Bing Slamet.
+wavs/29.wav|Iya.
+wavs/30.wav|Legend juga ya.
+wavs/31.wav|Lebih dulu Bing Slamet.
+wavs/32.wav|Memang katanya.
+wavs/33.wav|Pada jaman dulu.
+wavs/34.wav|Kalau saya tanya sama anaknya.
+wavs/35.wav|Pernah dulu ditawarkan.
+wavs/36.wav|Nama gedung kesenian.
+wavs/37.wav|Persatuan seniman komedi.
+wavs/38.wav|Boleh nggak dipakai.
+wavs/39.wav|Yaudah.
+wavs/40.wav|Diterima diterima.
+wavs/41.wav|Tapi kan tetap yang menentukkan.
+wavs/42.wav|Bisa menampung.
+wavs/43.wav|Iya.
+wavs/44.wav|Nah saya pikir kan.
+wavs/45.wav|Saya ada di luar nih Pak.
+wavs/46.wav|Saya bukan orang dalam.
+wavs/47.wav|Komedi.
+wavs/48.wav|Tapi di sana kan.
+wavs/49.wav|Ada gedungnya Pak.
+wavs/50.wav|Bapak mau dengerin.
+wavs/51.wav|Iya sebenarnya justru.
+wavs/52.wav|Negara yang.
+wavs/53.wav|Banyak maju.
+wavs/54.wav|Banyak yang memperhatikan.
+wavs/55.wav|Budayanya sendiri.
+wavs/56.wav|Ya itu tadi nyangkutnya ke budaya Pak.
+wavs/57.wav|Jangan main-main Pak.
+wavs/58.wav|Diri kita sendiri tidak terhibur.
+wavs/59.wav|Hal-hal yang negatif.
+wavs/60.wav|Nah sekarang nggak usah deh minta hiburan.
+wavs/61.wav|Negara bantuin deh Pak.
+wavs/62.wav|Ada dana hibah lah.
+wavs/63.wav|Oh banyak.
+wavs/64.wav|Banyak Pak.
+wavs/65.wav|Paling nggak kan kalau.
+wavs/66.wav|Organisasi kita ada.
+wavs/67.wav|Kucuran dana.
+wavs/68.wav|Kan banyak.
+wavs/69.wav|Ormas aja dapat kucuran ada.
+wavs/70.wav|Kita ngehibur orang lho.
+wavs/71.wav|Bantuin pemerintah.
+wavs/72.wav|Supaya rakyatnya bahagia.
+wavs/73.wav|Rakyatnya bahagia kerjanya juga enak.
+wavs/74.wav|Kan hasilnya juga bagus.
+wavs/75.wav|Paling nggak kan bisa bantuin pemerintah.
+wavs/76.wav|Jadi bayar pajaknya juga lancar Pak.
+wavs/77.wav|Ketua umum kan dia kan.
+wavs/78.wav|Kalau saya cuma pegang.
+wavs/79.wav|Cuman Jawa Barat.
+wavs/80.wav|Terus.
+wavs/81.wav|Waktu itu sempat kerjasama.
+wavs/82.wav|Perumahan.
+wavs/83.wav|Nggak ada.
+wavs/84.wav|Untuk organisasi itu sendiri.
+wavs/85.wav|Tapi kan kita nggak bisa sendiri Pak.
+wavs/86.wav|Maksudnya karena kita menyangkut.
+wavs/87.wav|Iya.
+wavs/88.wav|Iya karena apalagi dia.
+wavs/89.wav|Bertanding di luar.
+wavs/90.wav|Dan mengibarkan bendera.
+wavs/91.wav|Menghargai lho Pak.
+wavs/92.wav|Saya main di luar.
+wavs/93.wav|Honor saya.
+wavs/94.wav|Bisa.
+wavs/95.wav|Lebih besar.
+wavs/96.wav|Pajak.
+wavs/97.wav|Komunitas komedi di sana minta.
+wavs/98.wav|Iya Pak.
+wavs/99.wav|Padahal saya menghibur buat orang kita juga.
+wavs/100.wav|Makanya kalau sekarang nih udah tau nih Pak nih.
+wavs/101.wav|Saya ngomong Pak Dedi.
+wavs/102.wav|Pak.
+wavs/103.wav|Ini kalau bisa.
+wavs/104.wav|Pajak buat komunitas.
+wavs/105.wav|Bapak juga yang bayar.
+wavs/106.wav|Iya Pak ada.
+wavs/107.wav|Berapa persen.
+wavs/108.wav|Saya main di luar tuh.
+wavs/109.wav|Kita bisa kena pasal malah.
+wavs/110.wav|Disangkain.
+wavs/111.wav|Dan gak tau juga apakah dia di sini.
+wavs/112.wav|Misalnya kerja.
+wavs/113.wav|Untung gak dapat Pak ya.
+wavs/114.wav|Awalnya tadinya kan Pak.
+wavs/115.wav|Tapi kan sekarang kalau udah.
+wavs/116.wav|Nyemplung masuk ya.
+wavs/117.wav|Ya gak cuman.
+wavs/118.wav|Komedian aja Pak saya harus.
+wavs/119.wav|Membawa konsep masyarakat.
+wavs/120.wav|Larinya tetep.
+wavs/121.wav|Budaya.
+wavs/122.wav|Seni dan budaya.
+wavs/123.wav|Mau nggak mau.
+wavs/124.wav|Makanya saya nggak bisa meninggalkan.
+wavs/125.wav|Berarti kalau udah ke dunia ini.
+wavs/126.wav|Kalau saya tinggalkan saya tidak bisa ngurusin itu.
+wavs/127.wav|Maksudnya saya tetap ngelawak.
+wavs/128.wav|Nggak tau saya sih kan belum masuk Pak.
+wavs/129.wav|Iya saya ngomong kan begini.
+wavs/130.wav|Kita udah dijajah.
+wavs/131.wav|Orang ada aja yang ngomong.
+wavs/132.wav|Itu kok konsepnya menjajah.
+wavs/133.wav|Ini pengertiannya bukan menjajah.
+wavs/134.wav|Cuman.
+wavs/135.wav|Ngomong udah kenceng banget lagi.
+wavs/136.wav|Maksudnya kan kita bisa.
+wavs/137.wav|Bapak pasti ngerasain.
+wavs/138.wav|Bapak berapa lama dulu.
+wavs/139.wav|Belajar.
+wavs/140.wav|Di Amerika.
+wavs/141.wav|Bapak kalau makan.
+wavs/142.wav|Mau makanan sini.
+wavs/143.wav|Pasti lebih mahal Pak.
+wavs/144.wav|Anak saya kemarin aja.
+wavs/145.wav|Nah itu Pak.
+wavs/146.wav|Sedangkan makanan luar di sini.
+wavs/147.wav|harganye.
+wavs/148.wav|Bisa semua orang membeli.
+wavs/149.wav|Mau yang Korea.
+wavs/150.wav|Padalah kalau dulu enggak.
+wavs/151.wav|Maksud saya.
+wavs/152.wav|Yang ngasih coklatnya tiap hari.
+wavs/153.wav|Lah mampu Pak.
+wavs/154.wav|Berapa orang ngaji di Indonesia.
+wavs/155.wav|Kan katanya kalau.
+wavs/156.wav|Masa otaknya.
+wavs/157.wav|Nggak kalah banyak.
+wavs/158.wav|Itu.
+wavs/159.wav|Jepang katanya habis dibom atom.
+wavs/160.wav|Oke Jepang santai-santai aja tuh Pak.
+wavs/161.wav|Mulai bekerja.
+wavs/162.wav|Tapi di Amerika pada makan sushi semua Pak.
+wavs/163.wav|Apa tuh Jepang gak bales.
+wavs/164.wav|Tuh kan Pak.
+wavs/165.wav|Marah.
+wavs/166.wav|Kebanggaan itu kan bisa di.
+wavs/167.wav|Bapak bangga.
+wavs/168.wav|Punya anak.
+wavs/169.wav|Gini-gini.
+wavs/170.wav|Bapak harus bisa manfaatin.
+wavs/171.wav|Makanya saya dari luar mulu nggak bisa.
+wavs/172.wav|Apakah.
+wavs/173.wav|Perlu di dalam nih?
+wavs/174.wav|Saya gitu maksudnya Pak.
+wavs/175.wav|Orang.
+wavs/176.wav|Kesadaran memang.
+wavs/177.wav|Dari masyarakat.
+wavs/178.wav|Harusnya pemerintah bisa menyadarkan warganya.
+wavs/179.wav|Mungkin kali Pak ya.
+wavs/180.wav|Dari kita-kita sih udah.
+wavs/181.wav|Dari komunitas-komunitas.
+wavs/182.wav|Komedi suka bicara tentang itu.
+wavs/183.wav|Tapi tetep.
+wavs/184.wav|Yang lebih.
+wavs/185.wav|Iya dari pemerintah mungkin yang harus.
+wavs/186.wav|Belum pernah merasakan jadi orang pemerintah Pak.
+wavs/187.wav|Saya pernah menanyakan itu Pak.
+wavs/188.wav|Pak Sandiaga Uno.
+wavs/189.wav|Yang soal makanan Pak.
+wavs/190.wav|Waktu itu saya.
+wavs/191.wav|Anak saya makan ayam geprek.
+wavs/192.wav|Lima ratus ribu.
+wavs/193.wav|Pakai apa-apa.
+wavs/194.wav|Kenapa bisa begitu.
+wavs/195.wav|Saya bilang.
+wavs/196.wav|Kok makanan di sini.
+wavs/197.wav|Dua puluh lima ribu.
+wavs/198.wav|Pelawak Jawa Barat.
+wavs/199.wav|Saya gak di sini Pak.
+wavs/200.wav|Di kantor Bapak.
+wavs/201.wav|Kenyang tuh Pak tuh.
+wavs/202.wav|Enggak ngomongin.
+wavs/203.wav|Katanya.
+wavs/204.wav|Itu.
+wavs/205.wav|Nah itu maksudnya.
+wavs/206.wav|Pajaknya bisa dikurangin Pak.
+wavs/207.wav|Mahal karena.
+wavs/208.wav|Kena pajak.
+wavs/209.wav|Dari, dari, dari Indonesia gua kesana nih Pak nih.
+wavs/210.wav|Enggak.
+wavs/211.wav|Bapak nih jualan.
+wavs/212.wav|Saya bawa.
+wavs/213.wav|Kena.
+wavs/214.wav|Mahal banget.
+wavs/215.wav|Nggak sederhana Pak.
+wavs/216.wav|Ini nggak masakan Padang aja.
+wavs/217.wav|Bisa.
+wavs/218.wav|Iya.
+wavs/219.wav|Jadi akhirnya.
+wavs/220.wav|Kita berpikiran buruk loh Pak.
+wavs/221.wav|Berpikiran buruk sama yang jaga.
+wavs/222.wav|Depan nih.
+wavs/223.wav|Kok bisa murah.
+wavs/224.wav|Nggak tahu hubungannya dengan.
+wavs/225.wav|Mereka-mereka.
+wavs/226.wav|Katanya kalau ditanyain.
+wavs/227.wav|Ini menteri.
+wavs/228.wav|Kementeriannya harus ada pembicaraan nih katanya.
+wavs/229.wav|Nah terus.
+wavs/230.wav|Berarti belum ada.
+wavs/231.wav|Pembicaraan selama ini.
+wavs/232.wav|Dengan.
+wavs/233.wav|Antar kemeterian itu.
+wavs/234.wav|Tapi makanannya dia di sini murah.
+wavs/235.wav|Saya mau jual apel nih ke tetangga Bapak.
+wavs/236.wav|Lewat Bapak nih.
+wavs/237.wav|Tapi tetangga Bapak.
+wavs/238.wav|Punya apel juga.
+wavs/239.wav|Yang saya nggak bisa dijualin ke sono.
+wavs/240.wav|Bapak malah nerima apel.
+wavs/241.wav|Itu gimana Pak ya.
+wavs/242.wav|Enggak Indonesia lagi kan.
+wavs/243.wav|Balik ke sono.
+wavs/244.wav|Balik lagi ke sini.
+wavs/245.wav|Iya betul.
+wavs/246.wav|Iya.
+wavs/247.wav|Iya bener.
+wavs/248.wav|Pake luar.
+wavs/249.wav|Akhirnya kita bisa.
+wavs/250.wav|Kita biasanya bisa dapat tuh Pak.
+wavs/251.wav|Korupsi itu.
+wavs/252.wav|Saya sih makanya milih.
+wavs/253.wav|DPD Pak.
+wavs/254.wav|Ya namanya orang mah ya.
+wavs/255.wav|Banyak sih yang sekarang.
+wavs/256.wav|Maksudnya yang dulu Pak ya.
+wavs/257.wav|Kayak gitu kan Pak ya.
+wavs/258.wav|Terus.
+wavs/259.wav|Makanya saya pilih DPD.
+wavs/260.wav|Nggak ada.
+wavs/261.wav|Masih bingung begini nih Pak nih.
+wavs/262.wav|Bapak.
+wavs/263.wav|Gubernur deh.
+wavs/264.wav|Jalanan rusak.
+wavs/265.wav|Bapak mau betulin.
+wavs/266.wav|Minta anggaran.
+wavs/267.wav|Yang nurunin DPRD.
+wavs/268.wav|Enggak diturunin.
+wavs/269.wav|Turunin dong kata Bapak gitu kan.
+wavs/270.wav|Eh gua kasih uang rokok nih.
+wavs/271.wav|Eh turunin dulu Pak.
+wavs/272.wav|Bapak bangun tuh jalan.
+wavs/273.wav|Bapak kena.
+wavs/274.wav|Itu gimana tuh Pak tuh.
+wavs/275.wav|Biar rakyatnya.
+wavs/276.wav|Senang jalanan nggak terganggu.
+wavs/277.wav|Kalau transportasi bagus kan Pak.
+wavs/278.wav|Dia mau jual beli mau apapun.
+wavs/279.wav|Iya baik.
+wavs/280.wav|ya kenak dong Bapak kan.
+wavs/281.wav|Ya kan.
+wavs/282.wav|Bapak menyuap.
+wavs/283.wav|Pakai sendok lagi.
+wavs/284.wav|Itu kan yang jadi masalah.
+wavs/285.wav|Sebelah katanya di penjara.
+wavs/286.wav|Karena melakukn baik.
+wavs/287.wav|Yang sistem jama'ah itu.
+wavs/288.wav|Bapak tadi nanya sama saya.
+wavs/289.wav|Ya sekarang.
+wavs/290.wav|Yang atau mungkin takutnya yang bener.
+wavs/291.wav|Kawan saya nih Pak nih.
+wavs/292.wav|Diky Chandra.
+wavs/293.wav|Ya kan Pak.
+wavs/294.wav|Bapak kenal tuh dulu Wagub.
+wavs/295.wav|Nelayan tiba-tiba.
+wavs/296.wav|Saya kan suka ke sana tuh.
+wavs/297.wav|Pengen belajar.
+wavs/298.wav|Perahunya rusak.
+wavs/299.wav|Anggaran ada untuk memperbaiki.
+wavs/300.wav|Tapi kan lama kan Pak.
+wavs/301.wav|Pakai uang pribadi.
+wavs/302.wav|Oh seneng.
+wavs/303.wav|Akhirnya sampai berhenti Pak habis Pak.
+wavs/304.wav|Rumahnya.
+wavs/305.wav|Kemarin terakhir yaudah.
+wavs/306.wav|Sampai terakhir tuh.
+wavs/307.wav|Mobil pun mobil plat merah.
+wavs/308.wav|Diantar kerumahnya terus.
+wavs/309.wav|Diambil lagi sama negara kan udah.
+wavs/310.wav|Sebenarnya dia pengen belain rakyat tuh Pak.
+wavs/311.wav|Itu pakai uang pribadi akhirnya.
+wavs/312.wav|Negara sih ada kan.
+wavs/313.wav|Cuman kan.
+wavs/314.wav|Saya nggak ngerti jug tuh Pak.
+wavs/315.wav|Terus.
+wavs/316.wav|Katanya.
+wavs/317.wav|Kayak sein dan budaya tuh.
+wavs/318.wav|Ada tuh dananya Pak.
+wavs/319.wav|Bikin event bikin apa.
+wavs/320.wav|Tapi nggak tahu tuh caranya.
+wavs/321.wav|Minta ama Dinas.
+wavs/322.wav|Kebudayaannya apa ama.
+wavs/323.wav|Apanya tuh.
+wavs/324.wav|Jadi.
+wavs/325.wav|Komunitas yang tadi.
+wavs/326.wav|Bapak tanyain tuh.
+wavs/327.wav|Komedi sebenarnya ada juga tuh.
+wavs/328.wav|Katanya bisa gitu.
+wavs/329.wav|Enggak tahunan tapi.
+wavs/330.wav|Iya katanya bisa minta tuh.
+wavs/331.wav|Kayak di kayak.
+wavs/333.wav|Organisasi kepemudaan tuh.
+wavs/333.wav|Ada tuh di dinas.
+wavs/334.wav|Dispora tuh kan.
+wavs/335.wav|Di setiap Kabupaten.
+wavs/336.wav|DPRD Jawa Barat.
+wavs/337.wav|Riki waktu itu.
+wavs/338.wav|Bisa katanya.
+wavs/339.wav|Kayak PASKI Jawa Barat, waktu itu kan saya masih di Jawa Barat.
+wavs/340.wav|Tapi musti diomongin dulu ama DPRDNnya.
+wavs/341.wav|Sebearnya ada dana untuk.
+wavs/342.wav|Kebudayaan dana untuk seni.
+wavs/343.wav|Ada lho Pak sebenarnya.
+wavs/344.wav|Berarti kan sebenarnya pemerintah tuh.
+wavs/345.wav|Iya kalau yang itu.
+wavs/346.wav|Kan udah kedengaran kayak Dana BOS katanya kan.
+wavs/347.wav|Nyampe di sekolahan.
+wavs/348.wav|Guru-guru akhirnya dapat segini.
+wavs/349.wav|Tuh kan ke situ tuh Pak.
+wavs/350.wav|Kepala sekolah tuh Pak tuh.
+wavs/351.wav|Dapat tu turun turun turun turun lah.
+wavs/352.wav|Gimana mau rapihin sekolahan nih.
+wavs/353.wav|Cuman segini.
+wavs/354.wav|Kalau tadi Bapak ngomong potong-potong yak.
+wavs/355.wav|Kalau bicara itu.
+wavs/356.wav|Tapi saya katanya.
+wavs/357.wav|Mungkin.
+wavs/358.wav|DPRD itu mengusahakan.
+wavs/359.wav|Mengusahakan.
+wavs/360.wav|Dana hibah mungkin yak kalau memang nanti di.
+wavs/361.wav|Dan tidak me menutup kemungkinan dari pihak kita juga ada yang salah Pak.
+wavs/362.wav|Di Jawa Timur.
+wavs/363.wav|PASKI Jawa Timur.
+wavs/364.wav|Itu Bermasalah.
+wavs/365.wav|Selalu dapat dana dari.
+wavs/366.wav|Dari dinas.
+wavs/367.wav|Tidak pernah dilakukan untuk.
+wavs/368.wav|Kepentingan pribadi.
+wavs/369.wav|Yang salah nih.
+wavs/370.wav|Bener tuh Pak tuh.
+wavs/371.wav|Sampai waktu itu menanyakan.
+wavs/372.wav|Tapi nggak pernah dibales katanya.
+wavs/373.wav|Kan diajak nih Pak.
+wavs/374.wav|Sering ngasih ke Paski Jawa Timur.
+wavs/375.wav|Makanya sampai waktu itu sampai dirombak.
+wavs/376.wav|Diganti lah orang-orang lama.
+wavs/377.wav|Sana tuh Jawa Timur.
+wavs/378.wav|Maksudnya.
+wavs/379.wav|Saya juga menyalahkan juga ke.
+wavs/380.wav|Teman-teman saya juga ada yang seperti itu.
+wavs/381.wav|Bapak mau kemane sih.
+wavs/382.wav|Apanya tuh.
+wavs/383.wav|Ini nih.
+wavs/384.wav|Karena ini ya.
+wavs/385.wav|Masalah pemasukkan.
+wavs/386.wav|Mungkin lebih banyak di.
+wavs/387.wav|Terus kalau Bapak nanya bahagia.
+wavs/388.wav|Saya bahagia tuh Pak.
+wavs/389.wav|Kalau ini program jalan dan nyampe.
+wavs/390.wav|Saya bahagia tuh Pak.
+wavs/391.wav|Gak nyampe-nyampe.
+wavs/392.wav|Mungkin nggak bahagia.
+wavs/393.wav|Iya makanya mudah-mudahan sih.
+wavs/394.wav|Saya pengenin nih Pak nih.
+wavs/395.wav|Wah itu saya bahagia banget.
+wavs/396.wav|Kan begini tadi saya.
+wavs/397.wav|Kepada Bapak.
+wavs/398.wav|Bapak tadi bagus tuh saya dengar.
+wavs/399.wav|Ada komunitas.
+wavs/400.wav|Atau orang-orang seperti Bapak.
+wavs/401.wav|Ngebantuin tuh Pak.
+wavs/402.wav|Lah iya dong Bapak.
+wavs/403.wav|Lah iya lah orang kalau udah ada.
+wavs/404.wav|Namanya.
+wavs/405.wav|Kadang-kadang orang ngelihat.
+wavs/406.wav|Casing kan Pak.
+wavs/407.wav|Ya makanya kan saya balik lagi.
+wavs/408.wav|Minta bantuan lagi tidak hanya ke pemerintah.
+wavs/409.wav|Bapak yang keren saya bilang.
+wavs/410.wav|Tadi saya ditanyain kan Pak.
+wavs/411.wav|Wah ini bagus nih.
+wavs/412.wav|Sekarang begini Pak.
+wavs/413.wav|Tv-tv itu ngadain
+wavs/414.wav|Lomba.
+wavs/415.wav|Kompas tv lebih mending Pak ya.
+wavs/416.wav|Hasil dari lomba tu.
+wavs/417.wav|Tanggung jawab Pak.
+wavs/418.wav|Karena memang kalau.
+wavs/419.wav|Orang jualan Pak.
+wavs/420.wav|Enggak bisa dijual ini.
+wavs/421.wav|Walaupun dia mau juara satu kek.
+wavs/422.wav|Juara enol lagi ya nggak bisa kan.
+wavs/423.wav|Tawarin ke sponsor juga.
+wavs/424.wav|Siape nih.
+wavs/425.wav|Juara di mane.
+wavs/426.wav|Nah tv-tv juga.
+wavs/427.wav|Tapi kalau Bapak kan udah niatnya bantu ye.
+wavs/428.wav|Nah sekarang.
+wavs/429.wav|Apakah nantinya orang-orang seperti Bapak.
+wavs/430.wav|Bantuan dari pemerintah.
+wavs/431.wav|Nah iya kan gitu.
+wavs/432.wav|Bapak udah lepas tuh yang lain.
+wavs/433.wav|Bapak membantu pemerintah.
+wavs/434.wav|Program saya jalan juga Pak.
+wavs/435.wav|Jangan marah nih Pak kalau saya udah pakai jas datang kemari ya.
+wavs/436.wav|Ngobrol ame Juju apa Jiji tuh tadi.
+wavs/437.wav|Wah ini gila nih Pak Dedi.
+wavs/438.wav|Udah masuk nih programnya.
+wavs/439.wav|Saya harus.
+wavs/440.wav|Mungkin kalau di.
+wavs/441.wav|Kayak Bapak nih masuknya.
+wavs/442.wav|Ke mana Pak Banten ya Pak ini Pak.
+wavs/443.wav|Provinsi sini kan.
+wavs/444.wav|Nanti saya bisa omongin nih.
+wavs/445.wav|Di situ ada Pak Dedi tuh tukang ngebantu gini-gini.
+wavs/446.wav|Mungkin ada kucuran mungkin kali.
+wavs/447.wav|Nah di daerah lain-daerah lain.
+wavs/448.wav|Karena kan udah saya udah nggak harus.
+wavs/449.wav|Jabar aja yang saya pikul nih Pak.
+wavs/450.wav|Karena kan pikul itu ada di.
+wavs/451.wav|Depan kaca depan.
+wavs/452.wav|Kaca samping kaca belakang tuh kan Pak.
+wavs/453.wav|Nah itu Pak jadi.
+wavs/454.wav|Ya itu Bapak udah banget gitu.
+wavs/455.wav|Bagus Pak.
+wavs/456.wav|Mau kemane.
+wavs/457.wav|Ya itu tadi kalau dari.
+wavs/458.wav|Paski nya sendiri sih.
+wavs/459.wav|Asuransi-asuransi kayak gitu.
+wavs/460.wav|Tapi kan.
+wavs/461.wav|Pak Dedi aja ngebina terus.
+wavs/462.wav|Sebenarnya kalau dari.
+wavs/463.wav|Komedi itu.
+wavs/464.wav|Enggak ada pensiunnya Pak.
+wavs/465.wav|Apa ya.
+wavs/466.wav|Jadi kan.
+wavs/467.wav|Sebenarnya.
+wavs/468.wav|Nggak ada pensiunnya kalau bisa sih sampai.
+wavs/469.wav|Bang ben.
+wavs/470.wav|Meninggal loh Pak.
+wavs/471.wav|Ya tapi kan ada contohnya berarti bisa.
+wavs/472.wav|Bapak sudah mendahului saya.
+wavs/473.wav|Walaupun Bapak tidak ngasih lampu sign.
+wavs/474.wav|Sudah memperjuangkan mereka-mereka.
+wavs/475.wav|InsyaAllah.
+wavs/476.wav|Belum Pak.
+wavs/477.wav|Masih ngitung.
+wavs/478.wav|Oh nggak saya nggak melayani lho.
+wavs/479.wav|Saya hanya membawa aspirasi, yang melayani eksekutif Pak.
+wavs/480.wav|Ya kalau nggak bener saya nggak di sini Pak.
+wavs/481.wav|Pak kan belum pada ngitung.
+wavs/482.wav|Suara masih sampai kecamatan Pak.
+wavs/483.wav|Justru saya kalau cerita.
+wavs/484.wav|Nanti Bapak takut berubah haluan jadi konsultan.
+wavs/485.wav|Kan Bapak yang bilang kalau bikin gerakan jangan orang tau.
+wavs/486.wav|Kan senyap Bapak bilang.
+wavs/487.wav|Kenape.
+wavs/488.wav|Pak bagus.
+wavs/489.wav|Nomor pijitnye.
+wavs/490.wav|Kan nomor pijit.
+wavs/491.wav|Saya jug abis Pak karena pas.
+wavs/492.wav|Anak-anak pada masuk kuliah.
+wavs/493.wav|Poto sih poto belum lama.
+wavs/494.wav|Cuman apa ya.
+wavs/495.wav|Enggak niat-niat.
+wavs/496.wav|Itu kayak selfie aja.
+wavs/497.wav|Apa ya waktu itu ada undangan.
+wavs/498.wav|Cimanggis tuh Pak.
+wavs/499.wav|Dahulu kala.
+wavs/500.wav|Ada ketemu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

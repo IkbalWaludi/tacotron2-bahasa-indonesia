@@ -1,0 +1,2949 @@
+wavs/1.wav|Jumpa lagi kita di channel yang keren ini
+wavs/2.wav|Keren cadas
+wavs/3.wav|Ya, Sobat Erhasialian, rupanya masih dispute juga
+wavs/4.wav|Pilkada DKI, ya, soal satu putaran atau dua putaran
+wavs/5.wav|Seperti kata Anies, sudah ditetapkan oleh KPU
+wavs/6.wav|Bahwa hasilnya itu adalah
+wavs/7.wav|Satu putaran
+wavs/8.wav|Dengan
+wavs/9.wav|Lima puluh koma nol tujuh persen
+wavs/10.wav|Jadi
+wavs/11.wav|Seperti berita tanggal dua lapan
+wavs/12.wav|Raup lima puluh koma tujuh persen
+wavs/13.wav|Pramonorano klaim menang di Pilkada Jakarta dua ribu dua empan
+wavs/14.wav|Oke, lima puluh
+wavs/15.wav|Tapi ada yang bilang lima puluh koma nol tujuh persen
+wavs/16.wav|Jadi itu berbeda ya
+wavs/17.wav|Pasangan calon gubernur dan wakil gubernur Jakarta nomor dua tiga
+wavs/18.wav|Pramonorano Rano Karno mendeklarasikan kemenangannya di Pilkada Jakarta dua ribu dua empan
+wavs/19.wav|Deklarasi itu dilakukan di Kadai Ban Pramonorano di Cipete Selatan, Jakarta Selatan
+wavs/20.wav|Mendeklarasikan bahwa pasangan calon nomor dua tiga Mas Pram dan Bang Dul
+wavs/21.wav|Telah memenangkan kontestasi Pilgub Jakarta dalam satu putaran
+wavs/22.wav|Dengan perolehan lima puluh koma nol tujuh persen
+wavs/23.wav|Ujar Pramono
+wavs/24.wav|Jadi lima puluh koma nol tujuh persen ya
+wavs/25.wav|Itu berbeda ya
+wavs/26.wav|Karena kalau lima koma tujuh lima puluh koma tujuh itu hampir lima satu
+wavs/27.wav|Kalau ini lebih sedikit lah dari lima puluh persen
+wavs/28.wav|Tetapi berapapun mau lima puluh persen plus satu mentok
+wavs/29.wav|Tentu tetap menang satu putaran
+wavs/30.wav|Hanya saja persoalannya adalah sama dengan kalian
+wavs/31.wav|Tentu kalau tidak ada
+wavs/32.wav|Misalnya klaim pemungutan suara ulang
+wavs/33.wav|Atau penghitungan suara ulang dan lain sebagainya
+wavs/34.wav|Makanya kita harus lihat ya
+wavs/35.wav|Apakah kemudian akan ada hal-hal seperti itu
+wavs/36.wav|Dan tim Ridwan Kamil rupanya sudah menyiapkan strategi
+wavs/37.wav|Dan strategi itu strategi yang
+wavs/38.wav|Seperti yang dilakukan oleh orang-orang yang umumnya kalah
+wavs/39.wav|Atau tertinggal suaranya
+wavs/40.wav|Yaitu tim Ridwan Kamil perintahkan sejumlah saksi tolak BAP rekap kecamatan
+wavs/41.wav|Oke coba kita bacakan
+wavs/42.wav|CNN Indonesia
+wavs/43.wav|Kubu calon gubernur dan wakil gubernur Jakarta nomor satu Ridwan Kamil Susono
+wavs/44.wav|Menginstruksikan saksi mereka di sejumlah kecamatan
+wavs/45.wav|Untuk tak menandatangani berita acara hasil rekapitulasi
+wavs/46.wav|Pilkada Jakarta dua ribu dua empat
+wavs/47.wav|Sekretaris tim pemenangan Rido Basri Baco menyampaikan
+wavs/48.wav|Mereka menginstruksikan itu ke sejumlah kecamatan
+wavs/49.wav|Yang dirasa terjadi kecurangan di sana
+wavs/50.wav|Terkait dengan rekapitulasi di kecamatan
+wavs/51.wav|Di beberapa kecamatan yang kita duga
+wavs/52.wav|Kita rasa itu ada ketidakpuasan ada kecurigaan
+wavs/53.wav|Maka memang kita mengarahkan kepada saksi
+wavs/54.wav|Untuk tidak menandatangani berita acara tersebut
+wavs/55.wav|Kata Basri di kantor DPD
+wavs/56.wav|Namun Basri tak menjelaskan lebih rinci
+wavs/57.wav|Di beberapa kecamatan mereka menginstruksikan
+wavs/58.wav|Saksinya tak menandatangani BAP hasil rekapitulasi
+wavs/59.wav|Selain menginstruksikan saksi di sejumlah kecamatan
+wavs/60.wav|Basri juga menyebut tim Rido meminta
+wavs/61.wav|Pemungutan suara ulang di daerah-daerah
+wavs/62.wav|Yang banyak warganya tak menerima formulir C-VI
+wavs/63.wav|Sebagai undangan pencoblosan
+wavs/64.wav|Oke nanti kita bahas ya
+wavs/65.wav|Ia mengaku banyak titik yang
+wavs/66.wav|Pembagian formulir C-VI itu bermasalah sehingga
+wavs/67.wav|Angka partisipasi masyarakat pun menjadi rendah
+wavs/68.wav|Titik-titik PSU ini sudah ada
+wavs/69.wav|Sudah banyak sekali ini nanti bisa dilihat
+wavs/70.wav|Teman-teman media ini mereka datang
+wavs/71.wav|Ke bawah studio sendiri dan melapor
+wavs/72.wav|Dan ini bukti laporannya asli dan
+wavs/73.wav|Masih kita khimpun terus ucapnya
+wavs/74.wav|Karena dikasih hadiah kan
+wavs/75.wav|Pemungutan suara pilkada Jakarta
+wavs/76.wav|Telah dilaksanakan pada Rabu
+wavs/77.wav|Dua puluh tujuh September lalu
+wavs/78.wav|Rido terlibat saling klaim
+wavs/79.wav|Data perolehan suara dengan rivalnya
+wavs/80.wav|Pramono Anung Rano Karno
+wavs/81.wav|Data internal Rido juga mencatat
+wavs/82.wav|Bahwa perolehan suara mereka tertinggal
+wavs/83.wav|Atas Pramono Rano
+wavs/84.wav|Rido mengklaim pilkada Jakarta
+wavs/85.wav|Akan berlangsung dua putaran
+wavs/86.wav|Sedangkan Pramono Rano telah mendeklarasikan
+wavs/87.wav|Kemenangannya di putaran pertama dengan
+wavs/88.wav|Perolehan suara di atas lima puluh persen
+wavs/89.wav|Hasil real count versi internal Rido
+wavs/90.wav|Dengan data yang masuk sebanyak
+wavs/91.wav|Sembilan puluh sembilan koma sembilan puluh sembilan persen
+wavs/92.wav|Mencatat Rido duduk di posisi kedua
+wavs/93.wav|Dengan perolehan seri
+wavs/94.wav|Satu juta tujuh ratus empat puluh delapan
+wavs/95.wav|Ribu tujuh ratus empat belas suara
+wavs/96.wav|Satu ratus setara dengan empat puluh koma tujuh belas persen
+wavs/97.wav|Lalu
+wavs/98.wav|Pramono Rano duduk di kursi
+wavs/99.wav|Di posisi pertama dengan perolehan dua juta
+wavs/100.wav|Seratus empat puluh lima
+wavs/101.wav|Ribu empat ratus sembilan
+wavs/102.wav|Empat ribu suara
+wavs/103.wav|Atau
+wavs/104.wav|Atau setara dengan
+wavs/105.wav|Lapan empat sembilan koma dua lapan persen
+wavs/106.wav|Sementara di selain
+wavs/107.wav|Pramono Rano juga mendeklarasikan kemenangan satu putaran
+wavs/108.wav|Mereka mengklaim unggul dengan
+wavs/109.wav|Perolehan dua juta
+wavs/110.wav|Seratus lapan puluh tiga
+wavs/111.wav|Ribu ratus tujuh puluh tujuh
+wavs/112.wav|Ya
+wavs/113.wav|Oke
+wavs/114.wav|Sobat era sekalian
+wavs/115.wav|Suara atau sama dengan
+wavs/116.wav|Lima puluh koma nol tujuh persen berdasarkan
+wavs/117.wav|Rekapitulasi internal
+wavs/118.wav|Jadi sobat era sekalian
+wavs/119.wav|Ada
+wavs/120.wav|Dua step ya yang akan
+wavs/121.wav|Dilakukan oleh
+wavs/122.wav|Pasangan Ridho
+wavs/123.wav|Ini adalah mencari
+wavs/124.wav|Di daerah mana mereka bisa
+wavs/125.wav|Mempermasalahkan
+wavs/126.wav|Tapi jangan lupa
+wavs/127.wav|Undangan C-NAM itu
+wavs/128.wav|Tidak menjadi alasan untuk
+wavs/129.wav|PSU
+wavs/130.wav|Kenapa
+wavs/131.wav|Karena undangan itu tidak bersifat
+wavs/132.wav|Maksudnya kalau
+wavs/133.wav|Tidak diundang bukan undangan
+wavs/134.wav|Itu bukanlah
+wavs/135.wav|Saran sahnya untuk memilih
+wavs/136.wav|Jadi untuk memilih
+wavs/137.wav|Tidak perlu membuat
+wavs/138.wav|Menggunakan surat undangan
+wavs/139.wav|Yang penting tercatat
+wavs/140.wav|Di dalam daftar pemilih tetap
+wavs/141.wav|Kemudian
+wavs/142.wav|Mencatatkan
+wavs/143.wav|Namanya
+wavs/144.wav|Yang penting ada daftarnya
+wavs/145.wav|Kalaupun tidak ada daftarnya
+wavs/146.wav|Boleh memilih
+wavs/147.wav|Setelah jampu setelah pukul dua belas
+wavs/148.wav|Dengan menunjukkan
+wavs/149.wav|Ini
+wavs/150.wav|Ini saya tidak yakin
+wavs/151.wav|Tapi kalau dia menggunakan presiden
+wavs/152.wav|Pilek harusnya bisa memilih
+wavs/153.wav|Dengan menunjukkan KTP atau paspor
+wavs/154.wav|Tapi setelah jam dua belas
+wavs/155.wav|Nah tetapi
+wavs/156.wav|Yang paling penting adalah
+wavs/157.wav|Yang paling penting
+wavs/158.wav|Bahwa
+wavs/159.wav|Penghitungan suaranya
+wavs/160.wav|Itu
+wavs/161.wav|Memang precise
+wavs/162.wav|Jadi walaupun bedanya tipis precise
+wavs/163.wav|Dan C-NAM
+wavs/164.wav|Tidak adanya dikasih undangan memilih
+wavs/165.wav|Itu tidak akan secara teoretik
+wavs/166.wav|Tidak akan membuat
+wavs/167.wav|Adanya pemungutan suara ulang
+wavs/168.wav|Pemungutan suara ulang
+wavs/169.wav|Hanya mungkin dilakukan
+wavs/170.wav|Seandainya memang
+wavs/171.wav|Ada beberapa kriteria
+wavs/172.wav|Misalnya tadi
+wavs/173.wav|Ada ketua KPPS
+wavs/174.wav|Mencoblos
+wavs/175.wav|Pasangan calon tertentu
+wavs/176.wav|Apalagi jumlahnya banyak
+wavs/177.wav|Nah itu bisa dilakukan pemungutan suara ulang
+wavs/178.wav|Tapi sekali lagi
+wavs/179.wav|Apakah itu bakal signifikan atau tidak
+wavs/180.wav|Mempengaruhi hasil pilkada
+wavs/181.wav|Karena kalau jaraknya
+wavs/182.wav|Misalnya sekitar dua ribuan
+wavs/183.wav|Sementara
+wavs/184.wav|Katakanlah
+wavs/185.wav|Berapa, tiga ratus ya
+wavs/186.wav|Satu TPS itu yang diulang atau lima ratus
+wavs/187.wav|Maka ya tidak ada gunanya juga
+wavs/188.wav|Karena tidak akan
+wavs/189.wav|Mengungguli perolehan suaranya
+wavs/190.wav|Tidak akan
+wavs/191.wav|Mengubah konstelasi
+wavs/192.wav|Lima puluh persen
+wavs/193.wav|Tapi kalau mengubah konstelasi lima puluh persen
+wavs/194.wav|Bisa saja terjadi
+wavs/195.wav|Itu step pertama yang saya bayangkan yang dilakukan oleh Ridho
+wavs/196.wav|Nah step kedua adalah
+wavs/197.wav|Kemahkamah Konstitusi
+wavs/198.wav|Untuk mencari dimana lagi celah-celahnya
+wavs/199.wav|Jadi step pertama berharap
+wavs/200.wav|Ada pemungutan suara ulang atau penghitungan suara ulang
+wavs/201.wav|Step berikutnya adalah
+wavs/202.wav|Mempermasalahkan
+wavs/203.wav|Di Mahkamah Konstitusi
+wavs/204.wav|Macam-macam lah
+wavs/205.wav|Baik secara kuantitatif maupun kualitatif
+wavs/206.wav|MK sendiri bisa kualitatif
+wavs/207.wav|Bisa kuantitatif
+wavs/208.wav|Walaupun kuantitatif jelas lebih gampang
+wavs/209.wav|Dibandingkan kualitatif yang kadang-kadang kita juga bingung
+wavs/210.wav|Apa yang dimaui MK
+wavs/211.wav|Sesungguhnya dalam
+wavs/212.wav|Kita mempresentasikan
+wavs/213.wav|Sengketa hasil pemilu
+wavs/214.wav|Kualitatif oke, kuantitatif oke
+wavs/215.wav|Tetapi kualitatif yang bagaimana
+wavs/216.wav|Yang akan diterima?
+wavs/217.wav|Kalau kuantitatif jelas yang signifikan
+wavs/218.wav|Mempengaruhi hasil
+wavs/219.wav|Atau mempengaruhi
+wavs/220.wav|Di laksanakan
+wavs/221.wav|Putaran kedua atau tidak
+wavs/222.wav|Begitu ya
+wavs/223.wav|Dan hari ini hari yang panjang
+wavs/224.wav|Karena saya
+wavs/225.wav|Ikut juga
+wavs/226.wav|Di perkhidmatan
+wavs/227.wav|Dua satu dua sebagai pendengar tentunya
+wavs/228.wav|Bukan sebagai
+wavs/229.wav|Pembicara, saya hadir
+wavs/230.wav|Karena diundang
+wavs/231.wav|This is
+wavs/232.wav|The third time
+wavs/233.wav|Saya diundang tetapi the second time
+wavs/234.wav|Twice
+wavs/235.wav|Karena waktu
+wavs/236.wav|Di
+wavs/237.wav|Tahun dua ribu dua puluh
+wavs/238.wav|Saya diundang juga waktu itu
+wavs/239.wav|Hanya dilakukan di kediaman Habib Rizik
+wavs/240.wav|Ya
+wavs/241.wav|Dua ribu dua satu pada waktu itu
+wavs/242.wav|Kalau tidak salah
+wavs/243.wav|Digelar di Masjid Artin
+wavs/244.wav|Dua ribu dua dua
+wavs/245.wav|Mencoba untuk membuat
+wavs/246.wav|Demo tetapi
+wavs/247.wav|Kemudian dilarang
+wavs/248.wav|Dua ribu dua tiga ramai karena ada isu
+wavs/249.wav|Palestine dan ini lumayan
+wavs/250.wav|Ya walaupun tidak
+wavs/251.wav|Seramai tahun lalu rasanya ya
+wavs/252.wav|Oke sobat
+wavs/253.wav|Dari sekalian saya duduk
+wavs/254.wav|Di samping Marwan Batubara dan
+wavs/255.wav|Said Didu
+wavs/256.wav|Mister Said Didu
+wavs/257.wav|Entah siapa yang
+wavs/258.wav|Butuhnya ya oke
+wavs/259.wav|Sobat semuanya coba kita
+wavs/260.wav|Bacakan komentar sobat
+wavs/261.wav|Sobat Erhan sekalian ya
+wavs/262.wav|Pesan kepada
+wavs/263.wav|Pak Prabowo sudah lah Pak Prabowo
+wavs/264.wav|Damaikan mereka dan tinggalkan gaya-gaya
+wavs/265.wav|Lamar Rezim Jokowi
+wavs/266.wav|Kimplas itu serakah
+wavs/267.wav|Sudah menang di banyak daerah masih belum puas
+wavs/268.wav|Ya sebenarnya
+wavs/269.wav|Ini harus dikaitkan dengan orang
+wavs/270.wav|Perorangannya ya
+wavs/271.wav|Jadi Kimplas itu apa sih
+wavs/272.wav|Enggak jelas Kimplas itu sebenarnya kan
+wavs/273.wav|Yang paling penting adalah yang menang itu
+wavs/274.wav|Partai politik sejujurnya yang punya pengaruh langsung
+wavs/275.wav|Ya
+wavs/276.wav|Kalau ada
+wavs/277.wav|Kota kosong maka kota kosong yang menang
+wavs/278.wav|Harus ada undang-undang anti cowi-cowi
+wavs/279.wav|Mantan yang mental
+wavs/280.wav|Pencuri ya yang mental pencuri
+wavs/281.wav|Waktunya Garuda biru darurat Jakarta
+wavs/282.wav|Cara paksa
+wavs/283.wav|Begini saya mengajukan pertanyaan kepada
+wavs/284.wav|PKS tetap akan bela kebenaran atau
+wavs/285.wav|Kepentingan diri dan Bapak
+wavs/286.wav|HRS akan tetap bela kebenaran atau
+wavs/287.wav|Menanti PDIP
+wavs/288.wav|Atau anti PDIP
+wavs/289.wav|Saya kira kalau
+wavs/290.wav|Habib Ridji jelas ya mengatakan
+wavs/291.wav|Sudah selesai
+wavs/292.wav|Pilkada itu ya kembali kita bersatu
+wavs/293.wav|Itu kata-kata dia
+wavs/294.wav|Tadi ya di Monas
+wavs/295.wav|Jadi jangan sampai
+wavs/296.wav|Pilkada membelah umat itu yang
+wavs/297.wav|Dikatakan dia
+wavs/298.wav|Harusnya satu putaran karena Pramrano sudah melebihi
+wavs/299.wav|Lima puluh persen plus satu suara
+wavs/300.wav|Tidak ada alasan dua putaran
+wavs/301.wav|Sudahilah itu
+wavs/302.wav|Sekarang bisa pakai aplikasi kok
+wavs/303.wav|Tidak perlu C-Nam lagi
+wavs/304.wav|Minyak goreng naik lagi
+wavs/305.wav|Puyeng Bang Refli
+wavs/306.wav|Itulah manusia kalau sudah rakus
+wavs/307.wav|Kekuasaan Riwuh Sikim Plus
+wavs/308.wav|Mah Rungkat
+wavs/309.wav|Selebew
+wavs/310.wav|Biarkan dua putaran
+wavs/311.wav|Tapi jangan didukung Anis Ahok
+wavs/312.wav|Rano sudah sombong menang
+wavs/313.wav|Bukan karena Anis Ahok
+wavs/314.wav|Apa kabar KM-Limapuluh
+wavs/315.wav|Bung
+wavs/316.wav|KM-Limapuluh nanti kita
+wavs/317.wav|Tunggu tanggal mainnya ya
+wavs/318.wav|Sebentar lagi KM-Limapuluh itu tanggal tujuh Desember
+wavs/319.wav|Besok sudah tanggal tiga
+wavs/320.wav|Empat lima enam tujuh hari Sabtu
+wavs/321.wav|Akhirnya
+wavs/322.wav|Nonton juga secara langsung
+wavs/323.wav|Berbicara politik Indonesia saya
+wavs/324.wav|Speechless
+wavs/325.wav|Dengar-dengar katanya
+wavs/326.wav|Jokowo rugi besar gara-gara
+wavs/327.wav|Pilkada Jakarta kalah betul atau enggak tuh
+wavs/328.wav|Beritanya
+wavs/329.wav|Ya
+wavs/330.wav|Orang mengatakan yang keluar uang
+wavs/331.wav|Jokowi nya ya
+wavs/332.wav|Tidak pernah puas-puasnya tidak pikirkan
+wavs/333.wav|Punya harga diri lagi sebagai manusia
+wavs/334.wav|Ciptaan Tuhan yang sempurna
+wavs/335.wav|Puyung eh
+wavs/336.wav|Aing kalah di Jakarta
+wavs/337.wav|Ya semuanya sekalian
+wavs/338.wav|Itu saja ya
+wavs/339.wav|Sekali lagi
+wavs/340.wav|Kita harus mencari
+wavs/341.wav|Pemenang yang genuine
+wavs/342.wav|Tetapi juga
+wavs/343.wav|Tidak bisa menghalangi hak
+wavs/344.wav|Pasangan lain untuk memperkarakan
+wavs/345.wav|Ini misalnya di mahkamah konstitusi
+wavs/346.wav|Apa boleh buat
+wavs/347.wav|Yang paling penting adalah
+wavs/348.wav|Bagaimana ini harus kita
+wavs/349.wav|Lakukan secara baik
+wavs/350.wav|Itu saja sobat
+wavs/351.wav|Mudah-mudahan bermanfaat
+wavs/352.wav|Wassalamualaikum warahmatullahi wabarakatuh
+wavs/353.wav|Keren
+wavs/354.wav|Terima kasih
+wavs/355.wav|Assalamualaikum warahmatullahi wabarakatuh
+wavs/356.wav|Sobat Irhas kalian
+wavs/357.wav|Jumpa lagi kita di channel yang keren ini
+wavs/358.wav|Keren, cadaz ya
+wavs/359.wav|Ini hari ini ya, dirilis KM-Limabulu ya
+wavs/360.wav|Jadi, KM-Limabulu dirilis oleh Tempo.co
+wavs/361.wav|Dan wajib tonton kita
+wavs/362.wav|Paling tidak kita akan mendapatkan beberapa informasi ya
+wavs/363.wav|Nah, dari sini, coba kita bacakan ya
+wavs/364.wav|Salah satu yang diulas oleh media adalah
+wavs/365.wav|Eee, soal yang terkait dengan KM-Limabulu ini
+wavs/366.wav|Misalnya adalah
+wavs/367.wav|Anak buah Ferdi Sambu, perusahaan TKP Direntiga dan dugaan perannya di peristiwa KM-Limabulu
+wavs/368.wav|Kemudian Tempo tayangkan film dokumenter KM-Limabulu
+wavs/369.wav|Ini tiga fakta seputar peristiwa KM-Limabulu
+wavs/370.wav|Coba kita bacakan ya
+wavs/371.wav|Kita bacakan dan, oke
+wavs/372.wav|Oke
+wavs/373.wav|Ada yang bilang sudah nonton dan sudah share ya
+wavs/374.wav|Share lah sebanyak-banyaknya karena ini hal yang penting menurut saya ya
+wavs/375.wav|Kita perlu share
+wavs/376.wav|Oke
+wavs/377.wav|Tempo tayangkan film dokumenter KM-Limabulu
+wavs/378.wav|Ini tiga fakta seputar peristiwa KM-Limabulu
+wavs/379.wav|Tempo melalui kanal Youtube Tempo.co
+wavs/380.wav|Meluncurkan film dokumenter KM-Limabulu pada Kamis
+wavs/381.wav|Lima belas September, dua ribu dua dua
+wavs/382.wav|Film berdurasi lima puluh satu menit itu
+wavs/383.wav|Berkisah tentang penembakan enam anggota Front Pembela Islam alias FBI oleh aparat kepolisian
+wavs/384.wav|Belakangan
+wavs/385.wav|Peristiwa KM-Limabulu atau KM-Limabulu menjadi perbincangan publik setelah dugaan pembunuhan berencana
+wavs/386.wav|Terhadap Brigadir J terungkap
+wavs/387.wav|Dalam kasus Brigadir J, Ex-Kepala Divisi Profom dan Pengamanan Irjen Ferdi Sambo ditetapkan sebagai tersangka
+wavs/388.wav|Sebelumnya Ferdi menjabat sebagai Direktur Tindak Pidana Umum Barreskrim
+wavs/389.wav|Polri yang turut menangani kasus KM-Limabulu
+wavs/390.wav|Keterlibatan Ferdi Sambo dalam dua kasus yang melibatkan aksi penembakan oleh polisi inilah yang meresahkan publik
+wavs/391.wav|Untuk menyegarkan kembali ingatan tentang kasus KM-Limabulu, berikut adalah tiga fakta seputar perkembangan peristiwa KM-Limabulu
+wavs/392.wav|Satu, Peristiwa KM-Limabulu tewaskan enam warga
+wavs/393.wav|Berdasarkan catatan tempuh, terdapat enam anggota FBI yang tewas usai ditembak oleh polisi
+wavs/394.wav|Kenam korban adalah Andi Oktiawan, tiga puluh tiga tahun
+wavs/395.wav|Ahmad Sovian, dua puluh enam tahun
+wavs/396.wav|Lutfi Hakim, dua puluh lima tahun
+wavs/397.wav|Faiz Abu Sukur, dua puluh dua tahun
+wavs/398.wav|Muhammad Suci Kadhafi, dua puluh setahun
+wavs/399.wav|dan Muhammad Reza, dua puluh tahun
+wavs/400.wav|Jadi bisa ditampilkan gambar ketika kita berkunjung ke markas syariah di dekat makam itu
+wavs/401.wav|Jadi Sobat Eros kalian, dari enam orang ini, lima orang dimakamkan di markas syariah
+wavs/402.wav|Yang tidak kalau tidak salah Lutfi Hakim
+wavs/403.wav|Jadi lima lainnya di sana
+wavs/404.wav|Dan usia mereka memang muda-muda
+wavs/405.wav|Muhammad Reza ini bahkan usianya baru sembilan belas tahun, belum genap dua puluh tahun
+wavs/406.wav|Jadi yang paling tua adalah Andi Oktiawan
+wavs/407.wav|Dan konon yang meninggal duluan di antara enam orang itu Andi Oktiawan dan Faiz Ahmad Sukur
+wavs/408.wav|Mulanya kenam orang tersebut hendak mengawal imam besar FBI Rizik Shihab
+wavs/409.wav|Yang bertolak dari The Nature Mutiara Sentul
+wavs/410.wav|Dengan mengendari mobil Chevrolet
+wavs/411.wav|Tetapi Senin Dini Hari, tujuh Desember, dua puluh dua puluh dua puluh
+wavs/412.wav|Tampak segerombolan polisi yang mengepung mobil tersebut
+wavs/413.wav|Laporan majalat tempo mengungkap bahwa terdapat tiga lubang di dada kiri Muhammad Suci Qadhafi
+wavs/414.wav|Secara keseluruhan polisi melaporkan terdapat sembilan belas bekas timah panas di kanan tubuh anggota tersebut
+wavs/415.wav|Jadi how come membela diri kok bisa tiga lubang gitu
+wavs/416.wav|Dan dia tidak membawa senjata sama sekalian
+wavs/417.wav|Sebelumnya baik enam anggota FBI maupun polisi diduga sempat terlibat baku tembak
+wavs/418.wav|Hal ini dibuktikan melalui temuan beberapa selongsong peluru sekitar tiga kilometer dari lokasi kejadian
+wavs/419.wav|Ingat bagaimana Ferdi Sambu kemudian menembakkan dan juga menyebar selongsong peluru
+wavs/420.wav|Saksi bersumpah korban masih sempat hidup
+wavs/421.wav|Sebelum dinyatakan tewas saksi mata di sekitar jalan tol Jakarta Cikampek kilometer lima puluh mengaku melihat ke enam anggota tersebut masih hidup
+wavs/422.wav|Salah satu saksi yang ditanya oleh koran tempo mengaku sempat berusaha mendekati mobil Chevrolet yang dikendari anggota FBI saat mobilnya tiba-tiba berhenti
+wavs/423.wav|Namun saksi tersebut dihalau oleh polisi dan polisi berkata sedang menangani teroris
+wavs/424.wav|Saksi juga mengaku melihat beberapa pria keluar dari mobil Chevrolet dan polisi meminta warga untuk tiarap
+wavs/425.wav|Saya berani bersumpah mereka masih hidup saat itu ujar saksi yang juga melihat polisi mengeluarkan senjata tajam
+wavs/426.wav|Oke sahabat daerah sekalian memang kan dibilang dua mati dalam tembak menembak
+wavs/427.wav|Tapi ketika mereka dikeluarkan dari mobil Chevrolet itu ada yang mengatakan ya dari berita yang ada mereka sesungguhnya yang dua orang masih bergerak
+wavs/428.wav|Mereka belum meninggal
+wavs/429.wav|Nah ini hal yang luar biasa sesungguhnya kalau kita mau melakukan independent investigation terhadap soal ini
+wavs/430.wav|Belum lagi empat yang mati dalam penguasaan penuh petugas ya
+wavs/431.wav|Tiga terduga pelaku di Vonis Bebas
+wavs/432.wav|Dalam kasus penembakan dan kematian anggota FPI tersebut
+wavs/433.wav|Terdapat dua anggota polisi yang ditetapkan sebagai tersangka yaitu Beripto Fikri Ramadan dan Ibda M. Yusmin Ohorela
+wavs/434.wav|Vonis Bebas ini diberikan oleh mahkamah agung pada pengadilan di tingkat kasasi
+wavs/435.wav|Putusan ini sebenarnya sama dengan putusan pada pengadilan negeri Jakarta Selatan
+wavs/436.wav|Yaitu Hakim memutus lepas Fikri dan Yusmin karena keduanya dinilai melakukan penembakan untuk melindungi diri
+wavs/437.wav|Jadi penembakan melindungi diri itu lubangnya banyak sampai tiga lubang
+wavs/438.wav|How come ya?
+wavs/439.wav|Padahal mereka tidak bersenjata
+wavs/440.wav|Kalau kita river empat orang yang sudah dikuasai oleh petugas atau dalam penguasaan petugas
+wavs/441.wav|Jaksa penuntut umum Z. Tadung Allo mengaku menghormati Vonis Bebas tersebut
+wavs/442.wav|Ia menilai putusan MA merupakan ujung atau final penyelesaian perkara KM-Limaupuluh
+wavs/443.wav|Ya begitulah ya kira-kira
+wavs/444.wav|Namun Tadung menyebut bahwa kasus KM-Limaupuluh berpotensi untuk diteruskan apabila terdapat temuan bukti baru
+wavs/445.wav|Kami GPU berupaya mengedepankan hati nurani berdasarkan fakta yang kami yakini
+wavs/446.wav|Tetapi Hakim PN dan MA berpendapat lain
+wavs/447.wav|Jadi saya pun setuju ya kalau memang tidak bersalah jangan dihukum
+wavs/448.wav|Maksudnya apakah iya dia yang bersalah ya orang itu yang bersalah
+wavs/449.wav|Itu sudah kewenangannya kata dia
+wavs/450.wav|Jadi sekali lagi the question is ya apakah pelaku utamanya adalah Yusmin Ohorela, Fikri Ramadan dan Elwira yang sudah meninggal itu ya
+wavs/451.wav|Itu yang menjadi persoalan sesungguhnya
+wavs/452.wav|Jadi kita tidak boleh menyalahkan orang yang tidak bersalah
+wavs/453.wav|Atau membenarkan orang yang bersalah
+wavs/454.wav|Oke semoga berharap kalian
+wavs/455.wav|Berikutnya adalah
+wavs/456.wav|Nah ini ya peritanya
+wavs/457.wav|Anak buah Ferdi Sambu perusahaan TKP Durantiga dan dugaan perannya di peristiwa KM-Limaupuluh
+wavs/458.wav|Tempo Dorko Jakarta
+wavs/459.wav|Nama Ajun Komisaris Besar Polisi AKBP
+wavs/460.wav|Handik Jusen kembali menyeruap setelah kasus pembunuhan Novriansa Yusuah Utabarat
+wavs/461.wav|Alias Brigadier J yang diduga dilakukan mantan bosnya Ferdi Sambu
+wavs/462.wav|AKBP Handik Jusen dicopot dari jabatan Kasudit III
+wavs/463.wav|Ditreskrimum Poda Mitrojaya melalui surat telegram nomor dan seterusnya tanggal
+wavs/464.wav|Dua puluh dua Agustus
+wavs/465.wav|Dalam laporan majalah Tempo edisi tiga September
+wavs/466.wav|Handik adalah salah satu penyokong skenario Ferdi Sambu
+wavs/467.wav|Dua penurut TKP mengatakan jejak selongsong peluru
+wavs/468.wav|Di tempat kejadian perkara Durantiga sudah direkayasa oleh anak buah Ferdi Sambu
+wavs/469.wav|Salah satu presiden yang juga berperan adalah Handik Jusen
+wavs/470.wav|Yang saat itu menjabat Kepala Subdirekturan Reserse Mobil Polda Mitrojaya
+wavs/471.wav|Handik diduga mengatur jumlah selongsong peluru untuk memberi kesan
+wavs/472.wav|Ada baku tembak di rumah dinas Ferdi Sambu
+wavs/473.wav|Ia pernah menjadi anak buah Ferdi di Polda Mitrojaya
+wavs/474.wav|Bahkan ia masuk dalam daftar anggota Satuan Tugas Khusus Satgasus Merah Putih yang dipimpin Ferdi
+wavs/475.wav|Menurut sumber penyidik kepada Tempo
+wavs/476.wav|Handik berada di rumah dinas Ferdi Sambu pada malam kematian Brigadir J
+wavs/477.wav|Ia ditengah rai menyusun kelebihan peluru itu
+wavs/478.wav|Bersama Ajin Komisaris Besar Ridwan Soplanit
+wavs/479.wav|Dan Komisaris Cuk Putranto Personel Divisi Polri
+wavs/480.wav|Mereka bahkan menyebarkan selongsong peluru di sekitar jenazah Joshua
+wavs/481.wav|Dan tangga menuju lantai dua rumah dinas Ferdi
+wavs/482.wav|Gak takut mati nih orang
+wavs/483.wav|Tim Khusus kembali mengelar olah TKP pada tanggal
+wavs/484.wav|Tiga belas Juli lalu karena temuan selongsong peluru tersebut
+wavs/485.wav|Saat itu Tim Khusus menemukan lagi tiga selongsong peluru
+wavs/486.wav|Untuk jenis pistol HS-IX
+wavs/487.wav|Seorang personel Inafis juga menemukan satu butir selongsong peluru pistol HS
+wavs/488.wav|Dalam skenario Ferdi Sambu
+wavs/489.wav|Pistol HS-IX ini digunakan Joshua
+wavs/490.wav|Untuk menembaki baradar Richard Eliezer
+wavs/491.wav|Ada siluman yang meletakkan selongsong di TKP
+wavs/492.wav|Celetuk Direktur Tindak Pidana Umum Barat Kerimpori
+wavs/493.wav|Brigadir Jendral Andirian
+wavs/494.wav|Yang menghadiri rekonstruksi
+wavs/495.wav|Andirian menanggapi jumlah peluru yang dilaporkan pelaku kepada penyidik
+wavs/496.wav|Lebih sedikit dibanding temuan mereka saat olah tempat kejadian perkara
+wavs/497.wav|Saat ini Handik masuk ke dalam penempatan khusus
+wavs/498.wav|Atau pasus atau bahasa polisi untuk penahanan anggota
+wavs/499.wav|Ia adalah salah satu dari tiga puluh lima anggota Puri
+wavs/500.wav|Yang ditahan setelah skenario Ferdi Sambu terbongkar
+wavs/501.wav|Handik Jusen dan Peristiwa KM-Limapuluh
+wavs/502.wav|Dalam perannya di kasus pembunuhan di luar hukum ekstrajudisial killing
+wavs/503.wav|Terhadap enam anggota Laskara EPE di Tol Jakarta Cikampek KM-Limapuluh
+wavs/504.wav|Pada tujuh Desember dua ribu dua dua
+wavs/505.wav|Handik merupakan komandan yang memimpin operasi pengejaran Rizik Shihab
+wavs/506.wav|Dan pengawalnya
+wavs/507.wav|Jadi Sobat RS kalian
+wavs/508.wav|Ini mengejar atau menguntit?
+wavs/509.wav|Kalau mengejar itu
+wavs/510.wav|Rizik Shihab pada waktu itu
+wavs/511.wav|Habib Rizik itu melakukan tindak pidana dan mau ditangkap
+wavs/512.wav|Itu memang namanya pengejaran
+wavs/513.wav|Tapi kalau penguntitan ya seharusnya
+wavs/514.wav|Dikuntit diam-diam
+wavs/515.wav|Bukan kemudian dikuntit lalu dipepet
+wavs/516.wav|Lalu dimatiin ya orang yang mengawalnya
+wavs/517.wav|Oke
+wavs/518.wav|Mudah-mudahan ya ini menjadi
+wavs/519.wav|Titik balik
+wavs/520.wav|Bagi pengusutan KM-Limapuluh bagaimanapun
+wavs/521.wav|Ini akan menjadi utang sejarah kita
+wavs/522.wav|Dan bahkan mungkin dosa kita
+wavs/523.wav|Seandainya
+wavs/524.wav|Tidak memberikan keadilan
+wavs/525.wav|Kepada mereka yang memang sudah
+wavs/526.wav|Diperlakukan secara tidak adil
+wavs/527.wav|Begitu Sobat RS kalian ya
+wavs/528.wav|Oke
+wavs/529.wav|Kita
+wavs/530.wav|Coba
+wavs/531.wav|Kita
+wavs/532.wav|Lihat ya Sobat RS kalian
+wavs/533.wav|Bagaimana komentar Sobat RH
+wavs/534.wav|Terkait dengan ini
+wavs/535.wav|Tapi mudah-mudahan
+wavs/536.wav|Kita semua nontonlah
+wavs/537.wav|Ininya ya sekaligus mempromosikan
+wavs/538.wav|Jadi berarti ya nontonlah
+wavs/539.wav|Karena ini hal yang baik ya
+wavs/540.wav|Saya belum nonton penuh karena tadi baru pulang dari luar kota
+wavs/541.wav|Tapi saya akan berjanji nonton penuh ya
+wavs/542.wav|Oke
+wavs/543.wav|Tegu Santoso
+wavs/544.wav|KM-Limapuluh ini bukan hanya
+wavs/545.wav|Kriminal biasa
+wavs/546.wav|Tapi aksi intelijen tingkat tinggi
+wavs/547.wav|Polisi sekarang paling jago mereka ya
+wavs/548.wav|Sekasus dan ketika mulai terkuat
+wavs/549.wav|Mulai menggunakan narasi hoax ya
+wavs/550.wav|Untuk siapa saja yang mengungkapkannya
+wavs/551.wav|Oke
+wavs/552.wav|Coba tanya Kompol Baikuni
+wavs/553.wav|Terkait CCTV tol KM-Limapuluh
+wavs/554.wav|Hehehe
+wavs/555.wav|PKI gak takut dosa
+wavs/556.wav|Bang Refli ya
+wavs/557.wav|Oke
+wavs/558.wav|Bang Erha
+wavs/559.wav|Jangan-jangan ada peranan Bin
+wavs/560.wav|Di misi ini KM-Limapuluh
+wavs/561.wav|Sebagaimana tewasnya Joe
+wavs/562.wav|Sebab rahasia Sambo diketahui
+wavs/563.wav|Joe Komisi
+wavs/564.wav|Limapuluh
+wavs/565.wav|Usut tuntas KM-Limapuluh
+wavs/566.wav|I don't know exactly ya
+wavs/567.wav|Saya tidak bisa mengatakan iya dan tidak ya
+wavs/568.wav|Usut tuntas aparat pria bertatu
+wavs/569.wav|Anak buah Sambo
+wavs/570.wav|Nah ini juga perlu ya
+wavs/571.wav|Karena ada
+wavs/572.wav|Pria bertatu yang mengacungkan
+wavs/573.wav|Jari tengah ke Habib Hanif
+wavs/574.wav|Dan Habib Hanif mengingat itu
+wavs/575.wav|Walaupun dia tidak bisa mengingat
+wavs/576.wav|Mobilnya
+wavs/577.wav|Dan juga tidak bisa mengingat wajahnya
+wavs/578.wav|Tapi jangan lupa
+wavs/579.wav|Ada mobil hitam Land Cruiser
+wavs/580.wav|Yang mampir di KM-Limapuluh
+wavs/581.wav|Di malam itu
+wavs/582.wav|Ketika enam laskar dilucuti
+wavs/583.wav|Setelah itu pergi lagi dan
+wavs/584.wav|Kemudian
+wavs/585.wav|Entah yang dua dibawa kemana
+wavs/586.wav|Mungkin dibawa ke rumah sakit karena sudah meninggal
+wavs/587.wav|Dan jangan lupa
+wavs/588.wav|Ketika dilucuti pertama
+wavs/589.wav|Katanya enam-enamnya masih hidup
+wavs/590.wav|Dan empat dibawa kemana kita tidak tahu
+wavs/591.wav|Tapi yang jelas akhirnya sama-sama ditemukan
+wavs/592.wav|Meninggal di rumah sakit
+wavs/593.wav|Pulau Keramat Jati
+wavs/594.wav|Semoga dari kalian kita berdoa terus
+wavs/595.wav|Siapapun yang zalim
+wavs/596.wav|Akan mendapatkan ganjarannya
+wavs/597.wav|Dan ini gak ada
+wavs/598.wav|Kaitannya dengan keamanan negara
+wavs/599.wav|FPI bukan penjahat
+wavs/600.wav|Bukan orang yang hendak
+wavs/601.wav|Menghancurkan negara
+wavs/602.wav|FPI adalah organisasi
+wavs/603.wav|Yang justru sudah bermimikri
+wavs/604.wav|Tidak pernah lagi melakukan
+wavs/605.wav|Hal-hal di luar hukum
+wavs/606.wav|Dan
+wavs/607.wav|Peaceful assembly
+wavs/608.wav|Paling tidak dalam beberapa tahun terakhir
+wavs/609.wav|Sebagaimana diobservasi oleh Rocky Gerung
+wavs/610.wav|Tetapi
+wavs/611.wav|Pemerintah atau penguasa
+wavs/612.wav|Melalui
+wavs/613.wav|Menko Purhukam pada waktu itu
+wavs/614.wav|Membubarkannya
+wavs/615.wav|Dengan alasan yang tidak jelas
+wavs/616.wav|Ada yang mengatakan alasan administratif
+wavs/617.wav|Tidak diperpanjang pendaftarannya
+wavs/618.wav|Padahal
+wavs/619.wav|Banyak organisasi yang tidak mendaftar
+wavs/620.wav|Ada yang mengatakan karena
+wavs/621.wav|Melakukan perbuatan-perbuatan di masa lalu
+wavs/622.wav|Yang tidak ada proses pengadilannya
+wavs/623.wav|Jadi sahabat-sahabat kalian
+wavs/624.wav|Be just, jadilah orang yang
+wavs/625.wav|Adil ya
+wavs/626.wav|Baik terhadap temanmu maupun terhadap musuhmu
+wavs/627.wav|Sekalipun
+wavs/628.wav|Oke sahabat-sahabat kalian
+wavs/629.wav|Itu saja
+wavs/630.wav|Dan mudah-mudahan ini menjadi pembelajaran
+wavs/631.wav|Bagi kita semua
+wavs/632.wav|Tonton filmnya
+wavs/633.wav|Jangan lupa
+wavs/634.wav|Wassalamualaikum warahmatullahi wabarakatuh
+wavs/635.wav|Terima kasih
+wavs/636.wav|Sobat RH sekalian, jumpa lagi kita di channel yang keren ini, keren jahat
+wavs/637.wav|Ya, sobat RH sekalian, saya mau ambil video ringan-ringan ya
+wavs/638.wav|Soal perjalanan saya sehari dengan Anies Baswedan
+wavs/639.wav|Jadi sobat semuanya ya, saya bukan orang yang sering berjalan dengan Anies bareng gitu ya
+wavs/640.wav|Karena saya meskipun saya sahabatnya, saya bukan inner circle-nya itu satu
+wavs/641.wav|Yang kedua, saya pun bukan orang yang mengikuti dia untuk dukung Prano, Pramonorano ya
+wavs/642.wav|Jadi meskipun saya diminta oleh orang-orang Anies untuk dukung Pramonorano
+wavs/643.wav|Dengan cara tertentu ya, termasuk juga diundang makan siang, saya tetap bergeming
+wavs/644.wav|Bergeming itu artinya tidak bergerak ya, karena saya kok lebih suka netral
+wavs/645.wav|Tapi kalau mau jujur ya, pertama sudah pasti saya tidak akan memilih Ridwan Kamil
+wavs/646.wav|Itu sudah pasti, kenapa? Karena saya menganggap dia berasal dari kartel politik
+wavs/647.wav|Saya berkali-kali mengatakan saya paling tidak suka orang yang tidak fair
+wavs/648.wav|Di dalam kompetisi demokrasi, apalagi menggunakan cara-cara yang kotor
+wavs/649.wav|Cara-cara membeli semua partai politik, yang bagi saya itu adalah cara kampungan
+wavs/650.wav|Tidak mau saya yang seperti itu, saya inginnya yang gentle perdemokrasinya
+wavs/651.wav|Karena itu no way dengan Ridwan Kamil
+wavs/652.wav|Tapi untuk Pramonorano, saya lihat dulu PDIP dan Pramonorano
+wavs/653.wav|Mereka genuine tidak berdemokrasi sesungguhnya?
+wavs/654.wav|Apakah karena mereka tidak didukung oleh Mulyono saja
+wavs/655.wav|Kemudian mereka seolah-olah sekarang menjadi seorang demokrat
+wavs/656.wav|Kalau ditanyakan kepada Deddy Soturos, pasti marah dia mengatakan
+wavs/657.wav|Lihat dulu dong, jangan kami malaikan saja ditipu sama Mulyono dan lain-lain
+wavs/658.wav|Tapi it's okay, kita akan lihat ke depan apakah betul PDIP akan konsisten
+wavs/659.wav|Di dalam beroposisi dan menegakkan nilai-nilai demokrasi
+wavs/660.wav|Jangan sampai nanti begitu ada tawaran, masuk juga satu kolam
+wavs/661.wav|Dan kemudian perilakunya sama, suka melaporkan orang
+wavs/662.wav|Dulu kan kerja yang melaporkan orang PDIP, Hasto
+wavs/663.wav|Makanya berulang-ulang saya katakan ketika saya bertemu Hasto
+wavs/664.wav|Dalam satu forum yang dia undang, saya mengatakan
+wavs/665.wav|Kalau berkuasa jangan lagi suka ngadu-ngaduin orang
+wavs/666.wav|Begitu Sobat RH sekalian
+wavs/667.wav|Dan saya kemudian jalan bersama Anies
+wavs/668.wav|Gara-garanya sederhana, ada diskusi buku
+wavs/669.wav|Buku yang dibuat oleh Yusuf Belegur dan teman satunya lagi saya lupa namanya
+wavs/670.wav|Mengenai Anies Perswedan juga
+wavs/671.wav|Kemudian Anies datang dan saya dampingi
+wavs/672.wav|Dan kemudian dia mengatakan kalau dia mendukung Pramonorano
+wavs/673.wav|Sebagai sahabat, saya tersenyum
+wavs/674.wav|Saya katakan dalam acara yang Aniesnya sudah pulang
+wavs/675.wav|Karena setelah itu dia pulang, setelah memberikan orasi
+wavs/676.wav|Saya bilang, saya Nino
+wavs/677.wav|Nino itu no endorse, no oppose
+wavs/678.wav|Jadi saya tidak mengendorse Pramonorano
+wavs/679.wav|Tapi tidak juga beroposisi
+wavs/680.wav|Saya beroposisi terhadap perilaku Muliono
+wavs/681.wav|Termasuk perilaku Prabowo juga
+wavs/682.wav|Yang menurut saya tidak gentle dalam berdemokrasi untuk Muliono
+wavs/683.wav|Dan tidak menegakkan etika kenegaraan dalam hal ini Prabowo
+wavs/684.wav|Karena etika kenegaraan itu sama pentingnya dengan soal-soal lainnya
+wavs/685.wav|Termasuk juga kecurangan dan lain sebagainya
+wavs/686.wav|Untuk kita perhatikan dan kita kritisi
+wavs/687.wav|Jadi saya berharap sekalian penerbangan saya itu pukul
+wavs/688.wav|Pukul sepuluh tiga puluh
+wavs/689.wav|Dengan Transnusa
+wavs/690.wav|Di Terminal Tiga Suta
+wavs/691.wav|Saya berangkat dari rumah pukul sembilan nol lima
+wavs/692.wav|Waktu Indonesia Bagian Barat
+wavs/693.wav|Kemudian staf Anies sudah agak cemas
+wavs/694.wav|Di mana saya
+wavs/695.wav|Karena belum datang juga
+wavs/696.wav|Tetapi saya sudah manage
+wavs/697.wav|Bahwa yang namanya dari rumah saya ke bandara cukup satu jam
+wavs/698.wav|Jadi pukul sepuluh
+wavs/699.wav|Saya pastikan saya akan sudah tiba
+wavs/700.wav|Sebelum pukul sembilan ternyata benar
+wavs/701.wav|Dan seperti biasanya
+wavs/702.wav|Kalau jalan sama Anies
+wavs/703.wav|Saya sudah pastikan
+wavs/704.wav|Dia akan terus menerus
+wavs/705.wav|Setelah beberapa lama kemudian
+wavs/706.wav|Tidak lama ya Anies pun datang
+wavs/707.wav|Kemudian kita sama-sama masuk
+wavs/708.wav|Masuk bandara
+wavs/709.wav|Dan dalam proses masuk bandara itu seperti biasa
+wavs/710.wav|Akan ada orang-orang yang minta foto
+wavs/711.wav|Sama Anies Berswedan
+wavs/712.wav|Yang jelas barang itu masih mempesona
+wavs/713.wav|Kalau istilah bahla itu
+wavs/714.wav|Barang itu ya
+wavs/715.wav|Menurut mengatakan Jokowi
+wavs/716.wav|Tapi
+wavs/717.wav|Barang itu
+wavs/718.wav|Apa ya
+wavs/719.wav|Gawat
+wavs/720.wav|Susah
+wavs/721.wav|Gak bisa main-main sama barang itu
+wavs/722.wav|Kali ini
+wavs/723.wav|Barang ini masih mempesona
+wavs/724.wav|Anies Berswedan
+wavs/725.wav|Lalu kita naik mobil
+wavs/726.wav|Apa
+wavs/727.wav|Mobil golf
+wavs/728.wav|Coba lihat ya
+wavs/729.wav|Pokoknya semua kalangan
+wavs/730.wav|Mulai dari anak kecil
+wavs/731.wav|Nenek-nenek
+wavs/732.wav|Gadis cantik dan lain sebagainya
+wavs/733.wav|Semua minta foto
+wavs/734.wav|Kemudian
+wavs/735.wav|Kita juga naik mobil golf
+wavs/736.wav|Ke bandara
+wavs/737.wav|Sempat-sempat juga di foto
+wavs/738.wav|Orang depan
+wavs/739.wav|Jadi
+wavs/740.wav|Dan kemudian di
+wavs/741.wav|Pesawat
+wavs/742.wav|Di pesawat kebetulan
+wavs/743.wav|Saya satu tempat duduk
+wavs/744.wav|Tempat duduk
+wavs/745.wav|Jadi Anies juga casual sesungguhnya
+wavs/746.wav|Cuma bedanya ketika dia
+wavs/747.wav|Acara
+wavs/748.wav|Dia
+wavs/749.wav|Tidak casual lagi
+wavs/750.wav|Kalau saya penampilannya kayak
+wavs/751.wav|Mafia
+wavs/752.wav|Pakai topi
+wavs/753.wav|Pakai kacamata hitam
+wavs/754.wav|Oke
+wavs/755.wav|Tidak banyak yang saya
+wavs/756.wav|Dan Anies obrolkan ketika
+wavs/757.wav|Satu pesawat selama satu setengah jam
+wavs/758.wav|Penerbangan Jakarta-Bali
+wavs/759.wav|Jadi saudara-saudara sekalian
+wavs/760.wav|Itu acara
+wavs/761.wav|IKADIN
+wavs/762.wav|RAKERNAS, Raperkerja Nasional IKADIN
+wavs/763.wav|Yang diselenggarakan
+wavs/764.wav|Tentu oleh IKADIN
+wavs/765.wav|Ketua IKADIN sekarang
+wavs/766.wav|Adalah
+wavs/767.wav|Magdir Ismail
+wavs/768.wav|Kemudian Dewan Pembinanya adalah
+wavs/769.wav|Ini foto ketika kita sudah sampai
+wavs/770.wav|Di Bandara Ngurara ya
+wavs/771.wav|Berjalan
+wavs/772.wav|Ketua
+wavs/773.wav|Ketuanya
+wavs/774.wav|Ketua Dewan Pembinanya atau apa
+wavs/775.wav|Honorary Chairman
+wavs/776.wav|Ketua Kehormatan, Honorary Chairman
+wavs/777.wav|Chairman itu adalah
+wavs/778.wav|Todung Mulia Lubis
+wavs/779.wav|Jadi itulah dua tokoh dari IKADIN saat ini ya
+wavs/780.wav|Ikatan Advokat Indonesia
+wavs/781.wav|Yang berulang tahun ketiga lapan
+wavs/782.wav|Atau ketiga sembilan ya
+wavs/783.wav|Dan memang
+wavs/784.wav|Saudara-saudara sekalian
+wavs/785.wav|IKADIN ini
+wavs/786.wav|Kebanyakan adalah pembela ganjar
+wavs/787.wav|Di dalam pil pres kemarin
+wavs/788.wav|Baik
+wavs/789.wav|Magdir Ismail maupun
+wavs/790.wav|Todung Mulia Lubis adalah lawyer ganjar
+wavs/791.wav|Dalam sengketa
+wavs/792.wav|Di Mahkamah Konstitusi
+wavs/793.wav|Sementara saya
+wavs/794.wav|Lawyer Anis ya
+wavs/795.wav|Tetapi kita tahu Anis dan Ganjar
+wavs/796.wav|Sekarang sudah
+wavs/797.wav|Terklop
+wavs/798.wav|Tetapi di Bali kemarin sejujurnya
+wavs/799.wav|Mereka baru pertama kalinya
+wavs/800.wav|Bertemu di dalam forum yang
+wavs/801.wav|Tidak pernah juga
+wavs/802.wav|Tapi virtual
+wavs/803.wav|Mereka hadir secara virtual
+wavs/804.wav|Tapi ini
+wavs/805.wav|Mereka hadir secara fisik
+wavs/806.wav|Ganjar tentu saja hadir
+wavs/807.wav|Karena yang mengundang adalah
+wavs/808.wav|Para lawyer dia
+wavs/809.wav|Dan Anis hadir
+wavs/810.wav|Karena ngundangnya melalui saya
+wavs/811.wav|Saya ke John Odius
+wavs/812.wav|Yang lebih dekat dengan lingkaran Anis
+wavs/813.wav|Dari John Odius ke Anis
+wavs/814.wav|Dan Anis kemudian mau datang
+wavs/815.wav|Dan
+wavs/816.wav|Luar biasa
+wavs/817.wav|Karena sebenarnya
+wavs/818.wav|Ini acara IKADIN, Ikatan Advokat Indonesia
+wavs/819.wav|Saya juga anggota IKADIN
+wavs/820.wav|Saya anggota IKADIN
+wavs/821.wav|Saya bisa spill juga
+wavs/822.wav|Ini saya ya
+wavs/823.wav|Kartu
+wavs/824.wav|Anggota saya
+wavs/825.wav|Anggota IKADIN dan juga saya pengurus IKADIN
+wavs/826.wav|Tapi di Dewan Pengawasnya
+wavs/827.wav|Jadi saya bertemu Ganjar ini
+wavs/828.wav|Pas capil pres
+wavs/829.wav|Untuk kedua kalinya keliatannya
+wavs/830.wav|Jadi all UGM's men
+wavs/831.wav|Men karena jama
+wavs/832.wav|Jadi baik saya, Ganjar, maupun Anis
+wavs/833.wav|Orang-orang UGM sesungguhnya
+wavs/834.wav|Ganjar kakak
+wavs/835.wav|Angkatan saya, dua tahun di atas saya
+wavs/836.wav|Angkatan lapan tujuh
+wavs/837.wav|Kemudian Anis dan saya satu generasi
+wavs/838.wav|Angkatan lapan sembilan, bedanya adalah
+wavs/839.wav|Saya dan Ganjar satu fakultas
+wavs/840.wav|Fakultas Hukum, Anis Fakultas Ekonomi
+wavs/841.wav|Jadi
+wavs/842.wav|Luar biasa
+wavs/843.wav|Dua-duanya
+wavs/844.wav|Ini harus dipenuhi gambarnya
+wavs/845.wav|Jadi
+wavs/846.wav|Anis Fakultas Ekonomi
+wavs/847.wav|Tetapi Anis luar biasa
+wavs/848.wav|Dia mengambil S-duanya
+wavs/849.wav|Kalau tidak salah Public Policy
+wavs/850.wav|Kalau tidak salah S-tiganya
+wavs/851.wav|Kemudian ilmu politik dari
+wavs/852.wav|Ohio State University
+wavs/853.wav|Di Amerika Serikat
+wavs/854.wav|Kalau dia bahasa inggrisnya baik
+wavs/855.wav|Wajar
+wavs/856.wav|Dia AFS
+wavs/857.wav|Kemudian dia juga
+wavs/858.wav|Enam tahun di Amerika Serikat
+wavs/859.wav|Rasanya enam tahun
+wavs/860.wav|Dari sembilan enam atau sembilan tujuh
+wavs/861.wav|Baru pulang
+wavs/862.wav|Ketika menjelang
+wavs/863.wav|Pilpres
+wavs/864.wav|Dua ribu empat
+wavs/865.wav|Itu
+wavs/866.wav|Anis Rashid Baswedan
+wavs/867.wav|Dan
+wavs/868.wav|Ini sebenarnya kan dikandangnya
+wavs/869.wav|Lawyer, tapi kalau orang
+wavs/870.wav|Cerdas itu ya gak susah
+wavs/871.wav|Saya tahu
+wavs/872.wav|Pasti ada yang menyiapkan konsep
+wavs/873.wav|Dan Anis tidak bertanya
+wavs/874.wav|Apa-apa dari saya
+wavs/875.wav|Sebagai seorang sarjana hukum
+wavs/876.wav|Karena dia pure
+wavs/877.wav|Dia tahu betul
+wavs/878.wav|Dia paham tentang hukum dari praktik
+wavs/879.wav|Yang terjadi, saya kira
+wavs/880.wav|Kasus Formula E juga sudah
+wavs/881.wav|Sudah memberi pengalaman
+wavs/882.wav|Bagi dia soal
+wavs/883.wav|Uncertainty dalam penegakan hukum
+wavs/884.wav|Ketidakpastian dalam penegakan hukum
+wavs/885.wav|Karena temanya adalah penegakan hukum
+wavs/886.wav|Jadi
+wavs/887.wav|Sahabat-sahabat kalian
+wavs/888.wav|Ketika kita
+wavs/889.wav|Mendengarkan pembukaan
+wavs/890.wav|Ini yang dalam satu stage
+wavs/891.wav|Menegakkan hukum untuk
+wavs/892.wav|Kepastian hukum dan keadilan
+wavs/893.wav|Jadi saya juga diminta oleh ketua
+wavs/894.wav|Organizing Committee-nya
+wavs/895.wav|Kebetulan putri dari
+wavs/896.wav|Ketua IKADIN
+wavs/897.wav|Tetapi
+wavs/898.wav|Saya menolak untuk menjadi pembicara
+wavs/899.wav|Karena tidak enak, karena dari awal tidak diundang
+wavs/900.wav|Kalau misalnya
+wavs/901.wav|Tiba-tiba saya tampil disitu
+wavs/902.wav|Rasanya gak enak
+wavs/903.wav|Baik dengan Ganjar, Anis
+wavs/904.wav|Maupun Todung Mulia Lubis
+wavs/905.wav|Jadi saya mengatakan
+wavs/906.wav|Lima pembicara itu kebanyakan
+wavs/907.wav|Jadi satu pembicara perwakilan
+wavs/908.wav|Dari Kejaksaan Tinggi Bali
+wavs/909.wav|Menggantikan Jaksa Agung
+wavs/910.wav|Dan yang tidak datang adalah
+wavs/911.wav|Ketua Komisi Tiga
+wavs/912.wav|Habibur Rahman yang diundang
+wavs/913.wav|Dalam kegiatan ini. Saya membayangkan
+wavs/914.wav|Habib pasti tidak
+wavs/915.wav|Happy dengan hal-hal seperti ini
+wavs/916.wav|Habib terlalu junior
+wavs/917.wav|Kalau untuk berhadapan dengan
+wavs/918.wav|Macan-macan ini, ada Todung, ada Ganjar
+wavs/919.wav|Ada Anis Buzwe
+wavs/920.wav|Dan kecuali kalau yang mengundang
+wavs/921.wav|Mungkin pihak yang
+wavs/922.wav|Satu frekuensi
+wavs/923.wav|Ini kan frekuensi oposisi sejujurnya
+wavs/924.wav|Lebih menonjol
+wavs/925.wav|Jadi wajar kalau Habibur Rahman tidak datang
+wavs/926.wav|Disitu kelihatan ada
+wavs/927.wav|Mulia Lubis
+wavs/928.wav|Kemudian ada
+wavs/929.wav|Magdir Ismail sebagai ketua
+wavs/930.wav|Ikadin. Saya tidak ikut berfoto
+wavs/931.wav|Karena saya ke kamar kecil
+wavs/932.wav|Pada saat ini
+wavs/933.wav|Jadi sahabat-sahabat
+wavs/934.wav|Sekalian seperti yang
+wavs/935.wav|Saya katakan tadi, tidak banyak yang
+wavs/936.wav|Saya obrolkan
+wavs/937.wav|Karena memang kalau sudah teman itu
+wavs/938.wav|Saya juga mengundang Anis
+wavs/939.wav|Untuk hadir di podcast ini
+wavs/940.wav|Dia berjanji mau datang
+wavs/941.wav|Saya bilang, saya itu bingung
+wavs/942.wav|Kalau saya undang Antem, saya mau nanya apa
+wavs/943.wav|Jadi kalau kita tidak
+wavs/944.wav|Terlalu berjarak dengan narasumbernya
+wavs/945.wav|Kita
+wavs/946.wav|Ada perasaan tidak enak, rikuh
+wavs/947.wav|Karena saya tahu, saya tahu dia
+wavs/948.wav|Dia tahu saya, tetapi saya kira
+wavs/949.wav|Agar objektif, berangkali ada beberapa
+wavs/950.wav|Pertanyaan objektif yang
+wavs/951.wav|Need
+wavs/952.wav|To be clarified, misalnya
+wavs/953.wav|Pertanyaan mengapa dia akhirnya mendukung
+wavs/954.wav|Pramonorano
+wavs/955.wav|Apakah kemudian, kok dia
+wavs/956.wav|Disakiti, tapi
+wavs/957.wav|Jadi one
+wavs/958.wav|Itu saja, bukan dialog
+wavs/959.wav|Jadi cuma menyampaikan
+wavs/960.wav|Menyampaikan sesuatu
+wavs/961.wav|Saja yang berangkali
+wavs/962.wav|Yang berangkali merupakan a public question
+wavs/963.wav|Karena kalau saya sendiri
+wavs/964.wav|Saya sudah bisa menduga
+wavs/965.wav|Apa yang ada dalam benak dan pikirannya
+wavs/966.wav|Tetapi berangkali public perlu ketahui
+wavs/967.wav|Termasuk misalnya kita tanya
+wavs/968.wav|Hubungan dia dengan Habib Rizik Shihab
+wavs/969.wav|Dengan kelompok
+wavs/970.wav|Dan lain sebagainya
+wavs/971.wav|Ini gambar ketika kita
+wavs/972.wav|Kemudian Anis sendiri ini berinisiatif
+wavs/973.wav|Untuk bertemu dengan pengurus IKADIN
+wavs/974.wav|Unfortunately
+wavs/975.wav|Ganjar sudah duluan, dia ada
+wavs/976.wav|Kegiatan lain
+wavs/977.wav|Tetapi ini
+wavs/978.wav|Ketika kita
+wavs/979.wav|Kemudian dijamu oleh
+wavs/980.wav|Pengurus IKADIN dan juga
+wavs/981.wav|Apa
+wavs/982.wav|Bertemu dengan pentolon-pentolon IKADIN
+wavs/983.wav|Jadi disamping
+wavs/984.wav|Saya itu yang namanya Magdir Ismail
+wavs/985.wav|Kemudian Anis Perswedan dan
+wavs/986.wav|Siapa dari
+wavs/987.wav|Kejaksaan Tinggi
+wavs/988.wav|Bali, ada Todung Mulia Lubis
+wavs/989.wav|Ada Bu Susi, ada Sahran Hamid
+wavs/990.wav|Kemudian ada Putri
+wavs/991.wav|Magdir Ismail yang menjadi
+wavs/992.wav|Ketua Organizing Committee
+wavs/993.wav|Ada Najib Gismar dan lain sebagainya
+wavs/994.wav|Ada juga Sekjen
+wavs/995.wav|IKADIN, Rido Rahmadi, ada juga
+wavs/996.wav|Taufik Basari
+wavs/997.wav|Politisi dari
+wavs/998.wav|Nasdem yang saat ini tidak lagi jadi anggota
+wavs/999.wav|DPR dan sekarang dia
+wavs/1000.wav|Anggota IKADIN
+wavs/1001.wav|Begitu sobat era
+wavs/1002.wav|Sekalian
+wavs/1003.wav|Sambil santai-santai
+wavs/1004.wav|Saya pernah juga
+wavs/1005.wav|Ikut Anis perjalanan
+wavs/1006.wav|Ketika kampanye kemarin
+wavs/1007.wav|Dengan private jet
+wavs/1008.wav|Dan ini benar-benar
+wavs/1009.wav|Nebeng, gak nebeng dong
+wavs/1010.wav|Diundang
+wavs/1011.wav|Kalau nebeng itu beda, diundang
+wavs/1012.wav|Perjalanan tidak terlalu jauh
+wavs/1013.wav|Ke Bengkulu, kemudian Lampung
+wavs/1014.wav|Dan balik
+wavs/1015.wav|Bengkulu tidak
+wavs/1016.wav|Menginap, yang menginapnya di Lampung
+wavs/1017.wav|Begitu padatnya acara dan Anis
+wavs/1018.wav|Baik, memberikan kesempatan
+wavs/1019.wav|Saya untuk beroperasi
+wavs/1020.wav|Beroperasi di
+wavs/1021.wav|Universitas
+wavs/1022.wav|Malahayati
+wavs/1023.wav|Oh iya di Malahayati
+wavs/1024.wav|Malahayati agak bingung, di Lampung
+wavs/1025.wav|Saya suruh kasih kata sambutan
+wavs/1026.wav|Tapi kata Anis, up to you
+wavs/1027.wav|Maka pada saat itu ingat saya
+wavs/1028.wav|Tanggal tujuh Desember, iya tujuh Desember
+wavs/1029.wav|Pada saat itu tanggal tujuh Desember
+wavs/1030.wav|Kita tahu tujuh Desember adalah
+wavs/1031.wav|KM-Limapuluh ya
+wavs/1032.wav|Sehari sebelumnya tanggal enam Desember
+wavs/1033.wav|Berarti di Bengkulu saya juga
+wavs/1034.wav|Disuruh berorasi
+wavs/1035.wav|Di kampus
+wavs/1036.wav|Namanya profesor Islam
+wavs/1037.wav|Lupa saya profesor siapa itu
+wavs/1038.wav|Yang jelas dia ahli hukum Islam
+wavs/1039.wav|Di Bengkulu ya
+wavs/1040.wav|Lalu menyanyikan lagu, Digor Bengkulu menyanyikan lagu
+wavs/1041.wav|Dua ribu dua empat
+wavs/1042.wav|Anis Presiden
+wavs/1043.wav|Lagu itu rame-rame
+wavs/1044.wav|Dan musiknya saya titipkan ke Panitia
+wavs/1045.wav|Saya membayangkan sobat era sekalian
+wavs/1046.wav|Kalau dia menang bagaimana
+wavs/1047.wav|Saya kira gak bisa lagi
+wavs/1048.wav|Jalan seperti ini
+wavs/1049.wav|Atau orang lain dengan mudahnya meminta foto
+wavs/1050.wav|Dan lain sebagainya
+wavs/1051.wav|Jadi sobat era sekalian
+wavs/1052.wav|Terlepas dari bahwa yang menang adalah Prabowo
+wavs/1053.wav|Saya kira kalau presiden kita Anis Baswedan
+wavs/1054.wav|Itu very very
+wavs/1055.wav|Sophisticated
+wavs/1056.wav|Kenapa?
+wavs/1057.wav|Ya tadi mudah, charming
+wavs/1058.wav|Kemudian gagah
+wavs/1059.wav|Tinggi
+wavs/1060.wav|Rata-rata di atas orang Indonesia
+wavs/1061.wav|Jadi inilah
+wavs/1062.wav|Enak liatnya
+wavs/1063.wav|Terlihat sehat, mukanya cerah
+wavs/1064.wav|Bahasa Inggrisnya baik
+wavs/1065.wav|Kemudian air mukanya
+wavs/1066.wav|Baik dan ramah dan lain sebagainya
+wavs/1067.wav|Kalau air mukanya
+wavs/1068.wav|RH kan jutek
+wavs/1069.wav|Sinis ya
+wavs/1070.wav|Kalau dia enggak
+wavs/1071.wav|Di setegur orang
+wavs/1072.wav|Minta foto dan lain sebagainya
+wavs/1073.wav|Ya jalan aja
+wavs/1074.wav|Minta foto, stop
+wavs/1075.wav|Padahal ya barangkali dia harus terburu-buru
+wavs/1076.wav|Ya saya juga santai
+wavs/1077.wav|Karena saya berpikir walaupun saya telat pesawatnya
+wavs/1078.wav|It's okay ya gak ada masalah
+wavs/1079.wav|Terus saya
+wavs/1080.wav|I was invited
+wavs/1081.wav|Tidak saya diundang
+wavs/1082.wav|Jadi ya santai saja
+wavs/1083.wav|Dan ini foto
+wavs/1084.wav|Ketika dia merangkul saya mengatakan
+wavs/1085.wav|Hari yang panjang
+wavs/1086.wav|Long day
+wavs/1087.wav|Saya lupa ingat persisnya
+wavs/1088.wav|Dia ngomong pokoknya intinya hari yang panjang atau long day
+wavs/1089.wav|Dan
+wavs/1090.wav|Saya mengatakan saya akan dijemput
+wavs/1091.wav|Oleh staff saya
+wavs/1092.wav|Dan kemudian ya kita berpisah
+wavs/1093.wav|Dia menawari untuk naik
+wavs/1094.wav|Satu mobil
+wavs/1095.wav|Dan kemudian barangkali bisa stop di ujung jalan tol
+wavs/1096.wav|Saya bilang no
+wavs/1097.wav|Saya dijemput oleh seseorang
+wavs/1098.wav|Jadi dia
+wavs/1099.wav|Saya pergi ke
+wavs/1100.wav|Tempat kedatangan
+wavs/1101.wav|Di terminal tiga itu
+wavs/1102.wav|Di kedatangan
+wavs/1103.wav|Bukan di keberangkatan dibawah
+wavs/1104.wav|Sementara saya ke parkir
+wavs/1105.wav|Terminal lantai tiga kebiasaan saya
+wavs/1106.wav|Menunggu jemputan
+wavs/1107.wav|Di parkir sana biar
+wavs/1108.wav|Kemudian gak bingung
+wavs/1109.wav|Tidak diusir-usir orang
+wavs/1110.wav|Dan lain sebagainya
+wavs/1111.wav|Jadi kalau sudah datang dulu
+wavs/1112.wav|Kalau belum datang ya saya yang duduk
+wavs/1113.wav|Di situ
+wavs/1114.wav|Begitu sobat RH sekalian ya
+wavs/1115.wav|Cerita satu hari saya bersama
+wavs/1116.wav|Anies Rashid Bezwedan
+wavs/1117.wav|Dan saya senang
+wavs/1118.wav|Walaupun dalam
+wavs/1119.wav|Pilkada DKI saya
+wavs/1120.wav|Berbeda
+wavs/1121.wav|Saya gak ada bekas-bekas tinta
+wavs/1122.wav|Saya bagian dari empat puluh persen
+wavs/1123.wav|Yang golput
+wavs/1124.wav|Sebenarnya begini sobat RH sekalian
+wavs/1125.wav|Kalau golput dan gercos itu disatukan
+wavs/1126.wav|Barangkali jangan-jangan menang
+wavs/1127.wav|Kan kalau kita bicara
+wavs/1128.wav|Tingkat partisipasi itu orang yang
+wavs/1129.wav|Tidak memilih, yang tidak datang
+wavs/1130.wav|Tidak showing up, tidak show up
+wavs/1131.wav|Tetapi kalau kita kaitkan
+wavs/1132.wav|Dengan misalnya
+wavs/1133.wav|Kalau kita
+wavs/1134.wav|Kaitkan
+wavs/1135.wav|Kalau kita kaitkan dengan
+wavs/1136.wav|Yang gercos
+wavs/1137.wav|Gerakan coblos semua atau coblos semua
+wavs/1138.wav|Maka kalau digabungkan
+wavs/1139.wav|Jangan-jangan ya
+wavs/1140.wav|Jadi suara tidak sah dengan golput
+wavs/1141.wav|Jangan-jangan persentasenya
+wavs/1142.wav|Bisa sampai lima puluh persen juga
+wavs/1143.wav|Nah ini menarik ya
+wavs/1144.wav|Ada yang mengatakan perlu
+wavs/1145.wav|Dievaluasi dan lain sebagainya
+wavs/1146.wav|Saya mengatakan begini
+wavs/1147.wav|Kok evaluasi?
+wavs/1148.wav|Udah jelas ini gara-gara
+wavs/1149.wav|Yang namanya keserakan partai politik
+wavs/1150.wav|Untuk grabbing semuanya
+wavs/1151.wav|Coba kalau dibiarkan
+wavs/1152.wav|Tanpa threshold misalnya
+wavs/1153.wav|Calonnya banyak, saya kira tingkat
+wavs/1154.wav|Partisipasi akan dengan sendirinya
+wavs/1155.wav|Ini kan orang bingung
+wavs/1156.wav|Dipaksa untuk memilih antara
+wavs/1157.wav|RK yang didukung oleh
+wavs/1158.wav|Habib Rizik Shihab dan Mulyono
+wavs/1159.wav|Plus Prabowo
+wavs/1160.wav|Dengan
+wavs/1161.wav|Dengan Prano
+wavs/1162.wav|Yang didukung oleh PDIP
+wavs/1163.wav|Dan Anis Baswedan
+wavs/1164.wav|Padahal kalau secara ideologis
+wavs/1165.wav|Kan begitu kalau kita bicara tentang ideologis ya
+wavs/1166.wav|Biasanya
+wavs/1167.wav|Kelompok kanan itu ya PKS
+wavs/1168.wav|Anis bisa masuk ke sana
+wavs/1169.wav|Kan begitu
+wavs/1170.wav|Lalu melawan kelompok kiri
+wavs/1171.wav|Nah walaupun kiri kanan ini
+wavs/1172.wav|Tiba-tiba kemudian orang tidak suka ya
+wavs/1173.wav|Melihatnya
+wavs/1174.wav|Saya kira orang seperti Todung Mulya Lubis
+wavs/1175.wav|Gak begitu suka melihat
+wavs/1176.wav|Kelompok-kelompok kanan
+wavs/1177.wav|Gak bisa berbaur dengan kelompok
+wavs/1178.wav|Dua-satu-dua ya
+wavs/1179.wav|Tapi kalau
+wavs/1180.wav|Kita mau in between
+wavs/1181.wav|Tidak terlalu
+wavs/1182.wav|Ideologis ya
+wavs/1183.wav|Mungkin kita bisa bergaul dua-duanya
+wavs/1184.wav|Kita bisa
+wavs/1185.wav|Masuk kelompok sana
+wavs/1186.wav|Bisa masuk kelompok sini
+wavs/1187.wav|Tetapi intinya adalah
+wavs/1188.wav|Amar ma'ruf nahi munkar
+wavs/1189.wav|Kalau dalam rangka amar ma'ruf nahi munkar
+wavs/1190.wav|Jadi kalau pendekatannya adalah amar ma'ruf nahi munkar
+wavs/1191.wav|Jadi
+wavs/1192.wav|Orang yang beramar ma'ruf dan
+wavs/1193.wav|Bernahi munkar harusnya bisa
+wavs/1194.wav|Bersatu walaupun dari latar belakang yang
+wavs/1195.wav|Berbeda
+wavs/1196.wav|Nah katakanlah
+wavs/1197.wav|Dua-satu-dua sedang beramar ma'ruf
+wavs/1198.wav|Nahi munkar
+wavs/1199.wav|Tetapi kelompok ikadin juga
+wavs/1200.wav|Seperti Todung Mulya Lubis
+wavs/1201.wav|Makdir Ismail
+wavs/1202.wav|Juga beramar ma'ruf nahi munkar
+wavs/1203.wav|Terhadap apa? Terhadap
+wavs/1204.wav|Kekuasaan agar kekuasaan berada di
+wavs/1205.wav|Jalur yang lurus
+wavs/1206.wav|Misalnya apakah
+wavs/1207.wav|Dua-satu-dua tetap akan
+wavs/1208.wav|Memaksakan dalam tanda kutip
+wavs/1209.wav|Mengkampanyekan penegakan hukum
+wavs/1210.wav|Terhadap KM-Limapuluh
+wavs/1211.wav|Apakah kelompok-kelompok
+wavs/1212.wav|Sosial demokrat Indonesia
+wavs/1213.wav|Akan tetap menyuarakan mengenai
+wavs/1214.wav|Penegakan hukum terhadap kasus Munir
+wavs/1215.wav|Kan harusnya bisa bertemu kepentingannya
+wavs/1216.wav|Untuk bicara
+wavs/1217.wav|Kepada Prabowo
+wavs/1218.wav|Agar melakukan penegakan hukum
+wavs/1219.wav|Apakah dia
+wavs/1220.wav|Sesungguh-sungguh dalam penegakan hukum
+wavs/1221.wav|Atau hanya omon-omon saja termasuk
+wavs/1222.wav|Penegakan hukum anti korupsi
+wavs/1223.wav|Yang korup-korup
+wavs/1224.wav|Tidak usah dikasih tempat lagi
+wavs/1225.wav|Walaupun saya agak sedih juga
+wavs/1226.wav|Mendengar cerita
+wavs/1227.wav|Magdir Ismail
+wavs/1228.wav|Dia sebut nama tapi tentu saya tidak mau nyebut namanya
+wavs/1229.wav|Dalam kasus BTS
+wavs/1230.wav|Dia kan lawyer yang mengembalikan
+wavs/1231.wav|Uang dua puluh tujuh
+wavs/1232.wav|Miliar kepada Dito Aryotejo
+wavs/1233.wav|Tapi
+wavs/1234.wav|Uang dikembalikan Dito
+wavs/1235.wav|Enggak diproses sampai sekarang
+wavs/1236.wav|Tetap dijadikan menteri
+wavs/1237.wav|Ternyata isunya ada dua menteri lagi
+wavs/1238.wav|Yang menerima duit
+wavs/1239.wav|Yang menerima uang
+wavs/1240.wav|Kalau saya sebutkan namanya
+wavs/1241.wav|Anda pasti kaget
+wavs/1242.wav|Karena menteri itu
+wavs/1243.wav|Dipuji-puji sebagai menteri yang bersih
+wavs/1244.wav|Dan lain sebagainya
+wavs/1245.wav|Yang mau memperantas macam-macam
+wavs/1246.wav|Ternyata terima juga dia
+wavs/1247.wav|Wah kacau juga
+wavs/1248.wav|Saya bilang ini
+wavs/1249.wav|Yang itu
+wavs/1250.wav|Yang jadi menteri lagi terima juga
+wavs/1251.wav|Allahu Akbar
+wavs/1252.wav|Pak Prabowo
+wavs/1253.wav|The question is
+wavs/1254.wav|Anda sebenarnya
+wavs/1255.wav|Serius gak sih
+wavs/1256.wav|Mau memperantas korupsi
+wavs/1257.wav|Masa menteri-menteri bermasalah
+wavs/1258.wav|Diduga menerima uang korupsi
+wavs/1259.wav|Anda pake terus-menerus
+wavs/1260.wav|Jadi ya sudah lah
+wavs/1261.wav|Kalau memang cuma omon-omon saja ya sudah
+wavs/1262.wav|Apa boleh buat ya
+wavs/1263.wav|Berarti bahwa pemberantasan korupsi kita adalah
+wavs/1264.wav|Pemberantasan korupsi yang
+wavs/1265.wav|Omon-omon doang
+wavs/1266.wav|OMD
+wavs/1267.wav|Omon-omon doang
+wavs/1268.wav|Oke
+wavs/1269.wav|Coba kita bacakan komentar sobat era sekalian
+wavs/1270.wav|Mantap bang
+wavs/1271.wav|Pasangan serasi gak juga
+wavs/1272.wav|Kalau tinggi badannya
+wavs/1273.wav|Mirip-mirip lah
+wavs/1274.wav|Tapi
+wavs/1275.wav|Saya bukan orang yang sering bersama Anis
+wavs/1276.wav|Kaltim hadir
+wavs/1277.wav|Anis Mas Bedenlop
+wavs/1278.wav|Menyala, cadas
+wavs/1279.wav|Hadir, Kalbar hadir, cadas
+wavs/1280.wav|Assalamualaikum warahmatullahi wabarakatuh
+wavs/1281.wav|Selamat malam
+wavs/1282.wav|Assalamualaikum Bandung hadir
+wavs/1283.wav|Mutiara sekalipun di dalam lumpur tetap berkilau
+wavs/1284.wav|Saya akui
+wavs/1285.wav|Luar biasa persona Anis
+wavs/1286.wav|Mas Bedenlop
+wavs/1287.wav|Jadi saya itu sobat era sekalian
+wavs/1288.wav|Kalau ada kegiatan diantara kelompok-kelompok Anis
+wavs/1289.wav|Biasanya capek juga
+wavs/1290.wav|Melayani orang minta foto bareng
+wavs/1291.wav|Tapi kalau ada Anis
+wavs/1292.wav|Saya separuhnya senang
+wavs/1293.wav|Tidak cemburu pasti
+wavs/1294.wav|Kan jauh sekali jarak saya sama Anis
+wavs/1295.wav|Jadi saya
+wavs/1296.wav|Bisa santai
+wavs/1297.wav|Karena orang pasti
+wavs/1298.wav|Sibuk dengan Anis Mas Bedenlop
+wavs/1299.wav|Tidak dengan Refli Harun
+wavs/1300.wav|Jadi kita bisa ngerumpi-ngerumpi
+wavs/1301.wav|Sama Sahrin Hamid
+wavs/1302.wav|Sahrin Hamid itu yang sering mendamping
+wavs/1303.wav|Anis Mas Bedenlop
+wavs/1304.wav|Kalau digambar sekarang orangnya yang jalan
+wavs/1305.wav|Di sebelah kanan Anis
+wavs/1306.wav|Yang pakai jas
+wavs/1307.wav|Agak pendek-pendek sedikit
+wavs/1308.wav|Saya bercerita
+wavs/1309.wav|Lelucon sama dia
+wavs/1310.wav|Dan dia tertawa ngakak
+wavs/1311.wav|Leluconnya begini saya bilang
+wavs/1312.wav|Ini Anda itu
+wavs/1313.wav|Seperti cerita tentang
+wavs/1314.wav|Paus Johannes Paulus
+wavs/1315.wav|Ini Lelucon yang saya baca dimana
+wavs/1316.wav|Jadi one day Paus itu
+wavs/1317.wav|Bosan dia dengan keseharian
+wavs/1318.wav|Jadi dia ke New York
+wavs/1319.wav|Dan di New York dia pengen nyetir sendiri
+wavs/1320.wav|Ya sudah sopirnya disuruhnya
+wavs/1321.wav|Pindah
+wavs/1322.wav|Kan setir disana di sebelah kiri
+wavs/1323.wav|Disuruhnya pindah
+wavs/1324.wav|Sebelah kanan
+wavs/1325.wav|Kemudian dia nyetir karena gak biasa nyetir
+wavs/1326.wav|Nabrak-nabrak dan lain sebagainya
+wavs/1327.wav|Di stop oleh polisi New York
+wavs/1328.wav|Tiba-tiba polisi itu pucat
+wavs/1329.wav|Lalu udah
+wavs/1330.wav|Dia silahkan Paus pergi
+wavs/1331.wav|Lalu kemudian ditanya
+wavs/1332.wav|Oleh kepala kepolisi New York siapa dia tadi
+wavs/1333.wav|Kenapa kamu biarkan aja
+wavs/1334.wav|Apakah dia wali kota New York
+wavs/1335.wav|Bukan
+wavs/1336.wav|Apakah dia gubernur the state of New York
+wavs/1337.wav|Negara bagian New York itu the state of New York
+wavs/1338.wav|Ibu kotanya bukan New York
+wavs/1339.wav|Ibu kotanya
+wavs/1340.wav|Eh lupa saya
+wavs/1341.wav|Ibu kota New York itu bukan New York
+wavs/1342.wav|Siapa dia
+wavs/1343.wav|Apakah dia gubernur
+wavs/1344.wav|Negara bagian bukan
+wavs/1345.wav|Siapa dia
+wavs/1346.wav|Saya gak tahu
+wavs/1347.wav|Tapi siapapun dia yang jelas dia orang hebat
+wavs/1348.wav|Sopirnya aja Paus
+wavs/1349.wav|Jadi Sopirnya aja Paus
+wavs/1350.wav|Jadi saya
+wavs/1351.wav|Percanda itu
+wavs/1352.wav|Saya kasihkan ke Sahrin Hamid
+wavs/1353.wav|Dia ketertawa saya bilang
+wavs/1354.wav|Jangan salah orang itu tidak surprise dengan Anis
+wavs/1355.wav|Orang itu bertanya-tanya
+wavs/1356.wav|Siapa yang di samping Anis
+wavs/1357.wav|Saya bilang
+wavs/1358.wav|Kalau Anis sudah dikenal orang bertanya
+wavs/1359.wav|Siapa sih di samping Anis setiap ada meeting
+wavs/1360.wav|Selalu hadir dia yaitulah namanya
+wavs/1361.wav|Sahrin Hamid
+wavs/1362.wav|Pulangnya saya duduk di samping dia
+wavs/1363.wav|Jadi ada juga cerita-cerita sedikit
+wavs/1364.wav|Perginya di samping Anis pulangnya di samping
+wavs/1365.wav|Sahrin Hamid
+wavs/1366.wav|Begitu sobat era sekarang
+wavs/1367.wav|Kita bacakan lagi
+wavs/1368.wav|Apalagi ya
+wavs/1369.wav|Apalagi ya
+wavs/1370.wav|Spill dong bang namanya he he he
+wavs/1371.wav|Wah kalau spill namanya berat dong
+wavs/1372.wav|Bisa kena pencemaran
+wavs/1373.wav|Nama baik
+wavs/1374.wav|Tetapi ya itulah
+wavs/1375.wav|Itu kan sebenarnya kita gak perlu spill namanya
+wavs/1376.wav|Tetapi kabinet Prabowo
+wavs/1377.wav|Tahu sendiri
+wavs/1378.wav|Jangan lupa KM-Lima puluh
+wavs/1379.wav|Segera dibuka para koruptor yang belum tersentuh
+wavs/1380.wav|Segera diperiksa kembali dengan
+wavs/1381.wav|Jangan sampai omon-omon
+wavs/1382.wav|Kelihatan sekali Bazar Muliono disini
+wavs/1383.wav|Segala langkah dan sikap Pak Anis di Pilkada Serentak
+wavs/1384.wav|Dua ribu dua empat sudah pasti
+wavs/1385.wav|Melalui pertimbangan kemanfaatan bagi
+wavs/1386.wav|Loyalisnya so far beliau kian bersinar
+wavs/1387.wav|Tapi soal
+wavs/1388.wav|Bersinar ini benar ya
+wavs/1389.wav|Jadi pas datang ke acara
+wavs/1390.wav|Anis bilang mau ganti baju
+wavs/1391.wav|Saya bilang enggak usah ganti baju
+wavs/1392.wav|Yang namanya jaket yang dia
+wavs/1393.wav|Pakai itu ya
+wavs/1394.wav|Dengan baju dalamnya
+wavs/1395.wav|Oh itu udah cocok itu udah
+wavs/1396.wav|Lawyer like ya
+wavs/1397.wav|He he he he
+wavs/1398.wav|Jadi sudah penampakan
+wavs/1399.wav|Seorang lawyer B.A. lawyer biasa begitu
+wavs/1400.wav|Oh rupanya dia tetap
+wavs/1401.wav|Lebih percaya diri untuk ganti dengan batik
+wavs/1402.wav|Karena ternyata Ganjar Prano juga pakai batik
+wavs/1403.wav|Begitu keluar dari kamar rumah
+wavs/1404.wav|Wah mukanya terlihat bersinar
+wavs/1405.wav|Saya bilang wah ini bersinar sekali
+wavs/1406.wav|Mukanya Antum
+wavs/1407.wav|Saya bilang kalau dia saya selalu bilang Antum ya
+wavs/1408.wav|Antum bersinar sekali
+wavs/1409.wav|Mukanya tidak seperti saya
+wavs/1410.wav|Sama Sahrin itu yang kutu-kupret
+wavs/1411.wav|He he he
+wavs/1412.wav|Oke
+wavs/1413.wav|Revli Harun undang Alvin Lim
+wavs/1414.wav|Bahas kasus uang donasi Agus Salim
+wavs/1415.wav|Versus Novi dan Denny Sumargo
+wavs/1416.wav|Yang sangat viral
+wavs/1417.wav|Dan makin melebar yang berbulan-bulan
+wavs/1418.wav|Tidak selesai dan makin panas
+wavs/1419.wav|Begitu ya nanti saya lihat lagi ya
+wavs/1420.wav|Itu menunjukkan bahwa saya tidak tahu persis
+wavs/1421.wav|Semua masalah ya
+wavs/1422.wav|Memang omon-omon
+wavs/1423.wav|Jago orasi doang
+wavs/1424.wav|Pusing lah liatnya tunggulah lima tahun mendatang
+wavs/1425.wav|Insya Allah Anis jadi presiden baru benar negara ini
+wavs/1426.wav|Anak Aba mau aja
+wavs/1427.wav|Dikibulohin Mak Banteng
+wavs/1428.wav|Zaman Mulkan Jabariah
+wavs/1429.wav|Semangat terus Bang Garut hadir
+wavs/1430.wav|Oke
+wavs/1431.wav|Anis wajahnya bening
+wavs/1432.wav|Kalau tetangga
+wavs/1433.wav|Sebelah cuke
+wavs/1434.wav|Mas Anis itu cerdas
+wavs/1435.wav|Amanah selalu memperhatikan semua kaum
+wavs/1436.wav|Khususnya yang tidak mendapat keadilan dan kesamaan
+wavs/1437.wav|Kemudian
+wavs/1438.wav|Abah memang selalu bersinar
+wavs/1439.wav|Auranya sangat positif
+wavs/1440.wav|Berlian dimanapun akan tetap bersinar
+wavs/1441.wav|Bung Erha
+wavs/1442.wav|Banyak membuat pencerahan
+wavs/1443.wav|Tapi para pencerah itu apa berkenan
+wavs/1444.wav|Ya enggak perlu kita berpikir
+wavs/1445.wav|Berkenan atau enggak ya
+wavs/1446.wav|Tolong Bang Refliharun spill satu huruf nama depannya
+wavs/1447.wav|Biar kami enggak penasaran
+wavs/1448.wav|Kalau spill satu huruf depannya
+wavs/1449.wav|M
+wavs/1450.wav|M
+wavs/1451.wav|Jadi
+wavs/1452.wav|Jadi
+wavs/1453.wav|Kenapa Magdir Ismail
+wavs/1454.wav|Bisa ngomong seperti itu karena dia lawyer kan
+wavs/1455.wav|Lawyer di kasus BTS itu kan
+wavs/1456.wav|Jadi dia tahu siapa yang terima duit
+wavs/1457.wav|Siapa yang terlibat dan lain sebagainya
+wavs/1458.wav|Itu soalnya ya
+wavs/1459.wav|Ya sahabat-sahabat kalian terima kasih ya
+wavs/1460.wav|Omon-omon saya sudah selesai
+wavs/1461.wav|Tiga puluh menit lama juga ya
+wavs/1462.wav|Dan buat
+wavs/1463.wav|Bro Anis Baswedan terima kasih atas
+wavs/1464.wav|Undangannya ya
+wavs/1465.wav|Atas perkenannya ditemani
+wavs/1466.wav|Walaupun sebenarnya saya tidak ditemani
+wavs/1467.wav|Orang saya diundang oleh dia
+wavs/1468.wav|Jadi saya bukan menemani saya diundang oleh beliau
+wavs/1469.wav|Dan kemudian kita
+wavs/1470.wav|Datang come and go
+wavs/1471.wav|Mudah-mudahan bukan untuk yang
+wavs/1472.wav|Kedua dan terakhir kalinya
+wavs/1473.wav|Terlalu senang melihat
+wavs/1474.wav|Orang yang saya kira punya
+wavs/1475.wav|Komitmen terhadap negara ini whoever
+wavs/1476.wav|Siapapun dia
+wavs/1477.wav|Yang tidak boleh itu adalah koruptor
+wavs/1478.wav|Dikasih panggung dan melenggang
+wavs/1479.wav|Sementara orang baik
+wavs/1480.wav|Punya kemampuan lebih
+wavs/1481.wav|Tidak mendapatkan tempat apapun
+wavs/1482.wav|Negara ini butuh orang-orang yang jauh lebih baik
+wavs/1483.wav|Karena itu saya selalu dukung
+wavs/1484.wav|Prabowo Subianto
+wavs/1485.wav|Untuk merekrut orang-orang
+wavs/1486.wav|Baik dalam kabinetnya ya
+wavs/1487.wav|Tapi kalau terhadap Anis Baswedan
+wavs/1488.wav|Nanti kita kita hitung-hitung dulu
+wavs/1489.wav|Wassalamualaikum warahmatullahi wabarakatuh
+wavs/1490.wav|Keren cadas
+wavs/1491.wav|Terima kasih
+wavs/1492.wav|Assalamualaikum warahmatullahi wabarakatuh
+wavs/1493.wav|Sobat RH sekalian
+wavs/1494.wav|Jumpa lagi kita di channel yang keren ini
+wavs/1495.wav|Keren cadas
+wavs/1496.wav|Ya sobat RH sekalian ya
+wavs/1497.wav|Keputusan PKS untuk menghianati Anis Rashid Mazwedan
+wavs/1498.wav|Dari kesepakatan mengajukan aman Anis Sohibuliman
+wavs/1499.wav|Dan kemudian ketika ada peluang putusan MK tetap bergeming
+wavs/1500.wav|Bergeming itu artinya tidak bergerak ya bukan tidak bergeming
+wavs/1501.wav|Tidak lagi pulang seperti di Jawa Barat
+wavs/1502.wav|Menghadirkan pasangan sendiri Ahmad Syaiku dan Ilham Habibi
+wavs/1503.wav|Akhirnya mengecewakan pendukung PKS
+wavs/1504.wav|Dan sehingga PKS yang terkenal sebagai partai yang solid
+wavs/1505.wav|Akhirnya terbelah terutama di Jakarta
+wavs/1506.wav|PKS tidak sadar bahwa pemilih PKS itu adalah pemilih Anis
+wavs/1507.wav|Pemilih Anis kebanyakan memilih PKS
+wavs/1508.wav|Tetapi mereka percaya diri bahwa PKS solid sebagai partai kader
+wavs/1509.wav|Ternyata enggak juga
+wavs/1510.wav|Mungkin kader militan PKS solid
+wavs/1511.wav|Tetapi mereka orang seperti saya misalnya
+wavs/1512.wav|Ketika kemudian PKS berkhianat
+wavs/1513.wav|Maka saya sebagai pemilih PKS at least pada dua edisi pemilih terakhir
+wavs/1514.wav|Memilih untuk tidak memilih calon PKS di DKI Jakarta
+wavs/1515.wav|Akibatnya kalah
+wavs/1516.wav|Jadi Sobat Era sekalian
+wavs/1517.wav|Kalau kita mengalami hal yang sama pernah saya dengarkan dari Yunarto Widjaya
+wavs/1518.wav|Untuk pertama kalinya PKS terbelah
+wavs/1519.wav|Kenapa terbelah?
+wavs/1520.wav|Ya sederhana saja
+wavs/1521.wav|Karena PKS itu abah
+wavs/1522.wav|Abah itu PKS in general
+wavs/1523.wav|In general
+wavs/1524.wav|Nah disini kekalahan tersebut
+wavs/1525.wav|Ya harusnya PKS yang mengantongi setidaknya
+wavs/1526.wav|Menjadi wakil gubernur
+wavs/1527.wav|Kalau dia berpasangan dengan Anis
+wavs/1528.wav|Jadi dia tidak dapat apa-apa
+wavs/1529.wav|Eh di kabinet dia cuma menitipkan satu menteri seorang profesional
+wavs/1530.wav|Tidak ada dari politisi PKS
+wavs/1531.wav|Jadi apa yang didapat PKS?
+wavs/1532.wav|Bahkan di Pilkada Depok
+wavs/1533.wav|Yang selama dua puluh tahun dikuasai PKS
+wavs/1534.wav|Mulai dari Nur Mahmudi Ismail
+wavs/1535.wav|Kemudian berikutnya
+wavs/1536.wav|Wali kota berikutnya
+wavs/1537.wav|Tapi sekarang boncos
+wavs/1538.wav|Di Jawa Barat PKS pernah berjaya
+wavs/1539.wav|Dengan Ahmad Heriawan dua puluh puluh tahun
+wavs/1540.wav|Boncos juga
+wavs/1541.wav|Jadi Sobat Era sekalian
+wavs/1542.wav|Ini pelajaran bagi PKS
+wavs/1543.wav|Agar tidak berhianat dengan suara rakyat
+wavs/1544.wav|Kita tidak tahu apa masalah PKS
+wavs/1545.wav|Sehingga dia kemudian
+wavs/1546.wav|Menghianati Anis dan konstituennya
+wavs/1547.wav|Apa yang dicari PKS
+wavs/1548.wav|Ketika dalam pasangan Ridwan Kamil Suswono
+wavs/1549.wav|Dia hanya mendapatkan wakil gubernur
+wavs/1550.wav|Sama seperti kalau dia mengusung Anis
+wavs/1551.wav|Padahal kalau mengusung Anis
+wavs/1552.wav|Rasanya jauh lebih besar peluang Anis
+wavs/1553.wav|Untuk memenangkan pertarungan
+wavs/1554.wav|Ketimbang kalau seandainya
+wavs/1555.wav|Dia berpasangan dengan RK
+wavs/1556.wav|Tapi nasi sudah menjadi bubur
+wavs/1557.wav|Dan ini menjadi pembelajaran yang penting
+wavs/1558.wav|Bagi elit-elit PKS
+wavs/1559.wav|Yang kita tidak tahu
+wavs/1560.wav|Apakah termasuk terbelenggu juga
+wavs/1561.wav|Orang-orang yang pernah menjabat di pemerintahnya
+wavs/1562.wav|Sehingga kemudian tiba-tiba
+wavs/1563.wav|Dia berpikir untuk
+wavs/1564.wav|Bukan berhianat
+wavs/1565.wav|Meninggalkan Anis Baswedan
+wavs/1566.wav|Coba kita lihat ya
+wavs/1567.wav|Ini suka atau tidak
+wavs/1568.wav|Saya mengucapkan ini
+wavs/1569.wav|Karena saya pemilih PKS
+wavs/1570.wav|Saya cinta PKS
+wavs/1571.wav|Tetapi kemudian
+wavs/1572.wav|PKS kok begini
+wavs/1573.wav|Jadi
+wavs/1574.wav|Jangan marah ya Pak PKS
+wavs/1575.wav|Karena kalau saya mengatakan demikian
+wavs/1576.wav|Karena saya menyayangkan
+wavs/1577.wav|PKS kemudian tidak bisa mempertahankan
+wavs/1578.wav|Wilayah-wilayah basisnya
+wavs/1579.wav|Terutama di Depok
+wavs/1580.wav|Coba kita bacakan
+wavs/1581.wav|Di berita metrotvnews.com
+wavs/1582.wav|PKS tumbang di Depok usai
+wavs/1583.wav|Dua puluh tahun berkuasa
+wavs/1584.wav|Ini hasil Quick Count dengan suara masuk
+wavs/1585.wav|Sembilan puluh empat persen
+wavs/1586.wav|Walaupun masih tanda tanya
+wavs/1587.wav|Tapi kalau Quick Countnya sudah jauh ya
+wavs/1588.wav|Bisa-bisa kalah ya
+wavs/1589.wav|Depok
+wavs/1590.wav|Hasil Quick Count Pilkada Depok
+wavs/1591.wav|Mengejutkan
+wavs/1592.wav|Pasangan calon wali kota dan wakil wali kota
+wavs/1593.wav|Nomor uruh dua
+wavs/1594.wav|Supian Suri Chandra Rahman Shah
+wavs/1595.wav|Sementara unggul atas pertahanan dari PKS
+wavs/1596.wav|Imam Budi Hartono Ririn Farabi
+wavs/1597.wav|Arrafi
+wavs/1598.wav|Menurut hasil hitung cepat
+wavs/1599.wav|Pukul lapan belas dua puluh
+wavs/1600.wav|Rabu dua tujuh November
+wavs/1601.wav|Supian Chandra meraih
+wavs/1602.wav|Lima puluh dua koma lapan lapan persen
+wavs/1603.wav|Jauh meninggalkan pasangan Imam
+wavs/1604.wav|Ririn yang mengumpulkan
+wavs/1605.wav|Empat puluh tujuh koma dua belas persen suara
+wavs/1606.wav|Jumlah suara yang masuk tercatat
+wavs/1607.wav|Sebesar sembilan puluh empat persen
+wavs/1608.wav|Dengan data ini banyak pihak terkejut
+wavs/1609.wav|Mengingat Depok telah menjadi wilayah kekuasaan PKS
+wavs/1610.wav|Selama dua dekade terakhir
+wavs/1611.wav|Dengan mengantarkan Nur Mahmudi Ismail
+wavs/1612.wav|Hingga Imam Budi Hartono
+wavs/1613.wav|Apakah ini sinyal bahwa Depok akan berpindah haluan
+wavs/1614.wav|Koalisi Raksasa Supian Chandra
+wavs/1615.wav|Pasangan Supian Chandra diusung oleh
+wavs/1616.wav|Koalisi dua belas partai besar
+wavs/1617.wav|Termasuk PDIP, Gerindra, Demokrat
+wavs/1618.wav|Dan Nasden
+wavs/1619.wav|Strategi kampanye dengan kekuatan koalisi besar ini
+wavs/1620.wav|Tampaknya berhasil menggerus suara
+wavs/1621.wav|Pertahanan PKS yang beraliansi dengan
+wavs/1622.wav|Golkar dalam pilkada kali ini
+wavs/1623.wav|Sementara itu hasil survei sebelumnya
+wavs/1624.wav|Justru menunjukkan tren berbeda
+wavs/1625.wav|Has Survei Fox Poll Center
+wavs/1626.wav|Pada enam belas November mencatat
+wavs/1627.wav|Imam Ririn unggul dengan elektabilitas
+wavs/1628.wav|Lima puluh satu koma tujuh persen
+wavs/1629.wav|Sedangkan Supian Chandra hanya meraih
+wavs/1630.wav|Tiga puluh sembilan koma dua persen
+wavs/1631.wav|Perubahan rasin ini menjadi pertanyaan besar
+wavs/1632.wav|Apa yang membuat PKS kehilangan
+wavs/1633.wav|Kekuatannya di Depok
+wavs/1634.wav|Hasil Kewikan mencerminkan perubahan
+wavs/1635.wav|Preferensi pemilik di Depok
+wavs/1636.wav|Ada yang menyebut koalisi besar sebagai faktor penentu
+wavs/1637.wav|Sementara sebagian lain melihat
+wavs/1638.wav|Kejenuhan masyarakat terhadap dominasi
+wavs/1639.wav|Satu partai sebagai alasan utama
+wavs/1640.wav|Namun hasil ini masih bersifat sementara
+wavs/1641.wav|Hasil resmi pilkada Depok baru akan
+wavs/1642.wav|Diumumkan oleh KPU setelah proses
+wavs/1643.wav|Rekapitulasi suara selesai pada
+wavs/1644.wav|Enam belas Desember dua ribu dua empat
+wavs/1645.wav|Apakah PKS mampu bangkit di titik
+wavs/1646.wav|Terakhir atau ini benar-benar
+wavs/1647.wav|Akhir dari era kejayaannya
+wavs/1648.wav|Ini calon dari PKS
+wavs/1649.wav|Terancam kalah di Depok jadi sobat
+wavs/1650.wav|Kalian ini
+wavs/1651.wav|Yang kemudian kita sayangkan
+wavs/1652.wav|Ya saya sayangkan sebagai
+wavs/1653.wav|Pemilih PKS
+wavs/1654.wav|Dalam dua edisi terakhir
+wavs/1655.wav|Saya memilih PKS
+wavs/1656.wav|Bukan hanya karena soal ideologi kanan
+wavs/1657.wav|Alasan kanan tapi
+wavs/1658.wav|Alasan mau beroposisi kepada
+wavs/1659.wav|Muliono dan menjadi satu-satunya
+wavs/1660.wav|Yang beroposisi terhadap Muliono
+wavs/1661.wav|Setelah Demokrat melipir
+wavs/1662.wav|Juga pada saat-saat atau tikungan
+wavs/1663.wav|Terakhir dan
+wavs/1664.wav|Paling tidak ya
+wavs/1665.wav|Pertambahan kursi di
+wavs/1666.wav|DKI menunjukkan
+wavs/1667.wav|Bahwa PKS leading
+wavs/1668.wav|Dan menjadi ketua DPRD
+wavs/1669.wav|Di tingkat nasional
+wavs/1670.wav|Cuma tambah sedikit tiga kursi tapi lumayan
+wavs/1671.wav|Di DKI yang banyak lumayan
+wavs/1672.wav|Yang membuat dia menjadi juara satu
+wavs/1673.wav|Tetapi rupanya
+wavs/1674.wav|Ini tidak disertai
+wavs/1675.wav|Dengan keberuntungan di
+wavs/1676.wav|Pilkada eksekutif
+wavs/1677.wav|Karena Suswono yang
+wavs/1678.wav|Seharusnya menjadi wakil gubernur
+wavs/1679.wav|Kalau menang ternyata kalah
+wavs/1680.wav|For the time being itu sementara waktu
+wavs/1681.wav|Eh di Depok juga PKS yang begitu
+wavs/1682.wav|Perkasa sebelumnya juga kalah
+wavs/1683.wav|Jadi saya berikan sekalian
+wavs/1684.wav|Jangan main-main dengan suara rakyat
+wavs/1685.wav|Dengan aspirasi rakyat
+wavs/1686.wav|Seandainya ya menurut saya
+wavs/1687.wav|PKS solid dari awal
+wavs/1688.wav|Mendukung Anies Baswedan
+wavs/1689.wav|Mungkin bedah
+wavs/1690.wav|Dampak dari para pendukung Anies
+wavs/1691.wav|Untuk memenangkan kader-kader PKS
+wavs/1692.wav|Apalagi ada imbauan langsung dari Anies
+wavs/1693.wav|Tidak di detik-detik terakhir
+wavs/1694.wav|Karena imbauan di detik-detik terakhir itu
+wavs/1695.wav|Hanya berlaku kuat di Jakarta
+wavs/1696.wav|Ketika ada perlawanan
+wavs/1697.wav|Karena Jakarta orang melihat yang dilawan adalah
+wavs/1698.wav|Muliono sementara di Jawa Barat yang dilawan adalah
+wavs/1699.wav|Prabowo beda lagi
+wavs/1700.wav|Di Depok yang dilawan enggak tahu siapa
+wavs/1701.wav|Mungkin Prabowo
+wavs/1702.wav|Makanya kemudian
+wavs/1703.wav|Berbeda semangat perlawanannya
+wavs/1704.wav|Antara Jakarta dan daerah
+wavs/1705.wav|Yang saya sebutkan tadi Depok dan Jawa Barat
+wavs/1706.wav|Ini pelajaran penting
+wavs/1707.wav|Bagi PKS
+wavs/1708.wav|Agar menjadi partai
+wavs/1709.wav|Yang benar-benar amar ma'ruf nahi mungkar
+wavs/1710.wav|Tidak pragmatis
+wavs/1711.wav|Apalagi kemudian mengorbankan haluan partai
+wavs/1712.wav|Untuk saya tidak tahu
+wavs/1713.wav|Kepentingan siapa ketika
+wavs/1714.wav|Gabung dengan Kimplas padahal
+wavs/1715.wav|PKS tidak menitipkan
+wavs/1716.wav|Apa-apa juga kecuali satu orang
+wavs/1717.wav|Yang menjadi menteri tenaga kerja
+wavs/1718.wav|Selebihnya tidak ada
+wavs/1719.wav|Politisi PKS atau pengurus PKS
+wavs/1720.wav|Yang menjadi menteri di kabinet
+wavs/1721.wav|Prabowo lalu apa yang kau cari PKS
+wavs/1722.wav|Apakah engkau juga termasuk
+wavs/1723.wav|Orang yang tersandra
+wavs/1724.wav|Saya tidak tahu
+wavs/1725.wav|Tanyakan kepada kucing yang bergoyang
+wavs/1726.wav|Nyimak PKS suruh introspeksi
+wavs/1727.wav|Wakakak PKS terlalu sombong
+wavs/1728.wav|Sesuai prediksi pemilih
+wavs/1729.wav|PKS itu rasional dan mikir
+wavs/1730.wav|Akhirnya menyusupkan
+wavs/1731.wav|PKS rungkat
+wavs/1732.wav|PKS ibarat main slot
+wavs/1733.wav|Sudah judi rungkat pulau wakakak
+wavs/1734.wav|Gabung Kimplas dijanjiin kursi menteri
+wavs/1735.wav|Dan tidak boleh usung Anis
+wavs/1736.wav|Eh malah kena prank
+wavs/1737.wav|Terbukti PKS gagal di Jakarta
+wavs/1738.wav|Dalam pilih kata DKI padahal pemenang
+wavs/1739.wav|Pilih kesadarkan bahwa PKS
+wavs/1740.wav|Bahwa Anis efek terbukti
+wavs/1741.wav|Dapat mengalahkan mereka
+wavs/1742.wav|PKS berbenah di sumut
+wavs/1743.wav|Bukan faktor PKS Bobby menang
+wavs/1744.wav|Tapi faktor Meliono dan Prabowo
+wavs/1745.wav|Saya juga pemilih PKS
+wavs/1746.wav|Begitu PKS Sian
+wavs/1747.wav|Saya golput di Jawa Barat
+wavs/1748.wav|Rungkat PKS Wakakak
+wavs/1749.wav|PKS Kepedian kader-kadernya terkesan
+wavs/1750.wav|Mengekslusifkan diri suara pemerhati
+wavs/1751.wav|Udah gue bilang
+wavs/1752.wav|Jangan macem-macem sama Anis
+wavs/1753.wav|Sekarang tenggelamkan lo PKS
+wavs/1754.wav|Rasa indah lo
+wavs/1755.wav|Kemarin gue pilih PKS sekeluarga
+wavs/1756.wav|Eh malah jadi pengkhianat
+wavs/1757.wav|Risiko nyebong dijauhi umat Islam
+wavs/1758.wav|Karena kata ada yang menyebut haram
+wavs/1759.wav|Di tempat saya bupati
+wavs/1760.wav|Yang didukung PKS juga kalah
+wavs/1761.wav|Telah Wakakak PKS Partai Da'wah
+wavs/1762.wav|Yang tergiur Ghanimah
+wavs/1763.wav|Bertaubatlah
+wavs/1764.wav|Mengetip pimpinan PKS kekuasaan itu indah
+wavs/1765.wav|Itu yang dikatakan oleh
+wavs/1766.wav|Yang dikatakan oleh sekjen PKS
+wavs/1767.wav|Kemudian
+wavs/1768.wav|Andai PKS menjalankan Anis di Jakarta
+wavs/1769.wav|Udah jaminan win
+wavs/1770.wav|Strike di
+wavs/1771.wav|Pemilih PKS di
+wavs/1772.wav|Siapanin Sayang PKS main politiknya gak canggih
+wavs/1773.wav|Mudah dikibulin Kimplas
+wavs/1774.wav|Ya saya juga tidak tau ya
+wavs/1775.wav|Apakah orang PKS ada yang tersandak ketika jadi menteri
+wavs/1776.wav|Sehingga mengorbankan
+wavs/1777.wav|Strategi partai
+wavs/1778.wav|Inilah balasan untuk PKS
+wavs/1779.wav|Jangan macem dengan simpatisannya
+wavs/1780.wav|PKS Pemilih lo itu bukan berdasarkan
+wavs/1781.wav|Bansos
+wavs/1782.wav|Pemilih PKS itu rata-rata kritis
+wavs/1783.wav|Harusnya lo rangkul bukan ditinggal
+wavs/1784.wav|ya ya dan kelihatan tuh ya apa komentar pksnya pks sudah hancur jangan lagi marah
+wavs/1785.wav|oleh ucapan Pak Reply apa yang dikatakan beliau sudah terbukti benar kalau masih
+wavs/1786.wav|defensif juga makin boncos lu rakyat makin gak simpatik ya bung Reply apakah ini caranya
+wavs/1787.wav|menghancurkan golongan perubahan I don't know exactly pks blunder parah enggak ketolong
+wavs/1788.wav|entah apa yang dicari pks kok malah nyari penyakit kadernya dijadikan mentri pun tidak
+wavs/1789.wav|sudah jelas-jelas pemilih pks anti-mulyono kok malah gabung nusung Bobby nasibmu pks
+wavs/1790.wav|merusak negara dibilang politik kenapa pks dihukum pemilihnya tapi partai lain tidak
+wavs/1791.wav|pernah dihukum pemilih karena pemilih pks itu rasional mereka mereka rela berkorban
+wavs/1792.wav|tanpa dibayar asal anda jadi partai benar aja masyarakat sekarang ini sudah sangat muak
+wavs/1793.wav|dengan institusi coklat minta tangkapan bung Reply dong seharusnya institusi coklat itu
+wavs/1794.wav|menurut bung Reply harus diapakan dibubarkan atau direformasi tolong jelaskan nantilah salah
+wavs/1795.wav|satu spekulasinya harusnya dipecah ya tidak boleh ada kekuatan sipil yang begitu dasar
+wavs/1796.wav|seperti ini seperti kekuatan militernya pks maksudnya dipecah antara mana yang menjadi
+wavs/1797.wav|kantip mas mana yang menjadi penegak hukum gitu ya cuma pks dapat tiga menteri bank dalam
+wavs/1798.wav|mimpi cuma gue nyesel karena calonnya Jokowi kalah karena gue enggak bisa ketemu mobil curhat
+wavs/1799.wav|game di pinggir jalan juga nonton Disneyland di pulau seribu apa maksudnya ini intinya satu
+wavs/1800.wav|kalau Muliono di kiri kita harus ambil kanan kalau dia di atas kita ambil bawah gak sudi
+wavs/1801.wav|satu kubu sama Presiden mir etika dan miskin nurani pks cepat ganti petingginya tuh kuliah
+wavs/1802.wav|sekali lagi sama bang refling enggak juga ya tenggelamkan sekali lagi pks di
+wavs/1803.wav|dua ribu dua sembilan pk mencret undang-undang habib abubakar al-habsi bank karena itu nyata
+wavs/1804.wav|pks wakakak jubirnya pks itu loh dibatam pks malah ngusung calon non-muslim sudah tidak
+wavs/1805.wav|respect lagi dengan pks pks kalah sama gercos petingginya enggak benar jadi sama dengan
+wavs/1806.wav|pks kalian dah kalau orang kemudian ramai-ramai pks saya tahu ya pemilih rh channel itu adalah
+wavs/1807.wav|pemilih pks juga tapi begitu erha ngeritik dimarahin kenapa ya anda udah jelas anis itu
+wavs/1808.wav|bagaimana aset berharga bagi pks lalu anda ingin musuhi anis ya susah lah ya kan kan kalau kita
+wavs/1809.wav|bicara tentang politik itu atau perkawanan seribu kawan itu kurang dibandingkan satu musulah ini
+wavs/1810.wav|satu orang dijadikan musuh dan nama orang itu pek anis rasid baswedan pula untung anis baik
+wavs/1811.wav|untuk konteks Jawa Barat tapi udah terlambat itu setulit seandainya konsisten misalnya mendukung
+wavs/1812.wav|anis saya kira ada giro seluruh Indonesia untuk mendukung pks itu yang saya heran kenapa
+wavs/1813.wav|enggak diambil pks point ini gak ngerti saya ataukah karena petinggi-petingginya pembesannya
+wavs/1814.wav|terpengaruh oleh muliono semua dengan dengan bujuk rayu muliono juga yang ternyata tidak benar
+wavs/1815.wav|juga dalam konteks misalnya kabinet padahal giro semangat perubahan itu yang harus diambil
+wavs/1816.wav|dan partai yang berhak mengambil itu adalah pks karena pks dianggap yang paling konsisten
+wavs/1817.wav|tidak meninggalkan anis kalau seandainya mencalonkan anis sendirian jadi keuntungannya
+wavs/1818.wav|tidak hanya di Jakarta tapi seluruh Indonesia anak-anak abah pasti akan bergerak untuk memilih
+wavs/1819.wav|memenangkan calon-calon pks tapi ya sudah nasi sudah menjadi bubur mau diapakan lagi ya dan
+wavs/1820.wav|jangan dimarahin orang-orang yang mengkritik saya mengkritik pks because I love you pks ya
+wavs/1821.wav|and I'm your voters I case my vote twice in the last in the to last election two thousand and nineteen
+wavs/1822.wav|and two thousand and twenty-four karena itu hidup pks untuk sementara mati tidak apa-apa di DKI
+wavs/1823.wav|ya terkapar di jabar tidak apa-apa keok di depok tidak apa-apa tapi tolong garis seluruhnya
+wavs/1824.wav|ditegakkan kembali sebagai partai yang amar ma'ruf nahi mungkar wassalamualaikum warahmatullahi
+wavs/1825.wav|wabarakatuh perempuan as
+wavs/1826.wav|Assalamualaikum warahmatullahi wabarakatuh
+wavs/1827.wav|Sobat RH sekalian
+wavs/1828.wav|Jumpa lagi kita di channel yang keren ini
+wavs/1829.wav|Keren, jadas
+wavs/1830.wav|Ya, sobat RH sekalian
+wavs/1831.wav|Menarik ya, apa yang disampaikan Marwarar Sirait
+wavs/1832.wav|Dia berhipotesa bahwa karena Anies mendukung Pramono Rano
+wavs/1833.wav|Apakah pemilih non muslim akan lari dari Pramono Rano
+wavs/1834.wav|Lalu bagaimana dengan pemilih muslim
+wavs/1835.wav|Apakah akan datang ke Pramono Rano
+wavs/1836.wav|Jadi sobat RH sekalian, politik itu tidak sesederhana itu ya
+wavs/1837.wav|Jadi ya, tentu
+wavs/1838.wav|Tetap ada pemilih non muslim di Pramono Rano
+wavs/1839.wav|Dan seperti juga pemilih muslim
+wavs/1840.wav|Nanti determinan faktornya akan kita lihat ya
+wavs/1841.wav|Karena variabelnya tentu bukan soal agama saja
+wavs/1842.wav|Macam-macam variabelnya
+wavs/1843.wav|Ada variabel Anies tentu
+wavs/1844.wav|Baik positif maupun negatif ya
+wavs/1845.wav|Ada variabel Mulyono tentu
+wavs/1846.wav|Variabel Prabowo tentu
+wavs/1847.wav|Termasuk variabel-variabel seperti Partai Pendukung, PDIP dan lain sebagainya
+wavs/1848.wav|Jadi itulah politik ya
+wavs/1849.wav|That's politik, tidak ada yang hitam putih
+wavs/1850.wav|Dan pernyataan dari ini
+wavs/1851.wav|Marwarar Sirait banyak dikritik ya
+wavs/1852.wav|Salah satunya Willy Aditya dari Nasdem
+wavs/1853.wav|Willy Aditya Nasdem
+wavs/1854.wav|Nasdem.dua pernyataan Marwarar Sirait
+wavs/1855.wav|Sesat pikir dan menggerus luka lama
+wavs/1856.wav|Sebagaimana diberitakan tvonews.com
+wavs/1857.wav|Oh iya terima kasih buat
+wavs/1858.wav|Bu Desi dari Bronis ya
+wavs/1859.wav|Yang sudah kasih makan tewan
+wavs/1860.wav|Nanti kita tunggu lagi tewan-tewan berikutnya
+wavs/1861.wav|Jakarta tvonews.com
+wavs/1862.wav|Ketua DPP Nasdem Willy Aditya menilai komentar Marwarar Sirait
+wavs/1863.wav|Yang menyatakan bahwa pemilih non-muslim meninggalkan Pramonorano
+wavs/1864.wav|Karena didukung oleh Anies
+wavs/1865.wav|Sebagai pernyataan yang sesat pikir
+wavs/1866.wav|Melalui Instagram story-nya
+wavs/1867.wav|Willy Aditya mengutarakan ketidaksetujuannya
+wavs/1868.wav|Ini bukan persoalan pilihan paslon yang saya dukung
+wavs/1869.wav|Tetap pernyataan ini kembali menggores luka lama
+wavs/1870.wav|Yang perlahan mulai sembuh di bangsa ini
+wavs/1871.wav|Saya harus bersuara
+wavs/1872.wav|Karena bagi saya pernyataan seperti ini adalah sesat pikir
+wavs/1873.wav|Ungkapnya dalam ungkahan Instagram story Minggun
+wavs/1874.wav|Sebelumnya politikus Partai Gerindra sekaligus Menteri Perumahan Rakyat
+wavs/1875.wav|Marwarar Sirait menilai pasangan calon gubernur dan wakil gubernur Pramono Anung
+wavs/1876.wav|Rano Karna bakal ditinggalkan pendukung non-muslim
+wavs/1877.wav|Karena didukung Anies Basmedan
+wavs/1878.wav|Itu kata Marwarar Sirait
+wavs/1879.wav|Yang sudah kita dengarkan videonya tadi ya
+wavs/1880.wav|Dan beberapa pihak juga mengkritik hal ini
+wavs/1881.wav|Kalau kita lihat misalnya
+wavs/1882.wav|Ada juga kritik dari beberapa pihak lainnya
+wavs/1883.wav|Selain yang disampaikan oleh Willy Aditya
+wavs/1884.wav|Misalnya kritik dari
+wavs/1885.wav|Apa ya
+wavs/1886.wav|Ini Nasdem ya
+wavs/1887.wav|Kemudian ada juga kritik dari
+wavs/1888.wav|Anak buah Prabowo dicap mainkan politik identitas
+wavs/1889.wav|Anak buah Prabowo ini maksudnya adalah
+wavs/1890.wav|Marwarar Sirait saya didu.code bahwa oligarki merasa terancam
+wavs/1891.wav|Ciko Hakim dari PDI Perjuangan sebut Marwarar Sirait
+wavs/1892.wav|Bahwa politik identitas dipilkada Jakarta
+wavs/1893.wav|Oke
+wavs/1894.wav|Kemudian sekjen PDIP sebut Marwarar Sarah
+wavs/1895.wav|Akan kirimkan buku politik itu suci karya Sabam Sirait
+wavs/1896.wav|Ayahnya Marwarar Sirait ya
+wavs/1897.wav|Oke
+wavs/1898.wav|Marwarar Sirait sebut Pram Rano bakal ditinggal pemilih non-muslim
+wavs/1899.wav|Usai duk didukung anis PDP lapor bawas lu ya
+wavs/1900.wav|Kemudian ya soal dari sekalian ya
+wavs/1901.wav|Memang Marwarar Sirait ini orang yang sekarang
+wavs/1902.wav|Lagi dimusuhi juga dalam tanda kutip ya
+wavs/1903.wav|Karena kedekatannya dengan
+wavs/1904.wav|Aguan terutama tetapi secara umum sembilan naga
+wavs/1905.wav|Dan dipakai pula oleh Prabowo sebagai Menteri Perumahan
+wavs/1906.wav|Jadi memang kadang-kadang kita juga mikir Prabowo ini sebenarnya
+wavs/1907.wav|Ngomong-ngomong doang mengenai soal penguasaan ekonomi
+wavs/1908.wav|Oleh segelintir orang yang dia tidak setujui
+wavs/1909.wav|Ataukah dia serius sesungguhnya mau melakukan well distribution
+wavs/1910.wav|Distribusi kekayaan
+wavs/1911.wav|Sebagaimana amanat pasal tiga-tiga
+wavs/1912.wav|Bumi air dan kekayaan alam yang terkandung di dalamnya
+wavs/1913.wav|Dikuasai oleh negara dan digunakan sebesar-besarnya
+wavs/1914.wav|Untuk kemakmuran rakyat
+wavs/1915.wav|Ataukah dia cuma lip service
+wavs/1916.wav|Seperti halnya Mulyono
+wavs/1917.wav|The king of lip service
+wavs/1918.wav|Jadi raja dari hanya sekedar service
+wavs/1919.wav|Manis di mulut saja
+wavs/1920.wav|Lip service ya
+wavs/1921.wav|Manis di bibir
+wavs/1922.wav|Tetapi tidak di kerja
+wavs/1923.wav|Begitu sahabat-sahabat kalian
+wavs/1924.wav|Jadi sebenarnya
+wavs/1925.wav|Begini
+wavs/1926.wav|Ada satu hipotesa juga yang mengatakan sesungguhnya
+wavs/1927.wav|Prabowo tidak menyukai
+wavs/1928.wav|Bahwa
+wavs/1929.wav|Yang di endorse oleh Mulyono itu
+wavs/1930.wav|Bakal menang
+wavs/1931.wav|Karena ini juga terkait dengan persaingan
+wavs/1932.wav|Tidak ada jaminan bahwa
+wavs/1933.wav|Fufufafa tidak dijadikan sebagai calon presiden
+wavs/1934.wav|Atau misalnya in case something happen to Prabowo
+wavs/1935.wav|Kemudian Fufufafa sudah siap
+wavs/1936.wav|Pasukannya dan kekuatannya
+wavs/1937.wav|Jadi ini juga ada persaingan internal
+wavs/1938.wav|Jadi bisa jadi skenario
+wavs/1939.wav|Prabowo plus Fufufafa lagi
+wavs/1940.wav|Kalau tidak dimaksudkan
+wavs/1941.wav|Fufufafa menantang Prabowo
+wavs/1942.wav|Atau Fufufafa standing alone
+wavs/1943.wav|Karena Prabowo sudah lumpuh misalnya
+wavs/1944.wav|Dan kemudian at the same time
+wavs/1945.wav|Orang-orang seperti Anies berusaha dihalangi
+wavs/1946.wav|Makanya kemudian kepentingan
+wavs/1947.wav|Orang seperti Marwarar yang sering membawa juga suara oligarki adalah
+wavs/1948.wav|Yang menghalangi orang seperti Anies
+wavs/1949.wav|Agar tidak menjadi determinant factor
+wavs/1950.wav|Dalam politik Indonesia
+wavs/1951.wav|Jadi bagi Jokowi misalnya
+wavs/1952.wav|Bukan Ridwan Kamilnya yang paling penting
+wavs/1953.wav|Tapi yang paling penting adalah Anies tidak nyalon
+wavs/1954.wav|Begitu Anies tidak nyalon
+wavs/1955.wav|Sesungguhnya selesai sudah
+wavs/1956.wav|The mission has been completed
+wavs/1957.wav|Tetapi Anies rupanya melipir
+wavs/1958.wav|Ke PDIP untuk mencari slot
+wavs/1959.wav|Yang saya katakan mencari legitimacy yang lebih lebar
+wavs/1960.wav|Seperti bagaimana dikatakan
+wavs/1961.wav|Sepertimana dikatakan oleh Rocky Gerung sesungguhnya
+wavs/1962.wav|Ini adalah eksperimen politik
+wavs/1963.wav|Yang unfortunately berbenturan dengan HRS
+wavs/1964.wav|Kenapa misalnya seorang Marwarar Sirait tidak berbicara
+wavs/1965.wav|Bahwa pemilih non muslim
+wavs/1966.wav|Akan lari dari Ridwan Kamil
+wavs/1967.wav|Karena didukung oleh HRS
+wavs/1968.wav|Kalau kita bicara tentang politik identitas
+wavs/1969.wav|Maka sesungguhnya identitas HRS jauh lebih kental
+wavs/1970.wav|Dengan politik Islamnya
+wavs/1971.wav|Sudah jelas front persaudaraan Islam
+wavs/1972.wav|Sebelumnya front pembela Islam
+wavs/1973.wav|Dan FPIDKI itu mendukung pasangan Rakus
+wavs/1974.wav|Ridwan Kamil Susuwono
+wavs/1975.wav|Kenapa tidak ada pernyataan dari Marwarar Sirait
+wavs/1976.wav|Yang mengatakan bahwa pemilih non muslim
+wavs/1977.wav|Akan lari
+wavs/1978.wav|Karena Ridwan Kamil Susuwono
+wavs/1979.wav|Didukung oleh FPI dan Habib Rezik
+wavs/1980.wav|Kan tidak begitu
+wavs/1981.wav|Harusnya orang seperti Bonny Hargen pun
+wavs/1982.wav|Dia tidak suka pasangan Ridwan Kamil Susuwono
+wavs/1983.wav|Tapi itu politik
+wavs/1984.wav|Politik itu tidak bisa hitam putih
+wavs/1985.wav|Jadi dalam konselasi politik ini kita agak aneh sesungguhnya
+wavs/1986.wav|Muliono mendukung Ridwan Kamil
+wavs/1987.wav|Tetapi Luhut Bin Serpanjaitan mendukung Pramono
+wavs/1988.wav|Jadi sampai terakhir-terakhir ini
+wavs/1989.wav|Saya terus terang saja
+wavs/1990.wav|Belum menentukan sikap atau pilihan
+wavs/1991.wav|Mau kemana
+wavs/1992.wav|Tetapi kalau dari sisi yang namanya demokrasi
+wavs/1993.wav|Ya saya mengatakan bahwa
+wavs/1994.wav|Praktik kartel yang dilakukan oleh Kimplas itu
+wavs/1995.wav|Tidak elok, tidak baik
+wavs/1996.wav|Tidak bagus untuk demokrasi Indonesia
+wavs/1997.wav|Yang sedang bertumbuh seperti sekarang ini
+wavs/1998.wav|Tetapi apakah saya kemudian
+wavs/1999.wav|Kecendungannya ke Pramono Rano?
+wavs/2000.wav|Belum tentu juga
+wavs/2001.wav|Karena ada beberapa catatan yang juga
+wavs/2002.wav|Kemudian harus kita ketengahkan
+wavs/2003.wav|The last kita akan menyaksikan sebuah fenomena sesungguhnya
+wavs/2004.wav|Bagi Muliono sudah selesai pertarungan
+wavs/2005.wav|Jangan-jangan ketika Anies tidak bisa dicalonkan
+wavs/2006.wav|Karena bagi dia
+wavs/2007.wav|Rano fine by him
+wavs/2008.wav|Pramono maksud saya
+wavs/2009.wav|Tetapi Ridwan Kamil juga fine by him
+wavs/2010.wav|Contoh ketika Ridwan Kamil beberapa kali ke
+wavs/2011.wav|KN, Ibu Kota Nusantara
+wavs/2012.wav|Jadi dua orang itu memiliki hubungan baik dengan Muliono
+wavs/2013.wav|Tidak ada masalah sesungguhnya
+wavs/2014.wav|Ada juga berita apa ini
+wavs/2015.wav|Membongkar peran Alwin
+wavs/2016.wav|Jabartikimas
+wavs/2017.wav|Keponakan Megawati Sukarnoperti
+wavs/2018.wav|Dalam judi online komdigin
+wavs/2019.wav|Makin seru ya
+wavs/2020.wav|Aduh ampun ya
+wavs/2021.wav|Inilah namanya politik saling sandra
+wavs/2022.wav|Oke soalnya dari selain
+wavs/2023.wav|Coba kita bacakan komentar sobat era sekalian
+wavs/2024.wav|Terakhir
+wavs/2025.wav|Sebelum kita tutup ya
+wavs/2026.wav|Terima kasih yang sedang menonton teman-teman
+wavs/2027.wav|Desi
+wavs/2028.wav|Dari Brownies yang
+wavs/2029.wav|Janji tadi mau menonton secara langsung
+wavs/2030.wav|Ini replay
+wavs/2031.wav|No no no
+wavs/2032.wav|This is live
+wavs/2033.wav|Lebih cocok jadi menteri sales
+wavs/2034.wav|Calon kepala daerah yang diusung rezim korup
+wavs/2035.wav|Akan menghasilkan kepala daerah korup
+wavs/2036.wav|Jangan pilih semua boneka Muliono
+wavs/2037.wav|Pertanyaannya
+wavs/2038.wav|Who is the Muliono's puppet?
+wavs/2039.wav|Itu masalahnya
+wavs/2040.wav|Iya kan?
+wavs/2041.wav|Siapa yang menjadi boneka Muliono tersebut?
+wavs/2042.wav|Apakah benar Ridwan Kamil?
+wavs/2043.wav|Atau jangan-jangan
+wavs/2044.wav|Pramono pun boneka
+wavs/2045.wav|Hasto elemen yang melawan Muliono
+wavs/2046.wav|Tetapi Pramono
+wavs/2047.wav|Elemen yang kemudian mengajak kompromi
+wavs/2048.wav|Menteri Sara
+wavs/2049.wav|Marawar Sirait
+wavs/2050.wav|Kacungnya Aguan dan Muliono
+wavs/2051.wav|Puseh katanya politikus ulung
+wavs/2052.wav|Tapi orasinya kampanye
+wavs/2053.wav|Orasi orang panik
+wavs/2054.wav|Orang satu ini sombong
+wavs/2055.wav|Yang baru dikasih jabatan menteri
+wavs/2056.wav|Saya kira tidak itu saja
+wavs/2057.wav|Karena dia sudah kaya raya
+wavs/2058.wav|Arah hidup dari telunjuk Muliono
+wavs/2059.wav|Siap
+wavs/2060.wav|Tewannya keren jadaz
+wavs/2061.wav|Rido nolah
+wavs/2062.wav|Marawar Sirait
+wavs/2063.wav|Kacung Aguan
+wavs/2064.wav|Penjahat perampok tanah rakyat
+wavs/2065.wav|Banten
+wavs/2066.wav|Wah rupanya
+wavs/2067.wav|Desi
+wavs/2068.wav|Nonton juga dia
+wavs/2069.wav|Saya singgung soal Tewan dia jawab
+wavs/2070.wav|Jadi untuk Jakarta
+wavs/2071.wav|Bagusnya Paslon yang mana?
+wavs/2072.wav|Ya Anda harus berpikir
+wavs/2073.wav|Plus dan minusnya
+wavs/2074.wav|Kalau seandainya mau
+wavs/2075.wav|Boleh pilih satu orang
+wavs/2076.wav|Saya mau pilih Rano Karno saja
+wavs/2077.wav|Tetapi tidak untuk
+wavs/2078.wav|Menjadi wakil gubernur
+wavs/2079.wav|Tapi saya memilihnya
+wavs/2080.wav|Untuk diajak podcast
+wavs/2081.wav|Ngomong tentang
+wavs/2082.wav|Sidol anak sekolahan
+wavs/2083.wav|Dan ngomong tentang film
+wavs/2084.wav|Lawas masa lalunya
+wavs/2085.wav|Kita cinta dari EZMA
+wavs/2086.wav|Dan puspa indah taman hati
+wavs/2087.wav|Oke
+wavs/2088.wav|Itu artinya saya mengatakan
+wavs/2089.wav|Saya masih bingung
+wavs/2090.wav|Untuk menentukan pilihan
+wavs/2091.wav|Frankly speaking
+wavs/2092.wav|Selalu ada
+wavs/2093.wav|Ya kelemahan
+wavs/2094.wav|Pramono mungkin tidak ada masalah
+wavs/2095.wav|Dari sisi pribadi
+wavs/2096.wav|Tetapi
+wavs/2097.wav|PDIP yang mendukungnya adalah
+wavs/2098.wav|Partai yang
+wavs/2099.wav|Baru merasakan jadi oposisi
+wavs/2100.wav|Tapi mungkin juga sedang bernegosiasi
+wavs/2101.wav|Untuk tidak menjadi oposisi
+wavs/2102.wav|Kita tidak tahu
+wavs/2103.wav|Tapi saya suka
+wavs/2104.wav|Sikap oposisi yang ditunjukkan PDIP hari ini
+wavs/2105.wav|Hari ini
+wavs/2106.wav|Hari ini terutama yang dilakukan oleh
+wavs/2107.wav|Hasto Kristianto
+wavs/2108.wav|Jadi
+wavs/2109.wav|Ya sekalian saja
+wavs/2110.wav|Buka
+wavs/2111.wav|Bongkar semuanya
+wavs/2112.wav|Itu baru keren cadas ya
+wavs/2113.wav|Pernyataan Marwara
+wavs/2114.wav|Kok seperti buzzer ya Bang
+wavs/2115.wav|Ya jangan lupa dia mu'alaf
+wavs/2116.wav|Di Gerindra ya
+wavs/2117.wav|Sebelumnya dia adalah orang PDIP
+wavs/2118.wav|Dan sekarang sangat musuhi partainya sendiri
+wavs/2119.wav|King of the king
+wavs/2120.wav|Raja di raja
+wavs/2121.wav|Marwara mulutnya disumpal
+wavs/2122.wav|Oke
+wavs/2123.wav|Sudah ya
+wavs/2124.wav|Kita tidak boleh mengatakan orang
+wavs/2125.wav|Tapi intinya adalah
+wavs/2126.wav|Begini
+wavs/2127.wav|Tidak sepantasnya
+wavs/2128.wav|Menteri ngomongnya begitu
+wavs/2129.wav|Harusnya dia melakukan
+wavs/2130.wav|Hal-hal yang sifatnya simpatik
+wavs/2131.wav|Jadi jangan menyerang
+wavs/2132.wav|Dengan politik identitas
+wavs/2133.wav|Apakah boleh atau tidak
+wavs/2134.wav|Yang jelas
+wavs/2135.wav|Soal agama
+wavs/2136.wav|Soal syarat
+wavs/2137.wav|Tidak diperbolehkan untuk dibahas
+wavs/2138.wav|Tetapi masalahnya adalah
+wavs/2139.wav|Apakah dia betul
+wavs/2140.wav|Melakukan kampanye identitas
+wavs/2141.wav|Atau dia membahas
+wavs/2142.wav|Tentang suatu fenomena politik
+wavs/2143.wav|Sah-sah saja
+wavs/2144.wav|Tapi sekali lagi
+wavs/2145.wav|Jabatannya sebagai menteri
+wavs/2146.wav|You know
+wavs/2147.wav|He doesn't
+wavs/2148.wav|He doesn't represent
+wavs/2149.wav|He does
+wavs/2150.wav|He represents
+wavs/2151.wav|Not only
+wavs/2152.wav|Gerindra
+wavs/2153.wav|But also Indonesia
+wavs/2154.wav|As a greater
+wavs/2155.wav|Greater Indonesia
+wavs/2156.wav|Kenapa?
+wavs/2157.wav|Ya karena dia
+wavs/2158.wav|Menjadi seorang menteri
+wavs/2159.wav|Yang bagi hata adalah
+wavs/2160.wav|Pemimpin sehari-hari
+wavs/2161.wav|Begitu ya, sesuamu
+wavs/2162.wav|Nanti kita lanjutkan lagi
+wavs/2163.wav|Pembahasan kita setelah ini
+wavs/2164.wav|Thank you very much
+wavs/2165.wav|Dan mudah-mudahan segala sesuatunya
+wavs/2166.wav|Berjalan lebih baik
+wavs/2167.wav|Wassalamualaikum warahmatullahi wabarakatuh
+wavs/2168.wav|Keren
+wavs/2169.wav|Cadastri
+wavs/2170.wav|Assalamualaikum warahmatullahi wabarakatuh
+wavs/2171.wav|Sobat RHA sekalian
+wavs/2172.wav|Jumpa lagi kita di channel yang keren ini
+wavs/2173.wav|Keren cadets
+wavs/2174.wav|Ya, sobat RHA sekalian
+wavs/2175.wav|Ini ada berita yang kita sudah tahu
+wavs/2176.wav|Tetapi yang paling penting adalah ini diucapkan lagi
+wavs/2177.wav|Soal keterlibatan Jokowi dan Partai Coklat
+wavs/2178.wav|Mohon maaf ya kepada pihak kepolisian
+wavs/2179.wav|Partai Coklat itu maksudnya adalah pihak kepolisian
+wavs/2180.wav|Jangan langsung ada pendapat begini
+wavs/2181.wav|Wah itu fitna dan lain sebagainya
+wavs/2182.wav|Sudahlah itu kan menjadi pengetahuan umum juga
+wavs/2183.wav|Karena itu yang jauh lebih baik adalah introspeksi
+wavs/2184.wav|Nah introspeksi ini tentu ya perlu disampaikan
+wavs/2185.wav|Kepada kapolri sebagai pemimpin tertinggi
+wavs/2186.wav|Tapi kalau kapolrinya juga tidak bisa apa-apa
+wavs/2187.wav|Ya harus kepada Prabowo Subianto
+wavs/2188.wav|Itu penting jangan sampai kemudian ada terjadi
+wavs/2189.wav|Yang namanya penyalahgunaan kekuasaan ya
+wavs/2190.wav|Begitu sobat RHA sekalian ya
+wavs/2191.wav|Coba kita lihat ya
+wavs/2192.wav|Berita yang dimuat tadi sebenarnya bersumber dari
+wavs/2193.wav|Akbar Faizal Ancensor
+wavs/2194.wav|Tetapi ini ada berita dari inilah.com
+wavs/2195.wav|PDIP bongkar rahasia jahat Jokowi pakai Partai Coklat
+wavs/2196.wav|Kemudian hasto soal Jokowi dan Partai Coklat
+wavs/2197.wav|Siti Zuhro Polri jangan digunakan untuk kepentingan pribadi
+wavs/2198.wav|Ini himbawan ya
+wavs/2199.wav|Ucapan hasto soal Jokowi dan Partai Coklat
+wavs/2200.wav|Sudah jadi kecurigaan umum
+wavs/2201.wav|Kapolri di desa angkat bicara
+wavs/2202.wav|Ini oleh Deddy Kurnia Shah
+wavs/2203.wav|Coba kita bacakan dulu
+wavs/2204.wav|PDIP bongkar rahasia jahat itu ya
+wavs/2205.wav|Inilah.com ya
+wavs/2206.wav|Sekjen Partai Demokrasi Indonesia Perjuangan PDIP Hasto Cristianto
+wavs/2207.wav|Mengungkap rencana jahat presiden ketujuh Jokowi Dodo Jokowi
+wavs/2208.wav|Yang menggunakan instrumen yang ia sebut sebagai Partai Coklat
+wavs/2209.wav|Ia mengatakan hal ini dalam podcast Akbar Faisal Ansensor
+wavs/2210.wav|Bertajuk Kony sebut sekjen PDIP segera tersangka
+wavs/2211.wav|Hasto ungkap Jokowi otak kriminalisasi anis
+wavs/2212.wav|Mulanya ia menceritakan bila dirinya sudah ditargetkan untuk menjadi tersangka
+wavs/2213.wav|Karena disertasi dan proses dipilkada dua ribu dua empat
+wavs/2214.wav|Jadi ada dua peristiwa yang penting mengapa saya ditargetkan kembali
+wavs/2215.wav|Pertama adalah disertasi saya
+wavs/2216.wav|Disitu kan saya menyimpulkan presiden Jokowi yang seharusnya menjadi simbol kebaikan
+wavs/2217.wav|Dan otoritas moral itu kan terbukti secara kualitatif dan kuantitatif
+wavs/2218.wav|Menjadi core elemen dari suatu ambisi kekuasaan yang berpusat pada gabungan
+wavs/2219.wav|Feodalisme, populisme, dan machiavelianisme
+wavs/2220.wav|Tutur hasto dikutip di Jakarta
+wavs/2221.wav|Dan ini ternyata dijalankan terus
+wavs/2222.wav|Semua orang menyangka sudah selesai ketika Gibran ditetapkan sebagai wapres
+wavs/2223.wav|Meskipun cara-caranya sangat prosedural
+wavs/2224.wav|Tidak beretika, merusak sistem hukum dan konstitusi
+wavs/2225.wav|Bahkan mematikan peradaban demokrasi kita sambungnya
+wavs/2226.wav|Peristiwa kedua yang ini berkenaan dengan penyelenggaran pilkada dua ribu dua empat
+wavs/2227.wav|Terutama wilayah Sumatera Utara, Jawa Tengah, dan Jawa Timur
+wavs/2228.wav|Di dalam pilkada kami melihat ambisi kekuasaan itu tidak berhenti
+wavs/2229.wav|Kita ini negara berbentuk republik bukan kerajaan
+wavs/2230.wav|Tetapi Pak Jokowi mau menerapkan dengan menempatkan keluarganya itu
+wavs/2231.wav|Terjadi dengan Bobi Nasution dari Sumatera Utara
+wavs/2232.wav|Dan kemudian gerak membatasi lawan-lawan politiknya yang berbeda
+wavs/2233.wav|Dan yang seharusnya berkontestasi secara sehat, beber hasto
+wavs/2234.wav|Bobi Nasution dan Edy Rahmayadi harusnya berkontestasi secara sehat
+wavs/2235.wav|Tetapi ada mobilisasi dari apa yang disebut sebagai Partai Coklat
+wavs/2236.wav|Lanjut hasto
+wavs/2237.wav|The Coklat Party
+wavs/2238.wav|Kemudian
+wavs/2239.wav|Ia menilai hal ini makin menunjukkan sebuah pengingkaran terhadap bentuk negara republik
+wavs/2240.wav|Yang ingin diganti menjadi sistem kerajaan
+wavs/2241.wav|Dengan menempatkan para hulu balang keluarganya
+wavs/2242.wav|Mereka-mereka yang dianggap dekat mewakili kepentingan politiknya
+wavs/2243.wav|Jadi ancaman terhadap kedaulatan rakyat ini tidak berhenti ungkap dia
+wavs/2244.wav|Hasto bahkan sempat diperingatkan oleh Connie Rahakundini
+wavs/2245.wav|Untuk tidak usah turun ke lapangan
+wavs/2246.wav|Terutama di sumud dan mempersoalkan Bobi Nasution
+wavs/2247.wav|Jakarta dan Jateng semua sudah diset
+wavs/2248.wav|Bahkan ditambah Jogja
+wavs/2249.wav|Bahkan bukan hanya Jogja saya berimajinasi
+wavs/2250.wav|Jokowi kan juga punya orang-orangnya di Jawa Timur
+wavs/2251.wav|Dan kemudian kita lihat kepemimpinan Burisma hari ini
+wavs/2252.wav|Yang sangat fenomenal dengan menutup Doli
+wavs/2253.wav|Dan sebagainya itu juga dicoba dihambat dengan berbagai cara
+wavs/2254.wav|Dari mematikan jalur logistik hingga intimidasi
+wavs/2255.wav|Yang ternyata masih dipraktikan Tutur Hasto
+wavs/2256.wav|Nah supaya untuk menjadikan Pilkada ini sebagai bagian dari Hulu Balang Sang Raja
+wavs/2257.wav|Itulah yang kemudian terganggu dengan konsolidasi yang dilakukan oleh PDIP
+wavs/2258.wav|Dengan kekuatan nonpartai, relawan, civil society
+wavs/2259.wav|Sehingga harus ada upaya dari ujungnya
+wavs/2260.wav|Tambah dia
+wavs/2261.wav|Meski begitu dirinya mengaku tak gentar dengan ancaman ini
+wavs/2262.wav|Mari kita jadikan ini sebagai momentum untuk mengingatkan kepada seluruh rakyat Indonesia
+wavs/2263.wav|Ambisi yang menggunakan hukum, kekuatan logistik yang luar biasa, tegas Hasto
+wavs/2264.wav|Tak hanya itu bahkan mendengar bila Jokowi langsir dari Jakarta
+wavs/2265.wav|Maka ada dana mobilisasi yang cukup besar
+wavs/2266.wav|Saya dapat informasi cukup akurat setelah Jokowi turun di Jakarta misalnya
+wavs/2267.wav|Dimobilisasi dana hampir dua ratus miliar
+wavs/2268.wav|Itu pun permintaan dari empat ratus miliar
+wavs/2269.wav|Jadi buat apa Pilkada kalau semua sudah disetting dengan cara-cara yang sepertinya demokratis
+wavs/2270.wav|Tetapi dalam suatu skenario yang membungkam kedaulatan rakyat itu
+wavs/2271.wav|Ungkapnya
+wavs/2272.wav|Oke saya setuju dengan Hasto ya
+wavs/2273.wav|Dan saya tidak ingin mengutak-ngatik bagaimana masa lalunya ya
+wavs/2274.wav|Ketika dia menjadi bagian mesra dari pemerintahan Presiden Jokowi
+wavs/2275.wav|Tetapi kan orang
+wavs/2276.wav|Saya selalu ingin menilai orang dari posisinya hari ini
+wavs/2277.wav|Jangan lupakan sejarah ia
+wavs/2278.wav|Karena itu kita tidak melupakan sejarah
+wavs/2279.wav|Kalau kita mendukung orang karena ide dan gagasannya hari ini
+wavs/2280.wav|Bukan berarti kemudian kita tidak waspada bahwa dia bisa berubah lagi ketika berkuasa
+wavs/2281.wav|Makanya ketika bertemu Hasto saya langsung ingatkan
+wavs/2282.wav|Kalau berkuasa mbokya jangan ngadu-ngaduin orang
+wavs/2283.wav|Karena terakhir Hasto ngaduin Roki Gerung
+wavs/2284.wav|Ya mungkin karena dia nggak sadar pada waktu itu bahwa
+wavs/2285.wav|Sebenarnya yang jahat itu adalah penguasa yang suka mengkriminalkan orang
+wavs/2286.wav|Dan dia bagian dari itu
+wavs/2287.wav|Tapi setelah dia terlempar dari bagian itu
+wavs/2288.wav|Dia kemudian sadar
+wavs/2289.wav|Ya Alhamdulillah ya
+wavs/2290.wav|Saya tidak mengatakan terlambat atau tidak
+wavs/2291.wav|Ini kadang-kadang terkait dengan posisinya politik
+wavs/2292.wav|It's okay juga
+wavs/2293.wav|Tetapi yang paling penting dia mau berubah
+wavs/2294.wav|Itu yang paling penting Sobat RH sekalian ya
+wavs/2295.wav|Lalu bagaimana dengan keterlibatan Partai Coklat ini?
+wavs/2296.wav|Ya itu hal yang biasa
+wavs/2297.wav|Sudah hal yang merupakan pengetahuan umum
+wavs/2298.wav|Sebagaimana dikatakan oleh Deddy Kurnia Shah
+wavs/2299.wav|Salah seorang pollster
+wavs/2300.wav|Dia mengatakan ucapan Hasto soal Jokowi dan Partai Coklat
+wavs/2301.wav|Sudah jadi kecurigaan umum
+wavs/2302.wav|Kapolri didesak angkat bicara
+wavs/2303.wav|Coba kita bacakan sedikit ya
+wavs/2304.wav|Direktur Eksekutif Indonesia Political Opinion IPO
+wavs/2305.wav|Deddy Kurnia Shah menilai pernyataan sekjen PDIP Hasto Kristianto
+wavs/2306.wav|Yang berkenaan dengan adanya rencana jahat
+wavs/2307.wav|Yang ingin digunakan Presiden ketujuh Jokowi Dodo
+wavs/2308.wav|Dengan melibatkan Partai Coklat
+wavs/2309.wav|Bisa saja hanya sebuah kecurigaan biasa
+wavs/2310.wav|Secara umum apa yang disampaikan Hasto
+wavs/2311.wav|Merupakan kecurigaan umum
+wavs/2312.wav|Hanya saja memang tidak ada yang bisa membuktikan
+wavs/2313.wav|Secara konkret ke ucap Deddy
+wavs/2314.wav|Partai Coklat yang Hasto identikan dengan Polri
+wavs/2315.wav|Menurut Deddy tentu dapat menjadi pertimbangan bagi Kapolri
+wavs/2316.wav|Generalist Tio Sigit khususnya
+wavs/2317.wav|Untuk mengklarifikasi keterkaitannya
+wavs/2318.wav|Dengan Pilkada dua ribu dua empat dan Jokowi
+wavs/2319.wav|Enggak jangan mengklarifikasi
+wavs/2320.wav|Klarifikasi mudah banget
+wavs/2321.wav|Buktikan
+wavs/2322.wav|Buktikan gitu ya
+wavs/2323.wav|Statement Hasto perlu diapresiasi
+wavs/2324.wav|Bukan soal ia musuh politik Jokowi
+wavs/2325.wav|Tetapi statement itu potensial
+wavs/2326.wav|Menambah buruk keperluasinan dan Kapolri
+wavs/2327.wav|Itulah sebab harus mendapat dukungan publik
+wavs/2328.wav|Agar ada proses dan respons
+wavs/2329.wav|Supaya ada kepastian kata dia
+wavs/2330.wav|Yang menyebut sejak Pilpres lalu
+wavs/2331.wav|Memang banyak tuduhan yang mengarah pada
+wavs/2332.wav|Keberpihakan Polri terhadap kepentingan keluarga Jokowi
+wavs/2333.wav|Dan sejauh ini bahkan sejak Pilpres lalu
+wavs/2334.wav|Banyak tuduhan yang mengarah pada keberpihakan
+wavs/2335.wav|Kepolisian pada kepentingan keluarga Jokowi
+wavs/2336.wav|Ujarnya
+wavs/2337.wav|Dengan adanya statement Hasto ini menjadi momentum Polri
+wavs/2338.wav|Untuk menyanggah
+wavs/2339.wav|Jika tidak maka bukan tidak mungkin
+wavs/2340.wav|Akan kian besar kelompok yang lebih percaya
+wavs/2341.wav|Pada Hasto ucap Deddy
+wavs/2342.wav|Itu ya
+wavs/2343.wav|Kemudian bagaimana dengan
+wavs/2344.wav|Siti Zuhro
+wavs/2345.wav|Juga dia mengatakan
+wavs/2346.wav|Hasto
+wavs/2347.wav|Soal partai coklat ini
+wavs/2348.wav|Siti Zuhro
+wavs/2349.wav|Polri jangan digunakan untuk kepentingan pribadi
+wavs/2350.wav|Peneliti ahli utama
+wavs/2351.wav|Badan riset dan inovasi nasional BRIN
+wavs/2352.wav|Siti Zuhro merespons
+wavs/2353.wav|Pernyataan sekjen PDIP Hasto Kristianto
+wavs/2354.wav|Terkait adanya rencana jahat
+wavs/2355.wav|Yang ingin digunakan presiden ketujuh
+wavs/2356.wav|RI Jokowi dengan melibatkan partai coklat
+wavs/2357.wav|Atau kepolisian
+wavs/2358.wav|Dalam gerilya politiknya selama ini
+wavs/2359.wav|Siti Zuhro menekankan
+wavs/2360.wav|Untuk menyongsong Indonesia emas
+wavs/2361.wav|Dua ribu empat lima institusi negara
+wavs/2362.wav|Perlu dibenahi khususnya
+wavs/2363.wav|Lembaga-lembaga hukum Indonesia
+wavs/2364.wav|Menurutnya Polri memang harus melakukan reformasi
+wavs/2365.wav|Atau bersih-bersih di internalnya
+wavs/2366.wav|Polri tidak boleh
+wavs/2367.wav|Partisan memihak satu golongan
+wavs/2368.wav|Kekuatan politik tertentu dan bersikap
+wavs/2369.wav|Partisan dan bahkan memberikan dukungan
+wavs/2370.wav|Terhadap elit atau golongan tertentu
+wavs/2371.wav|Kata Siti Zuhro
+wavs/2372.wav|Siti Zuhro menjelaskan tugas
+wavs/2373.wav|Pokok dan fungsi Polri
+wavs/2374.wav|Memberikan pengayuman dan pelayanan kepada
+wavs/2375.wav|Masyarakat, memelihara keamanan
+wavs/2376.wav|Dan memastikan penegakan hukum yang adil
+wavs/2377.wav|Transparan dan efektif
+wavs/2378.wav|Maka itu ia menegaskan dengan
+wavs/2379.wav|Tugas pokok dan fungsi seperti itu
+wavs/2380.wav|Maka tidak boleh pihak
+wavs/2381.wav|Manapun menggunakan Polri dan sumber daya
+wavs/2382.wav|Manusia di Polri untuk kepentingan
+wavs/2383.wav|Diri sendiri maupun golongan serta kepentingan
+wavs/2384.wav|Kekuatan politik tertentu
+wavs/2385.wav|Bila itu dilakukan maka ini
+wavs/2386.wav|Melanggar hukum dan bisa dituntut
+wavs/2387.wav|Secara hukum karena sudah menyimpangkan
+wavs/2388.wav|Fungsi utama institusi Polri
+wavs/2389.wav|Kerana politik praktis
+wavs/2390.wav|Yang hanya menguntungkan diri dan kelompoknya
+wavs/2391.wav|Ucapnya
+wavs/2392.wav|Ya
+wavs/2393.wav|Konon sebelumnya juga terjadi kepada
+wavs/2394.wav|Institusi lain
+wavs/2395.wav|Kejaksaan, Bin dan lain sebagainya
+wavs/2396.wav|Bahkan TNI
+wavs/2397.wav|Kadang-kadang
+wavs/2398.wav|Digunakan untuk kepentingan politik
+wavs/2399.wav|Penguasa padahal mereka
+wavs/2400.wav|Adalah institusi
+wavs/2401.wav|Penegak hukum yang harus
+wavs/2402.wav|Berdiri
+wavs/2403.wav|Secara independen lepas dari pengaruh
+wavs/2404.wav|Kekuasaan. Begitu ya sobat
+wavs/2405.wav|Ya
+wavs/2406.wav|Mudah-mudahan
+wavs/2407.wav|Apa yang disampaikan
+wavs/2408.wav|Itu
+wavs/2409.wav|Menjadi bahan evaluasi
+wavs/2410.wav|Bagi Polri
+wavs/2411.wav|Bukan bahan
+wavs/2412.wav|Untuk mengadukan
+wavs/2413.wav|Hasto Kristianto atau siapapun
+wavs/2414.wav|Yang mengatakan mengkritik menyampaikan
+wavs/2415.wav|Bahwa kadang-kadang
+wavs/2416.wav|Penegak hukum sudah terlibat terlalu jauh
+wavs/2417.wav|Dalam urusan politik ya
+wavs/2418.wav|Oke
+wavs/2419.wav|Kemudian
+wavs/2420.wav|Apa lagi saya lebih percaya
+wavs/2421.wav|Hasto
+wavs/2422.wav|Prabowo mau sampai kapan
+wavs/2423.wav|Biarkan parcok dikendalikan
+wavs/2424.wav|Apa yang ditakuti
+wavs/2425.wav|Sampai nurut terus sama dia
+wavs/2426.wav|Kalau diancam masa presiden
+wavs/2427.wav|Gak bisa lawan dengan segala kekuatannya
+wavs/2428.wav|Gak habis fikri
+wavs/2429.wav|Luar biasa
+wavs/2430.wav|Mungkin ada yang
+wavs/2431.wav|Salah dengan penerapan ideologi
+wavs/2432.wav|Oleh penguasa
+wavs/2433.wav|Si Jokowi itu masih penasaran dengan
+wavs/2434.wav|Kekuasaan manganya tamak dan serakah
+wavs/2435.wav|Apa lagi saya lebih percaya
+wavs/2436.wav|Hasto
+wavs/2437.wav|Prabowo mau sampai kapan
+wavs/2438.wav|Biarkan parcok dikendalikan
+wavs/2439.wav|Oleh penguasa
+wavs/2440.wav|Luar biasa
+wavs/2441.wav|Mungkin ada yang
+wavs/2442.wav|Salah dengan penerapan ideologi
+wavs/2443.wav|Oleh penguasa
+wavs/2444.wav|Si Jokowi itu masih penasaran dengan
+wavs/2445.wav|Kekuasaan manganya tamak dan serakah
+wavs/2446.wav|Oleh penguasa
+wavs/2447.wav|Luar biasa
+wavs/2448.wav|Mungkin ada yang
+wavs/2449.wav|Masih berpikir
+wavs/2450.wav|Akan mendukung siapa atau tidak
+wavs/2451.wav|Tidak mendukung siapa-siapa
+wavs/2452.wav|Tapi
+wavs/2453.wav|I'm nobody
+wavs/2454.wav|Saya bukan orang yang penting
+wavs/2455.wav|Untuk ditunggu
+wavs/2456.wav|Jadi silahkan
+wavs/2457.wav|Anda semua mengambil sikap
+wavs/2458.wav|Masing-masing
+wavs/2459.wav|Dalam pilkada DKI
+wavs/2460.wav|Yang paling penting adalah
+wavs/2461.wav|Kita berharap
+wavs/2462.wav|Bahwa Partai Coklat
+wavs/2463.wav|Aparat tidak bermain
+wavs/2464.wav|Dalam pilkada DKI
+wavs/2465.wav|Dan pilkada-pilkada lainnya
+wavs/2466.wav|Itu yang kita harapkan
+wavs/2467.wav|Jangan dibantah
+wavs/2468.wav|Tetapi buktikan bahwa Anda netral
+wavs/2469.wav|Kalau cuma bantah saja mudah banget
+wavs/2470.wav|Apalagi menggunakan
+wavs/2471.wav|Jalur kriminalisasi
+wavs/2472.wav|Dengan mengatakan
+wavs/2473.wav|Bahwa
+wavs/2474.wav|Sudah menyebarkan hoax dan lain sebagainya
+wavs/2475.wav|Harus dilihat sebagai
+wavs/2476.wav|Sebuah
+wavs/2477.wav|Sebuah
+wavs/2478.wav|Apa
+wavs/2479.wav|Kritik yang membangun
+wavs/2480.wav|Karena kalau institusi TNI
+wavs/2481.wav|Pori digunakan untuk kepentingan politik
+wavs/2482.wav|Dan tendensinya makin kuat saat ini
+wavs/2483.wav|Dengan naiknya
+wavs/2484.wav|Prabowo kemudian TNI
+wavs/2485.wav|Makin bergairah untuk ikut
+wavs/2486.wav|Dalam politik lagi itu tidak baik
+wavs/2487.wav|Bagi perpolitikan kita
+wavs/2488.wav|Kita tahu bahwa
+wavs/2489.wav|Mereka itu harusnya
+wavs/2490.wav|Mengabdi kepada negara
+wavs/2491.wav|Mengabdi kepada
+wavs/2492.wav|Keadilan, hukum
+wavs/2493.wav|Bukan mengabdi kepada penguasa
+wavs/2494.wav|Apalagi penguasa yang salah, keliru dan hanya
+wavs/2495.wav|Mempentingkan ambisi diri dan keluarga
+wavs/2496.wav|Begitu soalnya
+wavs/2497.wav|Mudah-mudahan
+wavs/2498.wav|Bermanfaat dan kita nanti
+wavs/2499.wav|Akan menunggu Ari Yusuf Amir
+wavs/2500.wav|Lawyer dari
+wavs/2501.wav|Tom Lembong untuk menyampaikan
+wavs/2502.wav|Apa yang sebenarnya terjadi
+wavs/2503.wav|Termasuk bagaimana
+wavs/2504.wav|Evaluasi dia terhadap
+wavs/2505.wav|Pra-peradilan yang sudah dijalankan dan
+wavs/2506.wav|Sebentar lagi akan ada putusan
+wavs/2507.wav|Itu saja
+wavs/2508.wav|Wassalamualaikum warahmatullahi wabarakatuh
+wavs/2509.wav|Keren, cadastri
+wavs/2510.wav|Assalamualaikum warahmatullahi wabarakatuh. Sobat RH sekalian, jumpa lagi kita di channel yang
+wavs/2511.wav|keren ini, keren cadas. Ya sobat RH sekalian ini ada hal yang menarik ya yaitu soal kelakuan ahli
+wavs/2512.wav|yang ternyata diplak ya satu sama lain yang membuat lawyer atau pengacara Tom Lembong protes
+wavs/2513.wav|kok bisa tulisannya sama kalau pendapat sama sih wajar dia tapi kalau tulisannya sama persis
+wavs/2514.wav|plak-plak itu kebangetan namanya ya entah ada kesalahan atau enggak tapi yang jelas kebangetan
+wavs/2515.wav|sampai begitu ya itu namanya kebangetan ya coba kita nanti lihat ya jadi ada dua pendapat ahli
+wavs/2516.wav|pendapat ahli termohon ya dalam hal ini kejaksaan yaitu pendapat ahli dari Profesor
+wavs/2517.wav|Dr. Hibno Nugroho, SHM HUM, Guru Besar Fokus Komunitas Generasi, dan satunya lagi adalah
+wavs/2518.wav|dari Taufik Rahman SHL LMP HD sama juga ya coba kita lihat nanti ya dosen Fakultas Hukum
+wavs/2519.wav|Komunitas Air Langga coba kita nanti baca disandingkan nanti ya dua alinianya ya tapi
+wavs/2520.wav|kita mau bacakan beritanya dulu tim kuasa hukum Tom Lembong duga ada aksi ahli yang menjiplak
+wavs/2521.wav|bakal klarifikasi ke kampus ya oke coba kita kompas TV Jakarta kompas TV tim kuasa hukum Thomas
+wavs/2522.wav|Lembong tersangka kasus dugaan korupsi impor gula di Kementerian Perdagangan berencana mengklarifikasi
+wavs/2523.wav|kedua unitas negeri terkait dugaan penjiplakan keterangan tertulis saksi ahli di bidang pra-peradilan
+wavs/2524.wav|Tom Lembong Ari Subamir selaku anggota tim kuasa hukum Thomas Lembong menyampaikan hal itu seusai
+wavs/2525.wav|mendengarkan keterangan dua ahli yang diajukan di persidangan Jumat ya ini Hibno Nugroho dan
+wavs/2526.wav|Taufik Rahman menurut Ari pihaknya dibingungkan dengan keterangan tertulis dari kedua ahli yang
+wavs/2527.wav|sama persis hingga kesusunan kalimatnya yang kami bingungkan adalah ketika kami membaca antara
+wavs/2528.wav|keterangan ahli yang pertama dengan keterangan ahli yang selanjutnya persis sama ucapnya pada
+wavs/2529.wav|wartawan dikutip dari breaking news kompas TV sama semua kalimatnya sama titik komanya sama
+wavs/2530.wav|semua penggunaan istilahnya sama semua kalau pendapat boleh saja sama tapi kalau semua
+wavs/2531.wav|ketikannya sama berarti ada yang menjiplak satu salah satu ujarnya yang menambahkan karena
+wavs/2532.wav|keduanya merupakan akademisi dan guru besar di perguruan tinggi masing-masing pihaknya menghormati
+wavs/2533.wav|mereka kalau seandainya dalam pemberian keterangannya dalam penulisannya pun mereka
+wavs/2534.wav|sudah meragukan integritasnya bagaimana kita mau mengakui keahliannya ada beberapa yang dibalik
+wavs/2535.wav|dan untuk satu kata ada beberapa yang ditambah tapi selebihnya plak sama sama persis tuturnya
+wavs/2536.wav|menurutnya hal itu merupakan permasalahan akademis yang serius penjiplakan itu merupakan
+wavs/2537.wav|persalahan akademik yang serius sehingga ini akan dianggap sebagai plagiator tentunya oleh karena
+wavs/2538.wav|beliau beliau adalah ahli-ahli maka kami akan menanyakan pada umiditas masing-masing satu dari
+wavs/2539.wav|unair dan satu dari unsur kami menanyakan siapa yang mencontoh siapa harus diklarifikasi katanya
+wavs/2540.wav|kedua lanjut dia seandainya keterangan tertentu itu bukan hasil karya mereka yang menduga itu sudah
+wavs/2541.wav|itu adalah buatan jaksa berarti kan pihak jaksa yang membuat lo kok ini kok ini kok rekaya
+wavs/2542.wav|rekayasa lagi itu yang kita mau tanyakan kita ini sudah capek dengan rekayasa-rekayasa
+wavs/2543.wav|Ali itu memberikan keterangan sesuai dengan keahliannya bukan sesuai dengan keinginannya kalau
+wavs/2544.wav|itu rekayasa lagi kalau misalnya jaksa membuat tapi kalau ahli yang membuat siapa yang menjiplak
+wavs/2545.wav|siapa itu pertanyaan kita dia mengaku pihaknya meragukan keahlian kedua ahli yang dihadirkan
+wavs/2546.wav|dan memilih untuk tidak memberikan pertanyaan padahal sudah banyak pertanyaan yang disiapkan
+wavs/2547.wav|oleh karena itu kami tidak mengajukan pertanyaan harapan kami untuk sidang-sidang selanjutnya
+wavs/2548.wav|tolong hadirkan ahli yang benar-benar ahli jangan direkayasa jangan diatur-atur biarkan saja
+wavs/2549.wav|memberikan keterangan sesuai dengan keahliannya gitu ya sobat era sekalian saking ahlinya kemudian
+wavs/2550.wav|ngantuk saya jadinya tadi saya kasih polling ya setelah anis resmi keprano fpi hrs kerak air
+wavs/2551.wav|kasus mana yang anda pilih cek sekali lagi dua puluh empat ribu voting air kasus sembilan
+wavs/2552.wav|persen dharmakun lima persen pramo prano enam puluh persen grok gercos golput dua puluh enam
+wavs/2553.wav|persen wah tambah tambah ini ya tambah jaya abah ya coba kalau coba disandingkan ya keduanya itu ya
+wavs/2554.wav|pendapat ahli dalam perkara peradilan nomor seratus ratus tiga belas garis merek piti prado
+wavs/2555.wav|ribu empat pnjak karta selatan paling jakarta selatan oleh profesor dokter himmel groh shm home
+wavs/2556.wav|ya coba kita bacakan alimnya pertanyaan sama enggak dengan apa yang dituliskan oleh tofic
+wavs/2557.wav|rahman ya oleh tofic rahman dulu ini pendapat ahli dalam perkara peradilan nomor setis ratus
+wavs/2558.wav|tiga belas piti progres menengdua ribu dua empat geris meneng pnjk jk tislan paling jika
+wavs/2559.wav|selatan tofic rahman shll mphd pemohonan gugatan peradilan tidak sah karena tidak
+wavs/2560.wav|ditandatangani oleh pemohon walaupun kuasanya cacat formula bahwa pemeriksaan dalam peradilan
+wavs/2561.wav|adalah kuasi perdata sehingga menurut ketentuan pasal seratus empat delapan ayat satu akhir
+wavs/2562.wav|disebutkan bahwa gugatan perdata harus dimasukkan kepala negeri sesuai dengan kompetisi relatif dan
+wavs/2563.wav|dibuat dalam bentuk surat permohonan surat permintaan yang ditandatangani oleh penggugat
+wavs/2564.wav|atau wakilnya kuasanya dalam putusan Mahkamah Konstitusi nomor dua satu Puy coba dua-dua
+wavs/2565.wav|alet aletnya ini sama enggak ya oh iya sama permohonan gugatan peradilan tidak sah karena
+wavs/2566.wav|tidak ditandatangani oleh permohonan maupun kuasanya cacat formula bahwa pemeriksaan dalam
+wavs/2567.wav|peradilan adalah kuasi perdata sehingga menurut ketentuan pasal seratus lapan belas air satu
+wavs/2568.wav|akhir disebutkan bahwa gugatan perdata harus dimasukkan kepala pengadilan negeri sesuai dengan
+wavs/2569.wav|kompetisi relatif dan dibuat dalam bentuk surat permohonan surat permintaan ya mirip ya
+wavs/2570.wav|ha cuma ada bedanya tadi ya ada kata-kata yang ditandatangani oleh penggugat atau wakil
+wavs/2571.wav|kuasanya nggak ada ya cuma kecil-kecil aja ya ini kebangetan ya sebenarnya hal seperti ini
+wavs/2572.wav|memalukan ya bayangkan berarti dia mau menjebloskan orang-orang saja ya
+wavs/2573.wav|emkodari bocorkan ini akan terjadi jika kader PDP menampilkan Jakarta dan Jateng ini
+wavs/2574.wav|jubir istana atau pengamat politik enak banget hehehe betul-betul dia bikin analisis
+wavs/2575.wav|jadi dia dibiayai negara untuk menjadi pengamat politik itu enak banget ya kodari menjadi pengat
+wavs/2576.wav|pengamat politik dibiayai negara nanti ya dia akan bilang nggak ada biaya negara saya udah
+wavs/2577.wav|kaya hehehe kodari kan selalu mengatakan dirinya udah kaya dari dulu
+wavs/2578.wav|ya sama dengan sekalian ya bisa dibandingkan ya unfortunately ya fortunately coba ini satu ini
+wavs/2579.wav|kalau bisa disampingkan kiri-kanan coba jadi kalau bisa disampingkan kiri-kanan kita
+wavs/2580.wav|kan bisa lihat tuh paling tidak kali pertama kali kedua kalau di biasanya kan sama itu kalau
+wavs/2581.wav|dia di tengah ini kalau di awalnya saja sudah sama orang kebangetan orang ini profesor ini
+wavs/2582.wav|malasnya ya kan atau sudah didiktirkan oleh kejaksaan ya oke sambil ini sambil kita baca ya
+wavs/2583.wav|refli Harun katanya anti lapor melapor polisi bagaimana tanggapannya tentang lawyer Tom Lembong
+wavs/2584.wav|yang akan melaporkan saksi ahli jaksa ke poda karena kesaksian palsu dan rekayasa jaksa masalah
+wavs/2585.wav|begini mau dimaafkan ya itu urusan masing-masing lah ini kan beda kan ini kan ini kan bukan
+wavs/2586.wav|pencemaran nama baik bro kalau pencemaran nama baik tuh delik aduan kalau ini ya kejahatan lah
+wavs/2587.wav|menjiplak tetapi paling tidak ya jangan didekati sudut pidana sebenarnya ya ini kiri-kanannya
+wavs/2588.wav|sama ya di dalam putusan mahkamah konstitusi nomor dua terjadi perluasan objek jadi terjadi
+wavs/2589.wav|perluasan objek jadi kurang lebih ya sama kalau kita lihat satu dan dua ini ya
+wavs/2590.wav|kasus ini sama seperti kesaksian terutama guru disidang ijasa palsu Jokowi dulu yang sama
+wavs/2591.wav|persis dengan saksi jaksa lainnya ini permainan yang sudah lazim oleh kejaksaan ya persis sama
+wavs/2592.wav|jawabannya sama gitu ya tapi kok mbok yang namanya Hakim itu punya hati nurani itu loh
+wavs/2593.wav|bagaimana preisi RH apakah Hakim akan membebaskan Tom Lembong kalau Tom Lembong itu bagian dari
+wavs/2594.wav|oligarki udah pasti lolos seperti orang kemarin bilang oh ini kalau edi hiarits lolos kemudian
+wavs/2595.wav|si paman birin lolos karena punya baking oligarki ya tapi ini nggak ngerti saya jadi inget
+wavs/2596.wav|sambal yang rekayasa kesaksian di kantong nih anak tiga pun bisa baca teori doang luar biasa
+wavs/2597.wav|ya sama dengan sekalian saya tidak tahu ya mau diapakan keterangan yang sama ini tapi ini hal
+wavs/2598.wav|yang aneh ya hal yang kok bisa gitu loh jadi ya jadi saya ini sebuah bukan soal lapor atau tidak
+wavs/2599.wav|ya tetapi ini perbuatan yang pastinya tercelah itu saja soalnya sekalian mudah-mudahan ini
+wavs/2600.wav|memberikan pembelajaran bagi kita dan ini harus menjadi hal yang serius dicatat oleh fakultasnya
+wavs/2601.wav|ya bila perlu diberikan sanksi dicabut tugelar guru besarnya kalau joke sudah sudah jiplak di
+wavs/2602.wav|pengadilan pula ya jadi ahlinya atau kalau memang itu disiapkan oleh kejaksaan kejaksaannya pun
+wavs/2603.wav|harus ada apa ada punishmentnya buat pimpinannya begitu ya kalau kita mau betul-betul menegakkan
+wavs/2604.wav|prinsip negara hukum martabat etika publik dan lain sebagainya itu saja soalnya sekalian ya
+wavs/2605.wav|ini tures jadi saya istirahat dulu nanti kita lanjutkan mungkin malam nanti besok pagi walau
+wavs/2606.wav|wassalamualaikum warahmatullahi wabarakatuh keren cada secia
+wavs/2607.wav|Assalamualaikum warahmatullahi wabarakatuh
+wavs/2608.wav|Sobat RHS kalian
+wavs/2609.wav|Jumpa lagi kita di channel yang keren ini
+wavs/2610.wav|Keren cadas
+wavs/2611.wav|Ya, sobat RHS kalian, saya senang ya
+wavs/2612.wav|Saya tidak ngantuk, kalau kemarin ngantuk banget
+wavs/2613.wav|Jadi, kita tidak ngantuk, kita ambil video ya
+wavs/2614.wav|Dan ini menarik ya videonya
+wavs/2615.wav|Karena ini bicara tentang
+wavs/2616.wav|Connie Rahakundini Bakri
+wavs/2617.wav|Ngaku punya info A-Satu
+wavs/2618.wav|Sebut hasto Kristianto dalam bahaya
+wavs/2619.wav|Bakal jadi tersangke
+wavs/2620.wav|Katanya ya
+wavs/2621.wav|Tersangkah
+wavs/2622.wav|Oke, coba kita bacakan ya
+wavs/2623.wav|Dan tadi videonya sudah di setel ya
+wavs/2624.wav|Ya, tadi ya
+wavs/2625.wav|Ada tadi?
+wavs/2626.wav|Belum ya, nanti coba cari videonya kalau ada ya
+wavs/2627.wav|Karena dia menyampaikan ini di podcast ya
+wavs/2628.wav|Kilat.com
+wavs/2629.wav|Connie Rahakundini Bakri mendadak buat geger
+wavs/2630.wav|Usai mengaku memiliki info A-Satu
+wavs/2631.wav|Pasalnya dalam keterangan yang diberikan
+wavs/2632.wav|Connie mengaku bahwa
+wavs/2633.wav|Ia mengetahui informasi adanya tindakan
+wavs/2634.wav|Yang ingin membuat hasto Kristianto
+wavs/2635.wav|Berurusan dengan hukum
+wavs/2636.wav|Hal tersebut disampaikan oleh Connie R. Bakri
+wavs/2637.wav|Selaku analis militer dan pertahanan
+wavs/2638.wav|Di kanal Youtube Akbar Faizal Uncensor
+wavs/2639.wav|Dalam perbincangannya
+wavs/2640.wav|Connie menceritakan bahwa
+wavs/2641.wav|Ia mendapatkan pesan dari seseorang
+wavs/2642.wav|Yang tak ingin disebutkan namanya
+wavs/2643.wav|Ia menjelaskan bahwa
+wavs/2644.wav|Hasto Kristianto tengah dalam bahaya
+wavs/2645.wav|Ketika saya diminta ketemu
+wavs/2646.wav|Mbak, gua punya berita A-Satu tentang sahabat lu
+wavs/2647.wav|Wah, sahabat gue?
+wavs/2648.wav|Siapa nih sahabat gue? Banyak kayaknya
+wavs/2649.wav|Iya, sahabat gue banget. Hasto ujarnya
+wavs/2650.wav|Ini sahabat gue banget
+wavs/2651.wav|Mengetahui hal tersebut, Connie pun merasa penasaran
+wavs/2652.wav|Dan terus menceritakan apa yang dimaksud dari sosok tersebut
+wavs/2653.wav|Connie memaparkan bahwa
+wavs/2654.wav|Ternyata hasto diminta untuk berhenti bersuara keras
+wavs/2655.wav|Khususnya dalam hal pilkadan
+wavs/2656.wav|Luar biasa ya
+wavs/2657.wav|Ditekankan oleh Connie
+wavs/2658.wav|Bahwa ia diminta untuk memperingatkan
+wavs/2659.wav|Hasto agar tidak lagi bersuara khususnya
+wavs/2660.wav|Bagi wilayah Sumatera Utara
+wavs/2661.wav|Jawa Tengah dan DKI Jakarta
+wavs/2662.wav|Bukan tanpa sebab
+wavs/2663.wav|Connie mengaku bahwa sosok yang tak disebutkan namanya tersebut
+wavs/2664.wav|Mengungkap bahwa
+wavs/2665.wav|Hasto Cristianto akan dijadikan
+wavs/2666.wav|Seorang tersangka dan berkaitan dengan
+wavs/2667.wav|Kasus hukum jika masih bersuara
+wavs/2668.wav|Terkait dengan pilkada
+wavs/2669.wav|Berhenti suara keras karena file-nya itu sudah siap
+wavs/2670.wav|Bahwa beliau hasto itu tersangka
+wavs/2671.wav|Itu tinggal diumumkan
+wavs/2672.wav|Ungkap Connie Erbakri terkait dengan
+wavs/2673.wav|Informasi A-Satu untuk Hasto Cristianto tersebut
+wavs/2674.wav|Menyedihkan banget
+wavs/2675.wav|Negara ini kalau begitu ya
+wavs/2676.wav|Jadi sahabat daerah sekalian
+wavs/2677.wav|Ini apa bedanya dengan zaman Muliono ya
+wavs/2678.wav|Kalau seandainya
+wavs/2679.wav|Tiba-tiba ada orang yang mengatakan
+wavs/2680.wav|Kalau anda ngomong A
+wavs/2681.wav|Anda akan jadi tersangka
+wavs/2682.wav|Ini kan pekerjaannya Muliono nih kan
+wavs/2683.wav|Kalau yang begini-beginian ya
+wavs/2684.wav|Kok bisa begitu?
+wavs/2685.wav|Saya
+wavs/2686.wav|Tidak habis pikir ya
+wavs/2687.wav|Ternyata tidak ada bedanya
+wavs/2688.wav|Dengan Muliono ya
+wavs/2689.wav|Jadi sahabat daerah sekalian
+wavs/2690.wav|Kalau kita
+wavs/2691.wav|Lihat masa pemerintahan
+wavs/2692.wav|Prabowo Subianto ini
+wavs/2693.wav|Maka
+wavs/2694.wav|Terus terang saja sampai hari ini
+wavs/2695.wav|Saya belum melihat
+wavs/2696.wav|Ada satu perbedaan yang signifikan
+wavs/2697.wav|Dengan pemerintahan yang sebelumnya
+wavs/2698.wav|Ancamannya sama
+wavs/2699.wav|Mereka yang berpendapat
+wavs/2700.wav|Mereka yang
+wavs/2701.wav|Bersuara lain dengan pemerintah
+wavs/2702.wav|Itu bisa di ancam untuk
+wavs/2703.wav|Ditersangkakan
+wavs/2704.wav|Saya tidak tahu kok bisa begitu ya
+wavs/2705.wav|Hasto sebagai
+wavs/2706.wav|Orang partai pejabat publik
+wavs/2707.wav|Pasti tidak clear ya
+wavs/2708.wav|Pasti ada hal-hal yang
+wavs/2709.wav|Berangkali bisa dieksploitasi
+wavs/2710.wav|Sebagaimana Anies dieksploitasi
+wavs/2711.wav|Dengan formula E nya
+wavs/2712.wav|Atau Denny Indrayana dieksploitasi
+wavs/2713.wav|Dengan payment gateway nya yang
+wavs/2714.wav|Status tersangkanya
+wavs/2715.wav|Tidak pernah dicabut
+wavs/2716.wav|Tidak pernah di SP tiga kan
+wavs/2717.wav|Walaupun sudah sepuluh tahun tetapi
+wavs/2718.wav|Begitu ngomong
+wavs/2719.wav|Sudah mulai
+wavs/2720.wav|Nah pertanyaannya adalah
+wavs/2721.wav|Kok bisa begitu ya
+wavs/2722.wav|Negara kita ini
+wavs/2723.wav|Jadi menyandrak orang itu adalah
+wavs/2724.wav|Pekerjaannya Muliono selama sepuluh tahun
+wavs/2725.wav|Masa pemerintahan
+wavs/2726.wav|Prabowo Subianto mau melanjutkan juga
+wavs/2727.wav|Walaupun dalam kasus
+wavs/2728.wav|Denny Indrayana saya melihat ada
+wavs/2729.wav|Kecendungan arah itu
+wavs/2730.wav|Negara ini aneh
+wavs/2731.wav|Orang yang korup orang yang bermain
+wavs/2732.wav|Katakanlah kegiatan
+wavs/2733.wav|Bisnis ilegal
+wavs/2734.wav|Gak ada apa-apain tapi mereka yang
+wavs/2735.wav|Mengkritik mereka yang mau menegakkan
+wavs/2736.wav|Good governance ya tapi
+wavs/2737.wav|Gak aneh begitu lah negara-negara
+wavs/2738.wav|Korup dimanapun di dunia ini
+wavs/2739.wav|Karena itu
+wavs/2740.wav|Menjadikan yang terpilih sebagai
+wavs/2741.wav|Pimpinan KPK dan lain sebagainya
+wavs/2742.wav|Terus terang saja
+wavs/2743.wav|Kalau mau jujur saya belum merasakan
+wavs/2744.wav|Masa pemerintahan
+wavs/2745.wav|Prabowo Subianto ini berada
+wavs/2746.wav|On the right track
+wavs/2747.wav|Kalau kasusnya Tom Lembong
+wavs/2748.wav|Kalau kasusnya Denny Indrayana
+wavs/2749.wav|Itu kelihatan betul kan
+wavs/2750.wav|Ada upaya kriminalisasi
+wavs/2751.wav|Termasuk juga dalam hal
+wavs/2752.wav|Misalnya
+wavs/2753.wav|Pembentukan kabinet
+wavs/2754.wav|Sama saja
+wavs/2755.wav|Kekesalan
+wavs/2756.wav|Baik Prabowo maupun SBY
+wavs/2757.wav|Terhadap
+wavs/2758.wav|Badan
+wavs/2759.wav|Intelligent
+wavs/2760.wav|Yang menyasar
+wavs/2761.wav|Kepada lawan politik
+wavs/2762.wav|Instead of musuh-musuh negara yang
+wavs/2763.wav|Real kan sudah dikeluhkan
+wavs/2764.wav|Tapi ya di rekrut
+wavs/2765.wav|Juga jadi menteri kan aneh juga rasanya
+wavs/2766.wav|Ya
+wavs/2767.wav|Dia mengeluhkan
+wavs/2768.wav|Soal macam-macam yang
+wavs/2769.wav|Terkait dengan penguasa ekonomi dan lain
+wavs/2770.wav|Sebagainya tapi di rekrut juga orang-orang
+wavs/2771.wav|Yang dekat dengan konglomerat
+wavs/2772.wav|Orang-orang yang selama ini memunculkan ketimpangan
+wavs/2773.wav|Bahkan diberikan karpet merah
+wavs/2774.wav|Seolah-olah bahwa
+wavs/2775.wav|Mereka benevolent mereka akan
+wavs/2776.wav|Menjadi orang yang baik untuk membagi
+wavs/2777.wav|Mendistribusikan asetnya
+wavs/2778.wav|Cherity mereka
+wavs/2779.wav|Hanya berapa persen dari
+wavs/2780.wav|Potensi kekayaan negara yang mereka
+wavs/2781.wav|Ambil kan begitu
+wavs/2782.wav|Jadi sobat darah sekalian
+wavs/2783.wav|Anda
+wavs/2784.wav|Kalau misalnya hasto mau ditersangkakan
+wavs/2785.wav|Ya saya kira saya sudah dari kemarin-kemarin
+wavs/2786.wav|Dan kadangpun
+wavs/2787.wav|Hasto melawan saya apresiasi
+wavs/2788.wav|Tidak takut
+wavs/2789.wav|Kita butuh orang yang berani bersuara
+wavs/2790.wav|Walaupun ada resikonya
+wavs/2791.wav|Nah memang resikonya adalah ketika
+wavs/2792.wav|Anda pernah menjabat seperti Denny Indrayana
+wavs/2793.wav|Maka Anda bisa dicari
+wavs/2794.wav|Kelemahannya Anis
+wavs/2795.wav|Dicari-cari kelemahannya
+wavs/2796.wav|Siapapun whoever
+wavs/2797.wav|Saya kira
+wavs/2798.wav|Dalam konstek tertentu
+wavs/2799.wav|Ya
+wavs/2800.wav|Yang namanya politik cari kelemahan itu
+wavs/2801.wav|Tidak hanya perilaku Jokowi
+wavs/2802.wav|Tapi juga perilaku partai-partai politik
+wavs/2803.wav|Ketika Nasdam dikasih
+wavs/2804.wav|Jabatan Jaksa Agung
+wavs/2805.wav|Betul itu dijadikan juga
+wavs/2806.wav|Sejata untuk menundukkan
+wavs/2807.wav|Kepala-kepala daerah agar bergabung jadi
+wavs/2808.wav|Haa Bodoai ya
+wavs/2809.wav|Jadi kalau kita enggak punya komitmen
+wavs/2810.wav|Untuk meletakkan
+wavs/2811.wav|Good Governance
+wavs/2812.wav|Dan Clean Government
+wavs/2813.wav|Agak susah juga ya
+wavs/2814.wav|Agak susah juga. Coba kita bacakan ya
+wavs/2815.wav|Kementara sobat era sekalian terkait
+wavs/2816.wav|Dengan apa yang disampaikan
+wavs/2817.wav|Connie Bakri ini ya
+wavs/2818.wav|Pilkada gubernur
+wavs/2819.wav|Sumselbung RH dukung siapa?
+wavs/2820.wav|Saya enggak tahu siapa saja calonnya ya
+wavs/2821.wav|Oh iya sorry sorry
+wavs/2822.wav|Ada siapa?
+wavs/2823.wav|Edison Tanah
+wavs/2824.wav|Ada siapa lagi?
+wavs/2825.wav|Ada yang wakil gubernurnya
+wavs/2826.wav|Mawardi, ada Herman Deru
+wavs/2827.wav|Saya
+wavs/2828.wav|Secara pribadi
+wavs/2829.wav|Kenal tiga-tiganya
+wavs/2830.wav|Karena itu saya tidak tahu harus pilih siapa
+wavs/2831.wav|Kenal sama Herman Deru
+wavs/2832.wav|Kenal sama Mawardi
+wavs/2833.wav|Malah Mawardi pernah jadi klien saya
+wavs/2834.wav|Kenal sama Edison Tanah juga
+wavs/2835.wav|Karena pernah menemui saya
+wavs/2836.wav|Jadi
+wavs/2837.wav|Kalau Herman Deru bahkan
+wavs/2838.wav|Pernah datang ke rumah saya di Palembang
+wavs/2839.wav|I don't know exactly
+wavs/2840.wav|Nanti kita lihat
+wavs/2841.wav|Kemudian
+wavs/2842.wav|Hasto baru
+wavs/2843.wav|Merasakan hal yang sama seperti dulu
+wavs/2844.wav|Ketika masih bagian dari Jokowi
+wavs/2845.wav|Wakakakak
+wavs/2846.wav|Tidak justified juga
+wavs/2847.wav|Kalau kita dendam-dendam
+wavs/2848.wav|Sudah busuk ikan dari kepala
+wavs/2849.wav|Apa yang ditunggu-tunggu?
+wavs/2850.wav|Prabowo tutup mata terhadap Fufufafa
+wavs/2851.wav|Menteri suka-suka, aturan suka-suka
+wavs/2852.wav|Jokowi besar ada di PDI
+wavs/2853.wav|Jokowi kecil, ya Jokowi
+wavs/2854.wav|Rakyat tidak mendukung pejabat yang korup
+wavs/2855.wav|Biar dari partai apapun, tangkap
+wavs/2856.wav|Kita harus support Pak Prabowo
+wavs/2857.wav|Supaya menjadi dirinya sendiri
+wavs/2858.wav|Walaupun saya tahu ada kekuatan besar
+wavs/2859.wav|Yang membuat Pak Prabowo tidak menjadi dirinya sendiri
+wavs/2860.wav|Is it?
+wavs/2861.wav|Kok cemen banget?
+wavs/2862.wav|Cemen banget, kalau kita jangan jadi presiden dong
+wavs/2863.wav|Kalau tidak bisa menjadi diri sendiri
+wavs/2864.wav|Karena dijepit oleh kekuatan
+wavs/2865.wav|Kita cari orang yang melawan
+wavs/2866.wav|Memang punya kekuatan
+wavs/2867.wav|Pemimpin menang secara dimenangkan wasit
+wavs/2868.wav|Sejatinya tidak akan komit dengan janjinya
+wavs/2869.wav|Bung Erha saya tanya
+wavs/2870.wav|Bagaimana skenario Jikalau nanti dominan gercos?
+wavs/2871.wav|Ya enggak ada pengaruhnya gercos itu
+wavs/2872.wav|Karena tidak dikasih tempat oleh MK
+wavs/2873.wav|Untuk diulang pilgadanya
+wavs/2874.wav|Dulu Hasto berkolaborasi dengan Pak Jokowi mengkriminalisasi ulama
+wavs/2875.wav|Giliran datang karma mewek
+wavs/2876.wav|Enggak bisa begitu
+wavs/2877.wav|Saya tidak pernah mengatakan bahwa
+wavs/2878.wav|Karena dulu anda mengkriminalisasi orang
+wavs/2879.wav|Maka sekarang anda dikriminalisasi balik
+wavs/2880.wav|Enggak bisa begitu
+wavs/2881.wav|Kemudian jika Hasto dipersangkakan bisa buka-bukaankah?
+wavs/2882.wav|Ya tergantung
+wavs/2883.wav|Kalau dia diintimidasi
+wavs/2884.wav|Kemudian
+wavs/2885.wav|Kalau Hasto berani melawan bisa jadi Hasto sebenarnya tahu
+wavs/2886.wav|Bahwa ancaman itu sesungguhnya tidak ada
+wavs/2887.wav|Sehingga Hasto berani melawan
+wavs/2888.wav|Saya tidak tahu
+wavs/2889.wav|Semalam di podcastnya Akbar Faisal lengkap tuh
+wavs/2890.wav|Ulasannya satu jam lebih
+wavs/2891.wav|Ya silahkan saja
+wavs/2892.wav|Jadi sobreran sekalian
+wavs/2893.wav|Saya mengulas dari sisi saya tentunya
+wavs/2894.wav|Karena terus terang saja
+wavs/2895.wav|Hasto mau apa
+wavs/2896.wav|Sekarang kalau dia berani melawan Jokowi
+wavs/2897.wav|Berani melawan pemerintahan yang tidak benar
+wavs/2898.wav|Maka kawan saya
+wavs/2899.wav|Tapi kalau tidak melawan ya berarti bukan kawan
+wavs/2900.wav|Jadi kita melihat value ya
+wavs/2901.wav|Jadi tidak melihat masa lalu
+wavs/2902.wav|Karena kalau melihat masa lalu banyak sekali
+wavs/2903.wav|Masa lalu dulu saya
+wavs/2904.wav|Dukung Jokowi karena saya pikir
+wavs/2905.wav|Jokowi orang baik
+wavs/2906.wav|Tapi ternyata kan tidak
+wavs/2907.wav|Tapi kan tidak mungkin juga saya dukung Prabowo
+wavs/2908.wav|Bahkan di tahun dua ribu dua empat pun
+wavs/2909.wav|Saya tidak dukung Prabowo
+wavs/2910.wav|Jadi sobreran sekalian
+wavs/2911.wav|Bagi saya dukung mendukung itu
+wavs/2912.wav|Tidak benci dan tidak benci
+wavs/2913.wav|Tetapi saya melihat value orangnya
+wavs/2914.wav|Kalau Prabowo tidak bertindak apa-apa
+wavs/2915.wav|Untuk pemberantasan korupsi kelihatan
+wavs/2916.wav|Prabowo terbelenggu
+wavs/2917.wav|Masa kita
+wavs/2918.wav|Mau mengandalkan pemimpin yang terbelenggu
+wavs/2919.wav|Kan tidak mestinya
+wavs/2920.wav|Begitu ya sobreran sekalian
+wavs/2921.wav|Itu saja
+wavs/2922.wav|Saya harus
+wavs/2923.wav|My wife calling me
+wavs/2924.wav|My wife is calling me
+wavs/2925.wav|To have a dinner
+wavs/2926.wav|But not outside
+wavs/2927.wav|Just at home
+wavs/2928.wav|Karena katanya sudah kemalaman
+wavs/2929.wav|Begitu sobreran sekalian
+wavs/2930.wav|Selamat ya buat Jojo
+wavs/2931.wav|Jonathan Christy dan kemudian Sabar Karyaman
+wavs/2932.wav|Akhirnya saya semangat lagi
+wavs/2933.wav|Melihat blue tankis
+wavs/2934.wav|Walaupun ya nanti finalnya kita tidak tahu
+wavs/2935.wav|Tapi yang paling penting keren
+wavs/2936.wav|Jojo dan Sabar Karyaman
+wavs/2937.wav|Jojo
+wavs/2938.wav|Tiga berturut-turut mengalahkan
+wavs/2939.wav|Tiga pemain China termasuk si Yuki
+wavs/2940.wav|Sabar Karyaman
+wavs/2941.wav|Mengalahkan ranking satu dan
+wavs/2942.wav|Ranking tiga dunia
+wavs/2943.wav|Blue tankis dan termasuk juga
+wavs/2944.wav|Ganda quad Malaysia
+wavs/2945.wav|Mudah-mudahan ya baik jalannya
+wavs/2946.wav|Itu saja sobreran sekalian
+wavs/2947.wav|Wassalamualaikum warahmatullahi wabarakatuh
+wavs/2948.wav|Keren
+wavs/2949.wav|Jadah
